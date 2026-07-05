@@ -17,6 +17,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Checkout existing data (to prevent re-downloading images)
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: data
+          path: data
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
