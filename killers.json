@@ -1,0 +1,260 @@
+[
+  {
+    "name": "The Trapper",
+    "realName": "Evan MacMillan",
+    "imgUrl": "/images/K01_TheTrapper_Portrait.png",
+    "power": "Bear Traps"
+  },
+  {
+    "name": "The Wraith",
+    "realName": "Philip Ojomo",
+    "imgUrl": "/images/K02_TheWraith_Portrait.png",
+    "power": "Wailing Bell"
+  },
+  {
+    "name": "The Hillbilly",
+    "realName": "Max Thompson Jr.",
+    "imgUrl": "/images/K03_TheHillbilly_Portrait.png",
+    "power": "Chainsaw"
+  },
+  {
+    "name": "The Nurse",
+    "realName": "Sally Smithson",
+    "imgUrl": "/images/K04_TheNurse_Portrait.png",
+    "power": "Spencer's Last Breath"
+  },
+  {
+    "name": "The Shape",
+    "realName": "Michael Myers",
+    "imgUrl": "/images/K05_TheShape_Portrait.png",
+    "power": "Evil Within"
+  },
+  {
+    "name": "The Hag",
+    "realName": "Lisa Sherwood",
+    "imgUrl": "/images/K06_TheHag_Portrait.png",
+    "power": "Blackened Catalyst"
+  },
+  {
+    "name": "The Doctor",
+    "realName": "Herman Carter",
+    "imgUrl": "/images/K07_TheDoctor_Portrait.png",
+    "power": "Carter's Spark"
+  },
+  {
+    "name": "The Huntress",
+    "realName": "Anna",
+    "imgUrl": "/images/K08_TheHuntress_Portrait.png",
+    "power": "Hunting Hatchets"
+  },
+  {
+    "name": "The Cannibal",
+    "realName": "Bubba Sawyer",
+    "imgUrl": "/images/K09_TheCannibal_Portrait.png",
+    "power": "Bubba's Chainsaw"
+  },
+  {
+    "name": "The Nightmare",
+    "realName": "Freddy Krueger",
+    "imgUrl": "/images/K10_TheNightmare_Portrait.png",
+    "power": "Dream Demon"
+  },
+  {
+    "name": "The Pig",
+    "realName": "Amanda Young",
+    "imgUrl": "/images/K11_ThePig_Portrait.png",
+    "power": "Jigsaw's Baptism"
+  },
+  {
+    "name": "The Clown",
+    "realName": "Kenneth Chase",
+    "imgUrl": "/images/K12_TheClown_Portrait.png",
+    "power": "The Afterpiece Tonic"
+  },
+  {
+    "name": "The Spirit",
+    "realName": "Rin Yamaoka",
+    "imgUrl": "/images/K13_TheSpirit_Portrait.png",
+    "power": "Yamaoka's Haunting"
+  },
+  {
+    "name": "The Legion",
+    "realName": "Frank, Julie, Susie, Joey",
+    "imgUrl": "/images/K14_TheLegion_Portrait.png",
+    "power": "Feral Frenzy"
+  },
+  {
+    "name": "The Plague",
+    "realName": "Adiris",
+    "imgUrl": "/images/K15_ThePlague_Portrait.png",
+    "power": "Vile Purge"
+  },
+  {
+    "name": "The Ghost Face",
+    "realName": "Danny Johnson",
+    "imgUrl": "/images/K16_TheGhostFace_Portrait.png",
+    "power": "Night Shroud"
+  },
+  {
+    "name": "The Demogorgon",
+    "realName": "Demogorgon",
+    "imgUrl": "/images/K17_TheDemogorgon_Portrait.png",
+    "power": "Of the Abyss"
+  },
+  {
+    "name": "The Oni",
+    "realName": "Kazan Yamaoka",
+    "imgUrl": "/images/K18_TheOni_Portrait.png",
+    "power": "Yamaoka's Wrath"
+  },
+  {
+    "name": "The Deathslinger",
+    "realName": "Caleb Quinn",
+    "imgUrl": "/images/K19_TheDeathslinger_Portrait.png",
+    "power": "The Redeemer"
+  },
+  {
+    "name": "The Executioner",
+    "realName": "Pyramid Head",
+    "imgUrl": "/images/K20_TheExecutioner_Portrait.png",
+    "power": "Rites of Judgement"
+  },
+  {
+    "name": "The Blight",
+    "realName": "Talbot Grimes",
+    "imgUrl": "/images/K21_TheBlight_Portrait.png",
+    "power": "Blighted Corruption"
+  },
+  {
+    "name": "The Twins",
+    "realName": "Charlotte & Victor Deshayes",
+    "imgUrl": "/images/K22_TheTwins_Portrait.png",
+    "power": "Blood Bond"
+  },
+  {
+    "name": "The Trickster",
+    "realName": "Hak Ji-woon",
+    "imgUrl": "/images/K23_TheTrickster_Portrait.png",
+    "power": "Showstopper"
+  },
+  {
+    "name": "The Nemesis",
+    "realName": "Nemesis T-Type",
+    "imgUrl": "/images/K24_TheNemesis_Portrait.png",
+    "power": "T-Virus"
+  },
+  {
+    "name": "The Cenobite",
+    "realName": "Elliot Spencer",
+    "imgUrl": "/images/K25_TheCenobite_Portrait.png",
+    "power": "Summons of Pain"
+  },
+  {
+    "name": "The Artist",
+    "realName": "Carmina Mora",
+    "imgUrl": "/images/K26_TheArtist_Portrait.png",
+    "power": "Birds of Torment"
+  },
+  {
+    "name": "The Onryō",
+    "realName": "Sadako Yamamura",
+    "imgUrl": "/images/K27_TheOnryo_Portrait.png",
+    "power": "Deluge of Fear"
+  },
+  {
+    "name": "The Dredge",
+    "realName": "Dredge",
+    "imgUrl": "/images/K28_TheDredge_Portrait.png",
+    "power": "Reign of Darkness"
+  },
+  {
+    "name": "The Mastermind",
+    "realName": "Albert Wesker",
+    "imgUrl": "/images/K29_TheMastermind_Portrait.png",
+    "power": "Virulent Bound"
+  },
+  {
+    "name": "The Knight",
+    "realName": "Tarhos Kovács",
+    "imgUrl": "/images/K30_TheKnight_Portrait.png",
+    "power": "Guardia Compagnia"
+  },
+  {
+    "name": "The Skull Merchant",
+    "realName": "Adriana Imai",
+    "imgUrl": "/images/K31_TheSkullMerchant_Portrait.png",
+    "power": "Eyes in the Sky"
+  },
+  {
+    "name": "The Singularity",
+    "realName": "HUX-A7-13",
+    "imgUrl": "/images/K32_TheSingularity_Portrait.png",
+    "power": "Quantum Instantiation"
+  },
+  {
+    "name": "The Xenomorph",
+    "realName": "Xenomorph",
+    "imgUrl": "/images/K33_TheXenomorph_Portrait.png",
+    "power": "Hidden Pursuit"
+  },
+  {
+    "name": "The Good Guy",
+    "realName": "Charles Lee Ray",
+    "imgUrl": "/images/K34_TheGoodGuy_Portrait.png",
+    "power": "Playtime's Over"
+  },
+  {
+    "name": "The Unknown",
+    "realName": "Unknown",
+    "imgUrl": "/images/K35_TheUnknown_Portrait.png",
+    "power": "UVX"
+  },
+  {
+    "name": "The Lich",
+    "realName": "Vecna",
+    "imgUrl": "/images/K36_TheLich_Portrait.png",
+    "power": "Vile Darkness"
+  },
+  {
+    "name": "The Dark Lord",
+    "realName": "Dracula",
+    "imgUrl": "/images/K37_TheDarkLord_Portrait.png",
+    "power": "Vampiric Shift"
+  },
+  {
+    "name": "The Houndmaster",
+    "realName": "Portia Maye",
+    "imgUrl": "/images/K38_TheHoundmaster_Portrait.png",
+    "power": "Scent of Blood"
+  },
+  {
+    "name": "The Ghoul",
+    "realName": "Ken Kaneki",
+    "imgUrl": "/images/K39_TheGhoul_Portrait.png",
+    "power": "One-Eyed Terror"
+  },
+  {
+    "name": "The Animatronic",
+    "realName": "William Afton",
+    "imgUrl": "/images/K40_TheAnimatronic_Portrait.png",
+    "power": "Fazbear's Fright"
+  },
+  {
+    "name": "The Krasue",
+    "realName": "Burong Sukapat",
+    "imgUrl": "/images/K41_TheKrasue_Portrait.png",
+    "power": "Unbodied Flesh"
+  },
+  {
+    "name": "The First",
+    "realName": "Henry Creel",
+    "imgUrl": "/images/K42_TheFirst_Portrait.png",
+    "power": "Test Subject #001"
+  },
+  {
+    "name": "The Slasher",
+    "realName": "Jason Voorhees",
+    "imgUrl": "/images/K43_TheSlasher_Portrait.png",
+    "power": "Omnipresent Evil"
+  }
+]

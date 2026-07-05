@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Dwight Fairfield",
+    "imgUrl": "/images/S01_DwightFairfield_Portrait.png"
+  },
+  {
+    "name": "Meg Thomas",
+    "imgUrl": "/images/S02_MegThomas_Portrait.png"
+  },
+  {
+    "name": "Claudette Morel",
+    "imgUrl": "/images/S03_ClaudetteMorel_Portrait.png"
+  },
+  {
+    "name": "Jake Park",
+    "imgUrl": "/images/S04_JakePark_Portrait.png"
+  },
+  {
+    "name": "Nea Karlsson",
+    "imgUrl": "/images/S05_NeaKarlsson_Portrait.png"
+  },
+  {
+    "name": "Laurie Strode",
+    "imgUrl": "/images/S06_LaurieStrode_Portrait.png"
+  },
+  {
+    "name": "Ace Visconti",
+    "imgUrl": "/images/S07_AceVisconti_Portrait.png"
+  },
+  {
+    "name": "Bill Overbeck",
+    "imgUrl": "/images/S08_BillOverbeck_Portrait.png"
+  },
+  {
+    "name": "Feng Min",
+    "imgUrl": "/images/S09_FengMin_Portrait.png"
+  },
+  {
+    "name": "David King",
+    "imgUrl": "/images/S10_DavidKing_Portrait.png"
+  },
+  {
+    "name": "Quentin Smith",
+    "imgUrl": "/images/S11_QuentinSmith_Portrait.png"
+  },
+  {
+    "name": "David Tapp",
+    "imgUrl": "/images/S12_DavidTapp_Portrait.png"
+  },
+  {
+    "name": "Kate Denson",
+    "imgUrl": "/images/S13_KateDenson_Portrait.png"
+  },
+  {
+    "name": "Adam Francis",
+    "imgUrl": "/images/S14_AdamFrancis_Portrait.png"
+  },
+  {
+    "name": "Jeff Johansen",
+    "imgUrl": "/images/S15_JeffJohansen_Portrait.png"
+  },
+  {
+    "name": "Jane Romero",
+    "imgUrl": "/images/S16_JaneRomero_Portrait.png"
+  },
+  {
+    "name": "Ash Williams",
+    "imgUrl": "/images/S17_AshWilliams_Portrait.png"
+  },
+  {
+    "name": "Nancy Wheeler",
+    "imgUrl": "/images/S18_NancyWheeler_Portrait.png"
+  },
+  {
+    "name": "Steve Harrington",
+    "imgUrl": "/images/S19_SteveHarrington_Portrait.png"
+  },
+  {
+    "name": "Yui Kimura",
+    "imgUrl": "/images/S20_YuiKimura_Portrait.png"
+  },
+  {
+    "name": "Zarina Kassir",
+    "imgUrl": "/images/S21_ZarinaKassir_Portrait.png"
+  },
+  {
+    "name": "Cheryl Mason",
+    "imgUrl": "/images/S22_CherylMason_Portrait.png"
+  },
+  {
+    "name": "Felix Richter",
+    "imgUrl": "/images/S23_FelixRichter_Portrait.png"
+  },
+  {
+    "name": "Élodie Rakoto",
+    "imgUrl": "/images/S24_ElodieRakoto_Portrait.png"
+  },
+  {
+    "name": "Lee Yun-jin",
+    "imgUrl": "/images/S25_LeeYun-jin_Portrait.png"
+  },
+  {
+    "name": "Jill Valentine",
+    "imgUrl": "/images/S26_JillValentine_Portrait.png"
+  },
+  {
+    "name": "Leon Scott Kennedy",
+    "imgUrl": "/images/S27_LeonScottKennedy_Portrait.png"
+  },
+  {
+    "name": "Mikaela Reid",
+    "imgUrl": "/images/S28_MikaelaReid_Portrait.png"
+  },
+  {
+    "name": "Jonah Vasquez",
+    "imgUrl": "/images/S29_JonahVasquez_Portrait.png"
+  },
+  {
+    "name": "Yoichi Asakawa",
+    "imgUrl": "/images/S30_YoichiAsakawa_Portrait.png"
+  },
+  {
+    "name": "Haddie Kaur",
+    "imgUrl": "/images/S31_HaddieKaur_Portrait.png"
+  },
+  {
+    "name": "Ada Wong",
+    "imgUrl": "/images/S32_AdaWong_Portrait.png"
+  },
+  {
+    "name": "Rebecca Chambers",
+    "imgUrl": "/images/S33_RebeccaChambers_Portrait.png"
+  },
+  {
+    "name": "Vittorio Toscano",
+    "imgUrl": "/images/S34_VittorioToscano_Portrait.png"
+  },
+  {
+    "name": "Thalita Lyra",
+    "imgUrl": "/images/S35_ThalitaLyra_Portrait.png"
+  },
+  {
+    "name": "Renato Lyra",
+    "imgUrl": "/images/S36_RenatoLyra_Portrait.png"
+  },
+  {
+    "name": "Gabriel Soma",
+    "imgUrl": "/images/S37_GabrielSoma_Portrait.png"
+  },
+  {
+    "name": "Nicolas Cage",
+    "imgUrl": "/images/S38_NicolasCage_Portrait.png"
+  },
+  {
+    "name": "Ellen Ripley",
+    "imgUrl": "/images/S39_EllenRipley_Portrait.png"
+  },
+  {
+    "name": "Alan Wake",
+    "imgUrl": "/images/S40_AlanWake_Portrait.png"
+  },
+  {
+    "name": "Sable Ward",
+    "imgUrl": "/images/S41_SableWard_Portrait.png"
+  },
+  {
+    "name": "Aestri Yazar & Baermar Uraz",
+    "imgUrl": "/images/S42_TheTroupe_Portrait.png"
+  },
+  {
+    "name": "Lara Croft",
+    "imgUrl": "/images/S43_LaraCroft_Portrait.png"
+  },
+  {
+    "name": "Trevor Belmont",
+    "imgUrl": "/images/S44_TrevorBelmont_Portrait.png"
+  },
+  {
+    "name": "Taurie Cain",
+    "imgUrl": "/images/S45_TaurieCain_Portrait.png"
+  },
+  {
+    "name": "Orela Rose",
+    "imgUrl": "/images/S46_OrelaRose_Portrait.png"
+  },
+  {
+    "name": "Rick Grimes",
+    "imgUrl": "/images/S47_RickGrimes_Portrait.png"
+  },
+  {
+    "name": "Michonne Grimes",
+    "imgUrl": "/images/S48_MichonneGrimes_Portrait.png"
+  },
+  {
+    "name": "Vee Boonyasak",
+    "imgUrl": "/images/S49_VeeBoonyasak_Portrait.png"
+  },
+  {
+    "name": "Dustin Henderson",
+    "imgUrl": "/images/S50_DustinHenderson_Portrait.png"
+  },
+  {
+    "name": "Eleven",
+    "imgUrl": "/images/S51_Eleven_Portrait.png"
+  },
+  {
+    "name": "Kwon Tae-young",
+    "imgUrl": "/images/S52_KwonTae-young_Portrait.png"
+  },
+  {
+    "name": "Shane Wiigwaas",
+    "imgUrl": "/images/S53_ShaneWiigwaas_Portrait.png"
+  }
+]
