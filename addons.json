@@ -4985,7 +4985,7 @@
   },
   {
     "name": "Orderly ID",
-    "description": "\"Bears the face of Henry Creel as he appeared before he was changed by another dimension.\"\nModifies Vine Attack with the following effect:\nWhile not in Worldbreaker mode,  the aiming range is increased by 2 meters.",
+    "description": "\"Bears the face of Henry Creel as he appeared before he was changed by another dimension.\"\nModifies Vine Attack with the following effect:\nWhile not in Worldbreaker Mode,  the aiming range is increased by 2 meters.",
     "imgUrl": "/images/IconAddon_OrderlyID.png",
     "role": "killer",
     "itemOrPowerName": "Test Subject #001",
@@ -5017,7 +5017,7 @@
   },
   {
     "name": "Gutted Supercom",
-    "description": "\"A broken communication device that now crackles to life at the most terrifying times.\"\nUnlocks potential in your Aura-reading ability while using Vine Attack:\nThe Aura of a Survivor hit by Vine Attack is revealed to you for 1.5 seconds.",
+    "description": "\"A broken communication device that now crackles to life at the most terrifying times.\"\nUnlocks potential in your Aura-reading ability while using Vine Attack:\nWhile not in Worldbreaker Mode hitting a Survivor with a Vine Attack reveals their Aura to you for 1.5 seconds.",
     "imgUrl": "/images/IconAddon_GuttedSupercom.png",
     "role": "killer",
     "itemOrPowerName": "Test Subject #001",
@@ -5033,7 +5033,7 @@
   },
   {
     "name": "Smashed Cassette Deck",
-    "description": "\"They once used music to escape Henry's grasp. Without it, they do not stand a chance.\"\nModifies Worldbreaker with the following effect:\nAll Survivors start with one Worldbreaker token. When Worldbreaker is activated for the first time, all Survivors lose their Worldbreaker token. 1 less Grandfather Clock appears on the map.",
+    "description": "\"They once used music to escape Henry's grasp. Without it, they do not stand a chance.\"\nAt the start of the match, all Survivors scream.\nAll Survivors start with one Worldbreaker token. When Worldbreaker is activated for the first time, all Survivors lose their Worldbreaker token. 1 less Grandfather Clock appears on the map.",
     "imgUrl": "/images/IconAddon_SmashedCassetteDeck.png",
     "role": "killer",
     "itemOrPowerName": "Test Subject #001",
@@ -5057,7 +5057,7 @@
   },
   {
     "name": "Neck Tendril",
-    "description": "\"He was furious when the tendril was torn from his neck as Max escaped his mind realm.\"\nModifies Vine Attack with the following effect:\nWhile in Worldbreaker mode,  Survivors hit by Vine Attack gain the Haemorrhage and Mangled Status Effects for 70 seconds.",
+    "description": "\"He was furious when the tendril was torn from his neck as Max escaped his mind realm.\"\nModifies Vine Attack with the following effect:\nWhile in Worldbreaker Mode,  Survivors hit by Vine Attack gain the Haemorrhage and Mangled Status Effects for 70 seconds.",
     "imgUrl": "/images/IconAddon_NeckTendril.png",
     "role": "killer",
     "itemOrPowerName": "Test Subject #001",
@@ -5081,7 +5081,7 @@
   },
   {
     "name": "Black Widow Spider",
-    "description": "\"A terrifying spider that is no longer a mere hallucination.\"\nUnlocks potential in your Aura-reading ability while using The Upside Down:\nThe Aura of the furthest survivor more than 36 meters is revealed to you for 3 seconds.",
+    "description": "\"A terrifying spider that is no longer a mere hallucination.\"\nUnlocks potential in your Aura-reading ability while using The Upside Down in Worldbreaker Mode:\nThe Aura of the furthest survivor more than 36 meters is revealed to you for 3 seconds.",
     "imgUrl": "/images/IconAddon_BlackWidowSpider.png",
     "role": "killer",
     "itemOrPowerName": "Test Subject #001",
@@ -5089,7 +5089,7 @@
   },
   {
     "name": "Broken Skateboard",
-    "description": "\"A cool way to get around, smashed by a furious brother as a means of control.\"\nModifies Worldbreaker with the following effect:When Worldbreaker activates the following effects trigger for 65 seconds\nIncreases vaulting speed by 30 %.\nPallet and Window auras are revealed within 32 metres",
+    "description": "\"A cool way to get around, smashed by a furious brother as a means of control.\"\nModifies Worldbreaker with the following effect:When Worldbreaker Mode activates, the following effects trigger for 65 seconds\nIncreases vaulting speed by 30 %.\nPallet and Window auras are revealed within 32 metres",
     "imgUrl": "/images/IconAddon_BrokenSkateboard.png",
     "role": "killer",
     "itemOrPowerName": "Test Subject #001",
