@@ -316,7 +316,7 @@
   },
   {
     "name": "Cross-Examination",
-    "description": "While inside the Killer's Terror Radius, the Killer leaves behind Light Marks that you can see. Light Marks have a duration of 10 seconds\nWhile standing on a Light Mark, gain Elusive Status Effect. This lingers for 3/4/5 seconds.\n\"The witness has said enough, Your Honor. No further questions.\" — Shane Wiigwaas",
+    "description": "While inside the Killer's Terror Radius and not being chased, the Killer leaves behind Light Marks that you can see. Light Marks have a duration of 10 seconds\nWhile standing on a Light Mark, gain Elusive Status Effect. This lingers for 3/4/5 seconds.\n\"The witness has said enough, Your Honor. No further questions.\" — Shane Wiigwaas",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_CrossExamination.png/96px-T_UI_iconsPerks_CrossExamination.png",
     "role": "survivor",
     "origin": "Shane"
