@@ -260,7 +260,7 @@
   },
   {
     "name": "Change of Plan",
-    "description": "\"Rather than give in to danger, you recalculate and adjust your strategy.\"\nYou start the Trial with 2 Tokens.\nWhile hiding inside a Locker and holding a non-event Toolbox, press Active Ability button to spend 1 Token and transform your Error into a Med-Kit of the same rarity with a random add-on of the same rarity.\nThe new Med-kit has 80/90/100 seconds of its charges.\n\"Oh my god, oh my god, oh my god, oh my god.\" — Dustin Henderson",
+    "description": "\"Rather than give in to danger, you recalculate and adjust your strategy.\"\nYou start the Trial with 2 Tokens.\nWhile hiding inside a Locker and holding a non-event Toolbox, press Active Ability button to spend 1 Token and transform your Toolbox into a Med-Kit of the same rarity with a random add-on of the same rarity.\nThe new Med-kit has 80/90/100 % of its charges.\n\"Oh my god, oh my god, oh my god, oh my god.\" — Dustin Henderson",
     "imgUrl": "/images/thumb/IconsPerks_ChangeOfPlan.png/96px-IconsPerks_ChangeOfPlan.png",
     "role": "survivor",
     "origin": "Dustin"
