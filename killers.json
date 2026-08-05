@@ -256,5 +256,11 @@
     "realName": "Jason Voorhees",
     "imgUrl": "/images/K43_TheSlasher_Portrait.png",
     "power": "Omnipresent Evil"
+  },
+  {
+    "name": "The Judgment",
+    "realName": "Judgment",
+    "imgUrl": "/images/K44_TheJudgment_Portrait.png",
+    "power": ""
   }
 ]
