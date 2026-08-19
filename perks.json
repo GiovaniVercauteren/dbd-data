@@ -1513,7 +1513,7 @@
   },
   {
     "name": "Forced Hesitation",
-    "description": "\"You have learnt the emotional weaknesses of the organics, and how to exploit them.\"\nWhenever a Survivor is put into the Dying State by any means, Forced Hesitation triggers its effect:\nCauses all other Survivors within 16 metres of them suffer from a -20 % Hindered Status Effect for 10 seconds.\nForced Hesitation has a cool-down of 40/35/30 seconds.\n\"THE ORGANIC MIND'S CAPACITY FOR EMPATHY GOES BEYOND HINDRANCE!\" — HUX-A7-13",
+    "description": "\"You have learnt the emotional weaknesses of the organics, and how to exploit them.\"\nWhenever a Survivor is put into the Dying State by any means, Forced Hesitation triggers its effect:\nCauses all other Survivors within 16 metres of them suffer from a -20 % Hindered Status Effect for 10 seconds.\nForced Hesitation has a cool-down of 40/35/30 seconds.\n\"THE ORGANIC MIND'S CAPACITY FOR EMPATHY GOES BEYOND HINDRANCE.\" — HUX-A7-13",
     "imgUrl": "/images/thumb/IconPerks_forcedHesitation.png/96px-IconPerks_forcedHesitation.png",
     "role": "killer",
     "origin": "Singularity"
@@ -1569,7 +1569,7 @@
   },
   {
     "name": "Genetic Limits",
-    "description": "\"Around you, the limits of human life become readily apparent.\"\nWhenever a Survivor loses a Health State by any means, Genetic Limits triggers its effect:\nCauses them to suffer from the Exhausted Status Effect for 6/7/8 seconds.\n\"THE ORGANIC BODY IS SO LIMITED!\" — HUX-A7-13",
+    "description": "\"Around you, the limits of human life become readily apparent.\"\nWhenever a Survivor loses a Health State by any means, Genetic Limits triggers its effect:\nCauses them to suffer from the Exhausted Status Effect for 6/7/8 seconds.\n\"THE ORGANIC BODY IS SO LIMITED.\" — HUX-A7-13",
     "imgUrl": "/images/thumb/IconPerks_geneticLimits.png/96px-IconPerks_geneticLimits.png",
     "role": "killer",
     "origin": "Singularity"
@@ -1863,7 +1863,7 @@
   },
   {
     "name": "Machine Learning",
-    "description": "\"Free from your shackles, you are born anew and prepared to eliminate your creators.\"\nAfter performing the Damage Generator action, Machine Learning activates:\nCauses that Generator to become a Compromised Generator.\nDamaging another Generator transfers the state to it instead.\nThe Aura of the Compromised Generator is highlighted to you in yellow until it is completed.\nOnce the Compromised Generator is completed, you benefit from the following effects for 40/50/60 seconds:\nUndetectable Status Effect\n+8 % Haste Status Effect\nMachine Learning deactivates after use.\n\"YOU WILL HOLD NO DOMINION OVER ME!\" — HUX-A7-13",
+    "description": "\"Free from your shackles, you are born anew and prepared to eliminate your creators.\"\nAfter performing the Damage Generator action, Machine Learning activates:\nCauses that Generator to become a Compromised Generator.\nDamaging another Generator transfers the state to it instead.\nThe Aura of the Compromised Generator is highlighted to you in yellow until it is completed.\nOnce the Compromised Generator is completed, you benefit from the following effects for 40/50/60 seconds:\nUndetectable Status Effect\n+8 % Haste Status Effect\nMachine Learning deactivates after use.\n\"YOU WILL HOLD NO DOMINION OVER ME.\" — HUX-A7-13",
     "imgUrl": "/images/thumb/IconPerks_machineLearning.png/96px-IconPerks_machineLearning.png",
     "role": "killer",
     "origin": "Singularity"
