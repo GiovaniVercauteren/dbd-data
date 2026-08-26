@@ -15,7 +15,7 @@
   },
   {
     "name": "Adrenaline",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"You are fuelled by unexpecting energy when on the verge of escape.\"\nOnce the Exit Gates are powered, Adrenaline activates and triggers the following effects:\nHeals you to the next Health State.\nGrants a +50 % Haste Status Effect for 4 seconds.\nAdrenaline can be used while Exhausted and ignores an existing Status Effect.Adrenaline causes the Exhausted Status Effect for 60/50/40 seconds after use.",
+    "description": "\"You are fuelled by unexpecting energy when on the verge of escape.\"\nOnce the Exit Gates are powered, Adrenaline activates and triggers the following effects:\nHeals you to the next Health State.\nGrants a +50 % Haste Status Effect for 4 seconds.\nAdrenaline can be used while Exhausted and ignores an existing Status Effect.Adrenaline causes the Exhausted Status Effect for 60/50/40 seconds after use.",
     "imgUrl": "/images/thumb/IconPerks_adrenaline.png/96px-IconPerks_adrenaline.png",
     "role": "survivor",
     "origin": "Meg"
@@ -43,7 +43,7 @@
   },
   {
     "name": "Apocalyptic Ingenuity",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"You salvage what little there is to defend your team.\"\nUnlocks potential in your Aura-reading ability:\nThe Auras of broken Pallets are revealed to you within 24/28/32 metres.\nAfter unlocking or rummaging through 1 Chest, Apocalyptic Ingenuity gains a special ability.While standing next to the location of a broken Pallet, press and hold the Active Ability button for 3 seconds to use it:\nRebuilds it as a Fragile Pallet.\nFragile Pallets instantly break when dropped.\n\"Without the fences, this place is worthless.\" — Rick Grimes",
+    "description": "\"You salvage what little there is to defend your team.\"\nUnlocks potential in your Aura-reading ability:\nThe Auras of broken Pallets are revealed to you within 24/28/32 metres.\nAfter unlocking or rummaging through 1 Chest, Apocalyptic Ingenuity gains a special ability.While standing next to the location of a broken Pallet, press and hold the Active Ability button for 3 seconds to use it:\nRebuilds it as a Fragile Pallet.\nFragile Pallets instantly break when dropped.\n\"Without the fences, this place is worthless.\" — Rick Grimes",
     "imgUrl": "/images/thumb/IconPerks_apocalypticIngenuity.png/96px-IconPerks_apocalypticIngenuity.png",
     "role": "survivor",
     "origin": "Rick"
@@ -288,7 +288,7 @@
   },
   {
     "name": "Clean Break",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"At the end of the day, everyone has to look out for themselves.\"\nAfter completing a Healing action on another Survivor, Clean Break activates.Press the Active Ability button while being healed by another Survivor to trigger the following effects:\nSuffer from the Broken Status Effect.\nYou are automatically healed 1 Health State after 75/60/45 seconds.\nThis effect is cancelled prematurely if you enter the Dying State.\nClean Break does not activate if you already suffer from Broken.Clean Break deactivates after healing you.\n\"I'll be fine! Don't stick your neck out for me.\" — Taurie Cain",
+    "description": "\"At the end of the day, everyone has to look out for themselves.\"\nAfter completing a Healing action on another Survivor, Clean Break activates.Press the Active Ability button while being healed by another Survivor to trigger the following effects:\nSuffer from the Broken Status Effect.\nYou are automatically healed 1 Health State after 75/60/45 seconds.\nThis effect is cancelled prematurely if you enter the Dying State.\nClean Break does not activate if you already suffer from Broken.Clean Break deactivates after healing you.\n\"I'll be fine! Don't stick your neck out for me.\" — Taurie Cain",
     "imgUrl": "/images/thumb/IconPerks_cleanBreak.png/96px-IconPerks_cleanBreak.png",
     "role": "survivor",
     "origin": "Taurie"
@@ -729,7 +729,7 @@
   },
   {
     "name": "Moment of Glory",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"A hero should always have the chance to make a comeback.\"\nAfter performing the Unlocking or Rummaging action on Chests a total of 1 time, Moment of Glory activates:\nWhen you become injured, you instantly suffer from the Broken Status Effect.\nYou are automatically healed 1 Health State after 80/70/60 seconds.\nThis effect is cancelled prematurely if you enter the Dying State.\nMoment of Glory does not activate if you already suffer from the Broken Status Effect.Moment of Glory deactivates after healing you.\n\"Never lose hope for a brighter tomorrow.\" — Trevor",
+    "description": "\"A hero should always have the chance to make a comeback.\"\nAfter performing the Unlocking or Rummaging action on Chests a total of 1 time, Moment of Glory activates:\nWhen you become injured, you instantly suffer from the Broken Status Effect.\nYou are automatically healed 1 Health State after 80/70/60 seconds.\nThis effect is cancelled prematurely if you enter the Dying State.\nMoment of Glory does not activate if you already suffer from the Broken Status Effect.Moment of Glory deactivates after healing you.\n\"Never lose hope for a brighter tomorrow.\" — Trevor",
     "imgUrl": "/images/thumb/IconPerks_MomentOfGlory.png/96px-IconPerks_MomentOfGlory.png",
     "role": "survivor",
     "origin": "Trevor"
@@ -897,7 +897,7 @@
   },
   {
     "name": "Repressed Alliance",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0You are accustomed to being hunted by malicious forces, and you have begun using it to your advantage.\nAfter repairing Generators for a total of 55/50/45 seconds, Repressed Alliance activates:\nPress the Active Ability button to call upon The Entity to block the Generator you are currently repairing for 15 seconds, after which Repressed Alliance deactivates.\nThe Aura of the blocked Generator is revealed to all Survivors in white.\nRepressed Alliance can only be triggered when no other Survivors are repairing your Generator.",
+    "description": "You are accustomed to being hunted by malicious forces, and you have begun using it to your advantage.\nAfter repairing Generators for a total of 55/50/45 seconds, Repressed Alliance activates:\nPress the Active Ability button to call upon The Entity to block the Generator you are currently repairing for 15 seconds, after which Repressed Alliance deactivates.\nThe Aura of the blocked Generator is revealed to all Survivors in white.\nRepressed Alliance can only be triggered when no other Survivors are repairing your Generator.",
     "imgUrl": "/images/thumb/IconPerks_repressedAlliance.png/96px-IconPerks_repressedAlliance.png",
     "role": "survivor",
     "origin": "Cheryl"
@@ -1051,7 +1051,7 @@
   },
   {
     "name": "Sprint Burst",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0Starting to run triggers Sprint Burst:\nGrants a +50 % Haste Status Effect for 2 seconds.\nSprint Burst cannot be used while Exhausted.Sprint Burst causes the Exhausted Status Effect for 60/50/40 seconds.\n\"See you if you can catch up...\" — Meg Thomas",
+    "description": "Starting to run triggers Sprint Burst:\nGrants a +50 % Haste Status Effect for 2 seconds.\nSprint Burst cannot be used while Exhausted.Sprint Burst causes the Exhausted Status Effect for 60/50/40 seconds.\n\"See you if you can catch up...\" — Meg Thomas",
     "imgUrl": "/images/thumb/IconPerks_sprintBurst.png/96px-IconPerks_sprintBurst.png",
     "role": "survivor",
     "origin": "Meg"
@@ -1128,7 +1128,7 @@
   },
   {
     "name": "Technician",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"You are apt at handling machinery with the greatest care and precision.\"\nWhile repairing a Generator, the following effects apply:\nReduces the audible range of all noises related to the Repair interaction by -16 metres.\nIncreases the Progression penalty incurred when failing a Skill Check by 4/3/2 %.\nSuppresses the explosion of the Generator and the Loud Noise Notification usually triggered by that.\n\"I am gonna stealth this one.\" — Feng Min",
+    "description": "\"You are apt at handling machinery with the greatest care and precision.\"\nWhile repairing a Generator, the following effects apply:\nReduces the audible range of all noises related to the Repair interaction by -16 metres.\nIncreases the Progression penalty incurred when failing a Skill Check by 4/3/2 %.\nSuppresses the explosion of the Generator and the Loud Noise Notification usually triggered by that.\n\"I am gonna stealth this one.\" — Feng Min",
     "imgUrl": "/images/thumb/IconPerks_technician.png/96px-IconPerks_technician.png",
     "role": "survivor",
     "origin": "Feng"
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "Vigil",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"You watch over your friends, even in dire situations.\"\nYou recover 30/35/40 % faster from the following:\nThe Blindness, Broken, Exhausted, Exposed, Haemorrhage, Hindered, Mangled,  and Oblivious Status Effects.\nVigil extends its effect to all Survivors within 16 metres of your location and lingers for 15 seconds after leaving its Area of Effect.Survivors can only be affected by one instance of Vigil at a time.\n\"I am gonna be here when you wake up. You are gonna make it.\" — Quentin Smith",
+    "description": "\"You watch over your friends, even in dire situations.\"\nYou recover 30/35/40 % faster from the following:\nThe Blindness, Broken, Exhausted, Exposed, Haemorrhage, Hindered, Mangled,  and Oblivious Status Effects.\nVigil extends its effect to all Survivors within 16 metres of your location and lingers for 15 seconds after leaving its Area of Effect.Survivors can only be affected by one instance of Vigil at a time.\n\"I am gonna be here when you wake up. You are gonna make it.\" — Quentin Smith",
     "imgUrl": "/images/thumb/IconPerks_vigil.png/96px-IconPerks_vigil.png",
     "role": "survivor",
     "origin": "Quentin"
@@ -1254,7 +1254,7 @@
   },
   {
     "name": "A Nurse's Calling",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0Unlocks potential in your Aura-reading ability:\nThe Auras of Survivors being healed or healing themselves are revealed to you within 28/30/32 metres.\n\"Still attached to the fragments of her past life, she is drawn to those in need of help.\"",
+    "description": "Unlocks potential in your Aura-reading ability:\nThe Auras of Survivors being healed or healing themselves are revealed to you within 28/30/32 metres.\n\"Still attached to the fragments of her past life, she is drawn to those in need of help.\"",
     "imgUrl": "/images/thumb/IconPerks_aNursesCalling.png/96px-IconPerks_aNursesCalling.png",
     "role": "killer",
     "origin": "Nurse"
@@ -1352,7 +1352,7 @@
   },
   {
     "name": "Call of Brine",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"Your psychic abilities influence technology in devastating ways.\"\nAfter performing the Damage Generator action on a Generator, Call of Brine applies its effects to it for 90 seconds:\nIncreases its Regression speed to 130/140/150 % of the default value.\nHighlights its Aura to you in yellow.\nTriggers a Loud Noise Notification whenever a Survivor succeeds a Good Skill Check while repairing it.",
+    "description": "\"Your psychic abilities influence technology in devastating ways.\"\nAfter performing the Damage Generator action on a Generator, Call of Brine applies its effects to it for 90 seconds:\nIncreases its Regression speed to 130/140/150 % of the default value.\nHighlights its Aura to you in yellow.\nTriggers a Loud Noise Notification whenever a Survivor succeeds a Good Skill Check while repairing it.",
     "imgUrl": "/images/thumb/IconPerks_callOfBrine.png/96px-IconPerks_callOfBrine.png",
     "role": "killer",
     "origin": "Onryō"
@@ -1373,7 +1373,7 @@
   },
   {
     "name": "Coulrophobia",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"Even those without a fear of clowns know to be terrified of you.\"\nSurvivors inside your Terror Radius suffer from the following effects:\nReduces all Healing speeds by 20/25/30 %.\nIncreases the Pointer-Rotation speed of Healing Skill Checks by +50 %.",
+    "description": "\"Even those without a fear of clowns know to be terrified of you.\"\nSurvivors inside your Terror Radius suffer from the following effects:\nReduces all Healing speeds by 20/25/30 %.\nIncreases the Pointer-Rotation speed of Healing Skill Checks by +50 %.",
     "imgUrl": "/images/thumb/IconPerks_coulrophobia.png/96px-IconPerks_coulrophobia.png",
     "role": "killer",
     "origin": "Clown"
@@ -1716,7 +1716,7 @@
   },
   {
     "name": "Hex: Thrill of the Hunt",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"A Hex rooting its power on hope.The false hope of Survivors fills you with excitement and strengthens your Totems.\"\nStart the Trial with 5 Tokens, one for each Totem located in the environment:\nReduces the Action speeds for Blessing and Cleansing by a stack-able 8/9/10 % per Token, up to a maximum of 40/45/50 %.\nHex: Thrill of the Hunt loses -1 Token whenever a Totem is cleansed.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.",
+    "description": "\"A Hex rooting its power on hope.The false hope of Survivors fills you with excitement and strengthens your Totems.\"\nStart the Trial with 5 Tokens, one for each Totem located in the environment:\nReduces the Action speeds for Blessing and Cleansing by a stack-able 8/9/10 % per Token, up to a maximum of 40/45/50 %.\nHex: Thrill of the Hunt loses -1 Token whenever a Totem is cleansed.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.",
     "imgUrl": "/images/thumb/IconPerks_hexThrillOfTheHunt.png/96px-IconPerks_hexThrillOfTheHunt.png",
     "role": "killer",
     "origin": "All"
@@ -1814,7 +1814,7 @@
   },
   {
     "name": "Keep Them Waiting",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0Damaging any Survivor other than the Obsession with a Basic Attack causes Keep Them Waiting to gain +1 Token, up to a maximum of 6/7/8 Tokens.Damaging the Obsession with either a Basic or Special Attack causes Keep Them Waiting to lose -2 Tokens:\nGrants a stack-able -5 % per Token Cool-down time reduction on successful Basic Attacks, up to a maximum of 30/35/40 %.\nKeep Them Waiting freezes its current Token Count once the Obsession is sacrificed or killed.You can only be obsessed with one Survivor at a time.",
+    "description": "Damaging any Survivor other than the Obsession with a Basic Attack causes Keep Them Waiting to gain +1 Token, up to a maximum of 6/7/8 Tokens.Damaging the Obsession with either a Basic or Special Attack causes Keep Them Waiting to lose -2 Tokens:\nGrants a stack-able -5 % per Token Cool-down time reduction on successful Basic Attacks, up to a maximum of 30/35/40 %.\nKeep Them Waiting freezes its current Token Count once the Obsession is sacrificed or killed.You can only be obsessed with one Survivor at a time.",
     "imgUrl": "/images/thumb/IconPerks_saveTheBestForLast_noLicense.png/96px-IconPerks_saveTheBestForLast_noLicense.png",
     "role": "killer",
     "origin": "All"
@@ -1940,7 +1940,7 @@
   },
   {
     "name": "Nowhere to Hide",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.1.0\"The machinations of the weak and craven draw your ire.Your anger forces Survivors to reveal themselves.\"\nPerforming the Damage Generator action on a Generator triggers Nowhere to Hide:\nThe Auras of all Survivors within 18 metres of your location are revealed to you for 3/4/5 seconds.\n\"Out with you, cowards! Show yourselves!\" — Tarhos Kovács",
+    "description": "\"The machinations of the weak and craven draw your ire.Your anger forces Survivors to reveal themselves.\"\nPerforming the Damage Generator action on a Generator triggers Nowhere to Hide:\nThe Auras of all Survivors within 24 metres of the Generator's location are revealed to you for 3/4/5 seconds.\n\"Out with you, cowards! Show yourselves!\" — Tarhos Kovács",
     "imgUrl": "/images/thumb/IconPerks_nowhereToHide.png/96px-IconPerks_nowhereToHide.png",
     "role": "killer",
     "origin": "Knight"
