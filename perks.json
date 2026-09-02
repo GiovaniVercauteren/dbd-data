@@ -1,7 +1,7 @@
 [
   {
     "name": "A Place For Us",
-    "description": "While healing an another Survivor, both you and the healed Survivor gain Elusive Status Effect.\nWhen you finish healing the Obsession, both you and the Obsession gain Elusive Status Effect for 20/25/30 seconds.\nReduces your chance of becoming the initial  Obsession by reducing the default value by -100 %.The Killer can only be obsessed with one Survivor at a time.\"I understand computers… systems. Problems. But this… I wonder if I’ll ever understand.\" — Kwon Tae-young",
+    "description": "While healing an another Survivor, both you and the healed Survivor gain Elusive Status Effect.\nWhen you finish healing the Obsession, both you and the Obsession gain Elusive Status Effect for 20/25/30 seconds.\nReduces your chance of becoming the initial  Obsession by reducing the default value by -100 %.The Killer can only be obsessed with one Survivor at a time.\n\"I understand computers… systems. Problems. But this… I wonder if I’ll ever understand.\" — Kwon Tae-young",
     "imgUrl": "/images/thumb/IconsPerks_aPlaceForUs.png/96px-IconsPerks_aPlaceForUs.png",
     "role": "survivor",
     "origin": "Kwon"
@@ -190,14 +190,14 @@
   },
   {
     "name": "Boon: Steadfast",
-    "description": "Press and hold the Active Ability button on a Dull or Hex Totem to bless it and create a Boon Totem.All Survivors within 24 metres hear soft chimes ringing out and benefit from its Boon Effects:\nGenerators within this Boon's range:\nRegress -50 % slower.\nSurvivors repair them +8/9/10 % faster.\nSurvivors can only be affected by one instance of Boon: Steadfast at a time.\nOnly one Totem can be blessed by your Boon Perks at a time and all of their effects are active on the same Boon Totem.",
+    "description": "Press and hold the Active Ability button on a Dull or Hex Totem to bless it and create a Boon Totem.All Survivors within 24 metres hear soft chimes ringing out and benefit from its Boon Effects:\nGenerators within this Boon's range:\nRegress -50 % slower.\nSurvivors repair them +8/9/10 % faster.\nSurvivors see their auras while inside the Boon's range.\nSurvivors can only be affected by one instance of Boon: Steadfast at a time.\nOnly one Totem can be blessed by your Boon Perks at a time and all of their effects are active on the same Boon Totem.\n\"That which thine hands deliver shall prosper, for thine hands are guided by faith.\" — (Enlightenments, 2:10)",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_BoonSteadfast.png/96px-T_UI_iconsPerks_BoonSteadfast.png",
     "role": "survivor",
     "origin": "Aurora"
   },
   {
     "name": "Borrowed Time",
-    "description": "\"You are fuelled with an unexpected energy when saving an ally from a hook.\"\nWhenever you unhook another Survivor, they benefit from the following effects:\nExtends the duration of the Endurance Status Effect by 6/8/10 seconds to 21/23/25 seconds.\nEndurance is cancelled prematurely when performing a Conspicuous Action of any kind.\nExtends the duration of the Haste Status Effect by +10 seconds to 25 seconds.\n\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
+    "description": "\"You are fuelled with an unexpected energy when saving an ally from a hook.\"\nWhenever you unhook another Survivor, they benefit from the following effects:\nExtends the duration of the Endurance Status Effect by 6/8/10 seconds to 16/18/20 seconds.\nEndurance is cancelled prematurely when performing a Conspicuous Action of any kind.\nExtends the duration of the Haste Status Effect by +10 seconds to 20 seconds.\n\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
     "imgUrl": "/images/thumb/IconPerks_borrowedTime.png/96px-IconPerks_borrowedTime.png",
     "role": "survivor",
     "origin": "Bill"
@@ -498,7 +498,7 @@
   },
   {
     "name": "Five Moves Ahead",
-    "description": "This perk activates while you are being chased by the Killer or are inside the Killer's Terror Radius:\nAfter you drop a Pallet, you start moving 50 % earlier.\nSee the auras of the 5 closest Pallets and Windows.\nThis perk goes on a 40/35/30 seconds cool-down when you drop a Pallet.\"Every problem has a solution. It’s only a question of complexity.\" — Kwon Tae-young",
+    "description": "This perk activates while you are being chased by the Killer or are inside the Killer's Terror Radius:\nAfter you drop a Pallet, you start moving 50 % earlier.\nSee the auras of the 5 closest Pallets and Windows.\nThis perk goes on a 40/35/30 seconds cool-down when you drop a Pallet while this perk is activated.\n\"Every problem has a solution. It’s only a question of complexity.\" — Kwon Tae-young",
     "imgUrl": "/images/thumb/IconsPerks_FiveMovesAhead.png/96px-IconsPerks_FiveMovesAhead.png",
     "role": "survivor",
     "origin": "Kwon"
@@ -554,7 +554,7 @@
   },
   {
     "name": "Fruits of Your Labor",
-    "description": "Whenever a Generator is completed, gain a token.\nWhenever you finish repairing a Generator, for each token this perk has:\nGain +5 % Haste Status Effect for 2 seconds.\nGain 10/15/20 % healing progress.",
+    "description": "Whenever a Generator is completed, gain a token.\nWhenever you finish repairing a Generator, for each token this perk has:\nGain +5 % Haste Status Effect for 2 seconds.\nGain 10/15/20 % healing progress.\n\"And as the final brick was laid upon the walls of Stellanatis, the people rejoiced.\" — (Kelglen’s Declaration, 9:9)",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_FruitsOfYourLabor.png/96px-T_UI_iconsPerks_FruitsOfYourLabor.png",
     "role": "survivor",
     "origin": "Aurora"
@@ -897,7 +897,7 @@
   },
   {
     "name": "Repressed Alliance",
-    "description": "You are accustomed to being hunted by malicious forces, and you have begun using it to your advantage.\nAfter repairing Generators for a total of 55/50/45 seconds, Repressed Alliance activates:\nPress the Active Ability button to call upon The Entity to block the Generator you are currently repairing for 15 seconds, after which Repressed Alliance deactivates.\nThe Aura of the blocked Generator is revealed to all Survivors in white.\nRepressed Alliance can only be triggered when no other Survivors are repairing your Generator.",
+    "description": "You are accustomed to being hunted by malicious forces, and you have begun using it to your advantage.\nAfter repairing Generators for a total of 40/35/30 seconds, Repressed Alliance activates:\nPress the Active Ability button to call upon The Entity to block the Generator you are currently repairing for 15 seconds, after which Repressed Alliance deactivates.\nThe Aura of the blocked Generator is revealed to all Survivors in white.\nRepressed Alliance can only be triggered when no other Survivors are repairing your Generator.",
     "imgUrl": "/images/thumb/IconPerks_repressedAlliance.png/96px-IconPerks_repressedAlliance.png",
     "role": "survivor",
     "origin": "Cheryl"
@@ -946,7 +946,7 @@
   },
   {
     "name": "Salvation's Cry",
-    "description": "When the Killer starts chasing you:\nYou see the auras of other Survivors for 1/2/3 seconds.\nSurvivors not being chased see your aura for 5 seconds\nSurvivors not being chased see the Killer's aura for 5 seconds",
+    "description": "When the Killer starts chasing you:\nYou see the auras of other Survivors for 1/2/3 seconds.\nSurvivors not being chased see your aura for 5 seconds\nSurvivors not being chased see the Killer's aura for 5 seconds\n\"May you see as the stars see.\" — (Auroran Blessing)",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_SalvationsCry.png/96px-T_UI_iconsPerks_SalvationsCry.png",
     "role": "survivor",
     "origin": "Aurora"
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "Vigil",
-    "description": "\"You watch over your friends, even in dire situations.\"\nYou recover 30/35/40 % faster from the following:\nThe Blindness, Broken, Exhausted, Exposed, Haemorrhage, Hindered, Mangled,  and Oblivious Status Effects.\nVigil extends its effect to all Survivors within 16 metres of your location and lingers for 15 seconds after leaving its Area of Effect.Survivors can only be affected by one instance of Vigil at a time.\n\"I am gonna be here when you wake up. You are gonna make it.\" — Quentin Smith",
+    "description": "\"You watch over your friends, even in dire situations.\"\nYou recover 20/25/30 % faster from the following:\nThe Blindness, Broken, Exhausted, Exposed, Haemorrhage, Hindered, Mangled,  and Oblivious Status Effects.\nVigil extends its effect to all Survivors within 16 metres of your location and lingers for 15 seconds after leaving its Area of Effect.Survivors can only be affected by one instance of Vigil at a time.\n\"I am gonna be here when you wake up. You are gonna make it.\" — Quentin Smith",
     "imgUrl": "/images/thumb/IconPerks_vigil.png/96px-IconPerks_vigil.png",
     "role": "survivor",
     "origin": "Quentin"
@@ -1226,7 +1226,7 @@
   },
   {
     "name": "Wide Open Throttle",
-    "description": "Fast-vaulting a Pallet triggers the following effects:\nGain 10/12.5/15 % Haste Status Effect for 3 seconds.\nThe Pallet is immediately reset, blocked by the Entity and revealed to all Survivors for 60 seconds.\nThis perk then goes on a 60 second cool-down.\"Nothing but the open road. Just the way I like it.\" — Shane Wiigwaas",
+    "description": "Fast-vaulting a Pallet triggers the following effects:\nGain 10/12.5/15 % Haste Status Effect for 3 seconds.\nThe Pallet is immediately reset, blocked by the Entity and revealed to all Survivors for 60 seconds.\nThis perk then goes on a 60 second cool-down.\n\"Nothing but the open road. Just the way I like it.\" — Shane Wiigwaas",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_WideOpenThrottle.png/96px-T_UI_iconsPerks_WideOpenThrottle.png",
     "role": "survivor",
     "origin": "Shane"
@@ -1359,7 +1359,7 @@
   },
   {
     "name": "Celestial Witness",
-    "description": "Every 30 seconds, if the Obsession is 40 metres away from you, you see their aura for 2/2.5/3 seconds. Otherwise, the farthest Survivor becomes the Obsession.",
+    "description": "Every 30 seconds, if the Obsession is 40 metres away from you, you see their aura for 2/2.5/3 seconds. Otherwise, the farthest Survivor becomes the Obsession.\n\"And so the heretics huddled, cowardly, in the night; but upon Judgment’s arrival, It saw them all, and punished them.\" — (Witness to Koenrad, ch. 32)",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_CelestialWitness.png/96px-T_UI_iconsPerks_CelestialWitness.png",
     "role": "killer",
     "origin": "Judgment"
@@ -1730,7 +1730,7 @@
   },
   {
     "name": "Hex: Under Your Thumb",
-    "description": "When a Survivor gains a Hook State, Hex: Under Your Thumb activates on a random Dull Totem:\nRunning Survivors cannot gain more than 25/20/15 % Haste at once.\nWhenever a running Survivor within 32 metres gains Haste, the Survivor's location is revealed to you for 4 seconds.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.",
+    "description": "When a Survivor gains a Hook State, Hex: Under Your Thumb activates on a random Dull Totem:\nRunning Survivors cannot gain more than 25/20/15 % Haste at once.\nWhenever a running Survivor within 32 metres gains Haste, the Survivor's location is revealed to you for 4 seconds.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.\n\"They will run, but Judgment will make the very ground they tread turn to ash and smoke.\" — (Visions of Gerhardt, ch. 1)",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_HexUnderYourThumb.png/96px-T_UI_iconsPerks_HexUnderYourThumb.png",
     "role": "killer",
     "origin": "Judgment"
@@ -1835,7 +1835,7 @@
   },
   {
     "name": "Lay Waste",
-    "description": "Damaging a Generator makes it regress +2 % faster for each Charge it has.\nThis perk has a cool-down of 55/50/45 seconds after damaging a Generator.",
+    "description": "Damaging a Generator makes it regress +2 % faster for each Charge it has.\nThis perk has a cool-down of 55/50/45 seconds after damaging a Generator.\n\"They built hypercomputers and skyscrapers and quantum networks, but all of those things trembled and fell under the power of Judgment’s light.\" — (Witness to Koenrad, ch. 8)",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_LayWaste.png/96px-T_UI_iconsPerks_LayWaste.png",
     "role": "killer",
     "origin": "Judgment"
