@@ -1177,7 +1177,7 @@
   },
   {
     "name": "Vigil",
-    "description": "\"You watch over your friends, even in dire situations.\"\nYou recover 20/25/30 % faster from the following:\nThe Blindness, Broken, Exhausted, Exposed, Haemorrhage, Hindered, Mangled,  and Oblivious Status Effects.\nVigil extends its effect to all Survivors within 16 metres of your location and lingers for 15 seconds after leaving its Area of Effect.Survivors can only be affected by one instance of Vigil at a time.\n\"I am gonna be here when you wake up. You are gonna make it.\" — Quentin Smith",
+    "description": "\"You watch over your friends, even in dire situations.\"\nYou recover 20/25/30 % faster from the following:\nThe Exhausted Status Effect.\nVigil extends its effect to all Survivors within 16 metres of your location and lingers for 15 seconds after leaving its Area of Effect.Survivors can only be affected by one instance of Vigil at a time.\n\"I am gonna be here when you wake up. You are gonna make it.\" — Quentin Smith",
     "imgUrl": "/images/thumb/IconPerks_vigil.png/96px-IconPerks_vigil.png",
     "role": "survivor",
     "origin": "Quentin"
@@ -1702,7 +1702,7 @@
   },
   {
     "name": "Hex: Scared to Death",
-    "description": "When you Hook 3 different Survivors, Hex: Scared to Death activates on a random Dull Totem and triggers its effect:\nBasic-breaking a Pallet during a chase causes all Survivors within 13 metres to scream and gain 11/12/13 % Hindered Status Effect for 3 seconds.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.\n\"There was a scream from the forest. Like someone was attacking her.\" — Mount Ormond Missing Person Report",
+    "description": "When you Hook 3 different Survivors, Hex: Scared to Death activates on a random Dull Totem and triggers its effect:\nBasic-breaking a Pallet during a chase causes all Survivors within 13 metres to scream and gain -11/-12/-13 % Hindered Status Effect for 3 seconds.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.\n\"There was a scream from the forest. Like someone was attacking her.\" — Mount Ormond Missing Person Report",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_ScaredToDeath.png/96px-T_UI_iconsPerks_ScaredToDeath.png",
     "role": "killer",
     "origin": "Slasher"
@@ -1996,7 +1996,7 @@
   },
   {
     "name": "Rampage",
-    "description": "Whenever you basic-break a Pallet or a Breakable Wall, gain a token, up to 13\nWhenever you are blinded or Pallet-stunned, you are granted 1 % Haste Status Effect for each Token this perk has for 13 seconds.\nThis perk has a cool-down of 30/25/20 seconds after being blinded or Pallet-stunned.\n\"Signs of a pursuit led deep into the woods where the victim's body was found.\" — Port Henly Herald",
+    "description": "Whenever you basic-break a Pallet or a Breakable Wall, gain a token, up to 13.\nWhenever you are blinded or Pallet-stunned, you are granted +1 % Haste Status Effect for each Token this perk has for 13 seconds.\nThis perk has a cool-down of 30/25/20 seconds after being blinded or Pallet-stunned while this perk has at least 1 token.\n\"Signs of a pursuit led deep into the woods where the victim's body was found.\" — Port Henly Herald",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_Rampage.png/96px-T_UI_iconsPerks_Rampage.png",
     "role": "killer",
     "origin": "Slasher"
