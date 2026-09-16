@@ -1261,7 +1261,7 @@
   },
   {
     "name": "Agitation",
-    "description": "\"You get excited in anticipation of hooking your prey.\"\nWhile carrying a Survivor, Agitation activates:\nIncreases your Carrying speed by 6/12/18 %.\nIncreases your Terror Radius by +12 metres.\n\"At some point, the excitement of hooking one of us becomes more important than the desire to kill us.\"",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You get excited in anticipation of hooking your prey.\"\nWhile carrying a Survivor, Agitation activates:\nIncreases your Carrying speed by 14/16/18 %.\nIncreases your Terror Radius by +12 metres.\n\"At some point, the excitement of hooking one of us becomes more important than the desire to kill us.\"",
     "imgUrl": "/images/thumb/IconPerks_agitation.png/96px-IconPerks_agitation.png",
     "role": "killer",
     "origin": "Trapper"
@@ -1317,7 +1317,7 @@
   },
   {
     "name": "Bitter Murmur",
-    "description": "Unlocks potential in your Aura-reading ability.Whenever a Generator is completed, Bitter Murmur triggers its primary effect:\nThe Auras of any Survivors within 16 metres of that Generator are revealed to you for 5 seconds.\nOnce the last Generator is completed, Bitter Murmur triggers its secondary effect:\nThe Auras of all Survivors are revealed to you for 5/7/10 seconds.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Unlocks potential in your Aura-reading ability.Whenever a Generator is completed, Bitter Murmur triggers its primary effect:\nThe Auras of any Survivors within 20 metres of that Generator are revealed to you for 8 seconds.\nOnce the last Generator is completed, Bitter Murmur triggers its secondary effect:\nThe Auras of all Survivors are revealed to you for 10/12/14 seconds.",
     "imgUrl": "/images/thumb/IconPerks_bitterMurmur.png/96px-IconPerks_bitterMurmur.png",
     "role": "killer",
     "origin": "All"
@@ -1443,7 +1443,7 @@
   },
   {
     "name": "Deerstalker",
-    "description": "Unlocks potential in your Aura-reading ability.Whenever a Survivor reads your Aura, Deerstalker activates for the same duration as their Aura-reading action:\nThe Aura of that Survivor is revealed to you.\nFurthermore, the following effect triggers automatically every 40/35/30 seconds:\nYour Aura is revealed for 3 seconds to the Survivor with currently the lowest cumulative Chase time.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Unlocks potential in your Aura-reading ability.Whenever a Survivor reads your Aura, Deerstalker activates for the same duration as their Aura-reading action:\nThe Aura of that Survivor is revealed to you.\nFurthermore, the following effect triggers automatically every 40/35/30 seconds:\nYour Aura is revealed for 4 seconds to the Survivor with currently the lowest cumulative Chase time.",
     "imgUrl": "/images/thumb/IconPerks_deerstalker.png/96px-IconPerks_deerstalker.png",
     "role": "killer",
     "origin": "All"
@@ -1506,7 +1506,7 @@
   },
   {
     "name": "Fire Up",
-    "description": "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation.\nFor each completed Generator, Fire Up gains +1 Token, up to a maximum of 5 Tokens:\nIncreases the Action speeds for the following interactions by a stack-able 4/5/6 % per Token, up to a maximum of 20/25/30 %:\nPicking up and dropping Survivors.\nBreaking Breakable Walls and dropped Pallets.\nDamaging Generators.\nVaulting Windows.\n\"Now why don't you just fucking die?\" — Freddy Krueger",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation.\nFor each completed Generator, Fire Up gains +1 Token, up to a maximum of 5 Tokens:\nIncreases the Action speeds for the following interactions by a stack-able 6/7/8 % per Token, up to a maximum of 30/35/40 %:\nPicking up and dropping Survivors.\nBreaking Breakable Walls and dropped Pallets.\nDamaging Generators.\nVaulting Windows.\n\"Now why don't you just fucking die?\" — Freddy Krueger",
     "imgUrl": "/images/thumb/IconPerks_fireUp.png/96px-IconPerks_fireUp.png",
     "role": "killer",
     "origin": "Nightmare"
@@ -1555,7 +1555,7 @@
   },
   {
     "name": "Game Afoot",
-    "description": "\"First you pick your prey, then you pick it apart.\"\nWhenever you hit the Survivor with currently the highest cumulative Chase time with a Basic Attack, Game Afoot triggers its primary effect:\nCauses the Obsession Status to transfer to that Survivor.\nWhile chasing the Obsession, performing the Break or Damage action causes Game Afoot to trigger its secondary effect:\nGrants a +7 % Haste Status Effect for 8/9/10 seconds.\nYou can only be obsessed with one Survivor at a time.\n\"This one might actually be a challenge...\" — Sonhadores Sombrios, Issue #3",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"First you pick your prey, then you pick it apart.\"\nWhenever you hit the Survivor with currently the highest cumulative Chase time with a Basic Attack, Game Afoot triggers its primary effect:\nCauses the Obsession Status to transfer to that Survivor.\nWhile chasing the Obsession, performing the Break or Damage action causes Game Afoot to trigger its secondary effect:\nGrants a +10 % Haste Status Effect for 8/9/10 seconds.\nYou can only be obsessed with one Survivor at a time.\n\"This one might actually be a challenge...\" — Sonhadores Sombrios, Issue #3",
     "imgUrl": "/images/thumb/IconPerks_gameAfoot.png/96px-IconPerks_gameAfoot.png",
     "role": "killer",
     "origin": "Skull Merchant"
@@ -1590,7 +1590,7 @@
   },
   {
     "name": "Help Wanted",
-    "description": "\"Try as they might, you know how to stay one step ahead of your guests.\"\nAfter performing the Damage Generator action, Help Wanted activates:\nCauses that Generator to become a Compromised Generator.\nOnce the Compromised Generator is completed, you benefit from the following effect for 40/50/60 seconds:\nIncreases the Recovery speed of successful Basic Attacks by +25 %.\n\"You only think you are in control...\" — Springtrap",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Try as they might, you know how to stay one step ahead of your guests.\"\nAfter performing the Damage Generator action, Help Wanted activates:\nCauses that Generator to become a Compromised Generator.\nUp to 3 Generators can be Compromised at a time.\nThe Auras of all Compromised Generators are highlighted to you in yellow.\nOnce a Compromised Generator is completed, Help Wanted triggers its effects for 100/110/120 seconds:\nIncreases the Recovery speed of successful Basic Attacks by +25 %.\nAll Generators not being repaired will automatically regress at 150 % of the default Regression rate.\nAdditionally, all other Generators are no longer Compromised.\n\"You only think you are in control...\" — Springtrap",
     "imgUrl": "/images/thumb/IconPerks_HelpWanted.png/96px-IconPerks_HelpWanted.png",
     "role": "killer",
     "origin": "Animatronic"
@@ -1800,7 +1800,7 @@
   },
   {
     "name": "Iron Grasp",
-    "description": "\"Your powerful grasp on Survivors causes escapes to be nearly impossible.\"\nWhile carrying a Survivor, they suffer from the following effects:\nReduces the strength of the Involuntary Strafing caused by their wiggling by -75 %.\nIncreases the time required to break free from your grasp by 4/8/12 %.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Your powerful grasp on Survivors causes escapes to be nearly impossible.\"\nWhile carrying a Survivor, they suffer from the following effects:\nReduces the strength of the Involuntary Strafing caused by their wiggling by -75 %.\nIncreases the time required to break free from your grasp by 10/11/12 %.",
     "imgUrl": "/images/thumb/IconPerks_ironGrasp.png/96px-IconPerks_ironGrasp.png",
     "role": "killer",
     "origin": "All"
@@ -1863,7 +1863,7 @@
   },
   {
     "name": "Machine Learning",
-    "description": "\"Free from your shackles, you are born anew and prepared to eliminate your creators.\"\nAfter performing the Damage Generator action, Machine Learning activates:\nCauses that Generator to become a Compromised Generator.\nDamaging another Generator transfers the state to it instead.\nThe Aura of the Compromised Generator is highlighted to you in yellow until it is completed.\nOnce the Compromised Generator is completed, you benefit from the following effects for 40/50/60 seconds:\nUndetectable Status Effect\n+8 % Haste Status Effect\nMachine Learning deactivates after use.\n\"YOU WILL HOLD NO DOMINION OVER ME.\" — HUX-A7-13",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Free from your shackles, you are born anew and prepared to eliminate your creators.\"\nAfter performing the Damage Generator action, Machine Learning activates:\nCauses that Generator to become a Compromised Generator.\nUp to 3 Generators can be Compromised at a time.\nThe Auras of all Compromised Generators are highlighted to you in yellow.\nOnce a Compromised Generator is completed, you benefit from the following effects for 40/50/60 seconds:\nUndetectable Status Effect\n+10 % Haste Status Effect\nAdditionally, all other Generators are no longer Compromised.\n\"YOU WILL HOLD NO DOMINION OVER ME.\" — HUX-A7-13",
     "imgUrl": "/images/thumb/IconPerks_machineLearning.png/96px-IconPerks_machineLearning.png",
     "role": "killer",
     "origin": "Singularity"
@@ -2136,7 +2136,7 @@
   },
   {
     "name": "Spies from the Shadows",
-    "description": "\"Allows the Crows found in the environment to directly communicate with you.\"\nWhenever a Survivor startles a Crow within 20/28/36 metres of your location, Spies from the Shadows triggers its effect:\nAlerts you with a unique Loud Noise Notification in the shape of a Crow.\nSpies from the Shadows has a cool-down of 5 seconds between alerts.\n\"In the shadows they torment, scarring our minds with each scream.\"",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Allows the Crows found in the environment to directly communicate with you.\"\nWhenever a Survivor startles a Crow within 36/38/40 metres of your location, Spies from the Shadows triggers its effect:\nAlerts you with a unique Loud Noise Notification in the shape of a Crow.\nSpies from the Shadows has a cool-down of 3 seconds between alerts.\n\"In the shadows they torment, scarring our minds with each scream.\"",
     "imgUrl": "/images/thumb/IconPerks_spiesFromTheShadows.png/96px-IconPerks_spiesFromTheShadows.png",
     "role": "killer",
     "origin": "All"
@@ -2248,7 +2248,7 @@
   },
   {
     "name": "Unbound",
-    "description": "\"Pain lingers in the air, an alluring aroma that excites the impulses.\"\nWhen a Survivor becomes injured by any means, Unbound activates for 24/27/30 seconds:\nVaulting a Window while Unbound is active grants a +7 % Haste Status Effect for 10 seconds.\nThis effect cannot stack with itself.\n\"I heard it. Running. It was getting closer!\" — Anonymous Testimony, 09/09/1979",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Pain lingers in the air, an alluring aroma that excites the impulses.\"\nWhen a Survivor becomes injured by any means, Unbound activates for 26/28/30 seconds:\nVaulting a Window while Unbound is active grants a +5 % Haste Status Effect for 25 seconds.\nThis effect cannot stack with itself.\n\"I heard it. Running. It was getting closer!\" — Anonymous Testimony, 09/09/1979",
     "imgUrl": "/images/thumb/IconPerks_unbound.png/96px-IconPerks_unbound.png",
     "role": "killer",
     "origin": "Unknown"
