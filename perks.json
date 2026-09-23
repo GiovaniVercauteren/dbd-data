@@ -106,7 +106,7 @@
   },
   {
     "name": "Better than New",
-    "description": "\"You are an expert in combat medicine.Patients leave your care reinvigorated.\"\nCompleting a Healing action on another Survivor grants them the following benefits until they receive damage again:\nIncreases their Action speeds for Blessing, Cleansing, Healing, and Unlocking by 12/14/16 %.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You are an expert in combat medicine.Patients leave your care reinvigorated.\"\nCompleting a Healing action on another Survivor grants them the following benefits until they receive damage again:\nIncreases their Action speeds for Blessing, Cleansing, Healing, and Unlocking by 40/45/50 %.",
     "imgUrl": "/images/thumb/IconPerks_betterThanNew.png/96px-IconPerks_betterThanNew.png",
     "role": "survivor",
     "origin": "Rebecca"
@@ -127,7 +127,7 @@
   },
   {
     "name": "Blood Pact",
-    "description": "It is as if a latent part of yourself has awakened.You feel like you can reach out beyond yourself for assistance.\nWhen either you or the Obsession become injured by any means, Blood Pact activates:\nYour Auras are constantly revealed to one another.\nCompleting a Healing Action on the Obsession or having them complete one on yourself, grants both of you a 5/6/7 % Haste Status Effect.\nThis effect lasts for as long as you both remain within 16 metres of one another.\nBlood Pact is temporarily disabled if you yourself are the Obsession.\nReduces your chance of becoming the initial  Obsession by reducing the default value by -100 %.The Killer can only be obsessed with one Survivor at a time.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0It is as if a latent part of yourself has awakened.You feel like you can reach out beyond yourself for assistance.\nWhen either you or the Obsession become injured by any means, Blood Pact activates:\nYour Auras are constantly revealed to one another.\nCompleting a Healing Action on the Obsession or having them complete one on yourself, grants both of you a 5/6/7 % Haste Status Effect.\nThis effect lasts for as long as you both remain within 16 metres of one another.\nIf you are the Obsession, getting Hooked will cause an another Survivor to become the Obsession.\nReduces your chance of becoming the initial  Obsession by reducing the default value by -100 %.The Killer can only be obsessed with one Survivor at a time.",
     "imgUrl": "/images/thumb/IconPerks_bloodPact.png/96px-IconPerks_bloodPact.png",
     "role": "survivor",
     "origin": "Cheryl"
@@ -176,7 +176,7 @@
   },
   {
     "name": "Boon: Illumination",
-    "description": "\"Your keen insight is something best shared with others.\"\nPress and hold the Active Ability button on a Dull or Hex Totem to bless it and create a Boon Totem.All Survivors within 24 metres hear soft chimes ringing out and benefit from its Boon Effects:\nThe Auras of all Chests and Generators are highlighted to you in blue.\nIncreases your Action speeds for Blessing and Cleansing by 6/8/10 % while you have a lit Boon Totem.\nSurvivors can only be affected by one instance of Boon: Illumination at a time.\nOnly one Totem can be blessed by your Boon Perks at a time and all of their effects are active on the same Boon Totem.\n\"A shift in reality. Heavy with hidden meanings.\" — Return",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Your keen insight is something best shared with others.\"\nPress and hold the Active Ability button on a Dull or Hex Totem to bless it and create a Boon Totem.All Survivors within 24 metres hear soft chimes ringing out and benefit from its Boon Effects:\nThe Auras of all Chests and Generators are highlighted to you in blue.\nIncreases your Blessing action speed by 150/175/200 % while you have a lit Boon Totem.\nSurvivors can only be affected by one instance of Boon: Illumination at a time.\nOnly one Totem can be blessed by your Boon Perks at a time and all of their effects are active on the same Boon Totem.\n\"A shift in reality. Heavy with hidden meanings.\" — Return",
     "imgUrl": "/images/thumb/IconPerks_boonIllumination.png/96px-IconPerks_boonIllumination.png",
     "role": "survivor",
     "origin": "Alan"
@@ -197,7 +197,7 @@
   },
   {
     "name": "Borrowed Time",
-    "description": "\"You are fuelled with an unexpected energy when saving an ally from a hook.\"\nWhenever you unhook another Survivor, they benefit from the following effects:\nExtends the duration of the Endurance Status Effect by 6/8/10 seconds to 16/18/20 seconds.\nEndurance is cancelled prematurely when performing a Conspicuous Action of any kind.\nExtends the duration of the Haste Status Effect by +10 seconds to 20 seconds.\n\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\nWhenever you gain Deep Wound while you have Endurance Status Effect, you passively mend yourself over a period of 40/35/30 seconds.\n\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
     "imgUrl": "/images/thumb/IconPerks_borrowedTime.png/96px-IconPerks_borrowedTime.png",
     "role": "survivor",
     "origin": "Bill"
@@ -211,7 +211,7 @@
   },
   {
     "name": "Bound by Obsession",
-    "description": "\"A supernatural bond links you to the Killer.\"\nWhenever the Killer reads your Aura, Bound by Obsession activates for the same duration as their Aura-reading action:\nThe Aura of the Killer is revealed to you.\nIncreases your Action speeds for Cleansing, Healing, and Repairing actions by 2/4/6 %.\nIf you are the Killer's current Obsession, the following effect triggers automatically every 30 seconds:\nYour Aura is revealed to the Killer for 3 seconds.\nIncreases your chance of becoming the initial  Obsession by increasing the default value by +100 %.The Killer can only be obsessed with one Survivor at a time.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"A supernatural bond links you to the Killer.\"\nWhenever the Killer reads your Aura, Bound by Obsession activates for the same duration as their Aura-reading action:\nThe Aura of the Killer is revealed to you.\nIncreases your Action speeds for Cleansing, Healing, and Repairing actions by 8/9/10 %.\nIf you are the Killer's current Obsession, the following effect triggers automatically every 30 seconds:\nYour Aura is revealed to the Killer for 4 seconds.\nIncreases your chance of becoming the initial  Obsession by increasing the default value by +100 %.The Killer can only be obsessed with one Survivor at a time.",
     "imgUrl": "/images/thumb/IconPerks_objectOfObsession.png/96px-IconPerks_objectOfObsession.png",
     "role": "survivor",
     "origin": "All"
@@ -246,7 +246,7 @@
   },
   {
     "name": "Calm Spirit",
-    "description": "\"Animals seem to trust you as they often stay calm in your presence.\"\nYou experience the following effects during a Trial:\nNearby Crows no longer fly off and alert others to your presence, unless you come within touching distance.\nSuppresses the urge to scream from any cause at all times.\nSuppresses all noises related to interacting with the following Props:\nChests\nTotems\nReduces the Action speeds for Blessing, Cleansing, and Unlocking by 40/35/30 %.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Animals seem to trust you as they often stay calm in your presence.\"\nYou experience the following effects during a Trial:\nNearby Crows no longer fly off and alert others to your presence, unless you come within touching distance.\nSuppresses the urge to scream from any cause at all times.\nSuppresses all noises related to interacting with the following Props:\nChests\nTotems\nIncreases the Action speeds for Blessing, Cleansing, and Unlocking by 8/9/10 %.",
     "imgUrl": "/images/thumb/IconPerks_calmSpirit.png/96px-IconPerks_calmSpirit.png",
     "role": "survivor",
     "origin": "Jake"
@@ -344,7 +344,7 @@
   },
   {
     "name": "Dark Sense",
-    "description": "Unlocks potential in your Aura-reading ability.Whenever a Generator is completed, Dark Sense activates:\nThe Aura of the Killer is revealed to you for 5/7/10 seconds once they come within 24 metres of your location.\nDark Sense deactivates after use.\n\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" — Murf, The Lost Tapes",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Unlocks potential in your Aura-reading ability.Whenever a Generator is completed, Dark Sense activates:\nWhen the Killer gets within 24 metres of you, Dark Sense activates for 8/9/10 seconds:\nYou see the Killer's aura.\nYou see auras of other Survivors.\nYou see the auras of Pallets and Windows within 24 metres.\nDark Sense deactivates after use.\n\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" — Murf, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_darkSense.png/96px-IconPerks_darkSense.png",
     "role": "survivor",
     "origin": "All"
@@ -421,14 +421,14 @@
   },
   {
     "name": "Do No Harm",
-    "description": "\"Helping those in need comes easily, no matter how dire things get.\"\nWhen healing another Survivor, depending on their accumulated Hook Stages, you benefit from the following effects:\nIncreases your Altruistic Healing speed by 30/40/50 % per Hook Stage, up to a maximum of 60/80/100 %.\nIncreases the Progression bonus of Great Healing Skill Checks by +3 % per Hook Stage, up to a maximum of +6 %.\n\"Look at me. My name's Orela, and I'm gonna make sure you're all right.\" — Orela Rose",
+    "description": "\"Helping those in need comes easily, no matter how dire things get.\"\nWhen healing another Survivor, depending on their accumulated Hook Stages, you benefit from the following effects:\nIncreases your Altruistic Healing speed by 30/40/50 % per Hook Stage, up to a maximum of 60/80/100 %.\nIncreases the Progression bonus of Great Healing Skill Checks by +3 % per Hook Stage, up to a maximum of +6 %.\nIncreases the odds of triggering a Skill Check by +5 % per Hook Stage, up to a maximum of +5 %Max.\n\"Look at me. My name's Orela, and I'm gonna make sure you're all right.\" — Orela Rose",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_DoNoHarm.png/96px-T_UI_iconsPerks_DoNoHarm.png",
     "role": "survivor",
     "origin": "Orela"
   },
   {
     "name": "Down to the Last",
-    "description": "As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted.\nEach time a Survivor other than yourself is killed or sacrificed, Down to the Last gains 1 Token, up to a maximum of 3 Tokens:\nGrants a stack-able radius of 20/22/24 metres per Token around you, up to a maximum of 60/66/72 metres, within which you are immune to the Killer's Aura-reading abilities.\nWhen you are the Last Survivor Standing, you benefit from the following effects:\nIncreases your Repair speed by +75 %.\nIncreases your Gate and Hatch Opening speeds by +50 %.\nIncreases your chance of becoming the initial  Obsession by increasing the default value by +100 %.The Killer can only be obsessed with one Survivor at a time.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted.\nWhenever you are hooked or you repair a Generator, Down to the Last gains 1 Token, up to a maximum of 6 Tokens:\nFor each Token, other Survivor open Exit Gates +10 % faster.\nWhen you are the Last Survivor Standing and have at least 3 Tokens, you benefit from the following effects:\nGain the ability to open the Hatch without the need of a Key.\nFor each Token, your aura is hidden from the Killer for 6/8/10 seconds.\nIncreases your chance of becoming the initial  Obsession by increasing the default value by +100 %.The Killer can only be obsessed with one Survivor at a time.",
     "imgUrl": "/images/thumb/IconPerks_soleSurvivor_noLicense.png/96px-IconPerks_soleSurvivor_noLicense.png",
     "role": "survivor",
     "origin": "All"
@@ -449,7 +449,7 @@
   },
   {
     "name": "Empathic Connection",
-    "description": "\"Your presence psychically projects itself to those in danger.\"\nYou benefit from the following permanent primary effect:\nIncreases your Altruistic Healing speed by 25/30/35 %.\nWhenever any other Survivor is injured, Empathic Connection applies its secondary effect:\nYour Aura as a potential Healer is revealed to them.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Your presence psychically projects itself to those in danger.\"\nYou benefit from the following permanent primary effect:\nIncreases your Altruistic Healing speed by 40/45/50 %.\nWhenever any other Survivor is injured, Empathic Connection applies its secondary effect:\nYour Aura as a potential Healer is revealed to them.",
     "imgUrl": "/images/thumb/IconPerks_empathicConnection.png/96px-IconPerks_empathicConnection.png",
     "role": "survivor",
     "origin": "Yoichi"
@@ -498,7 +498,7 @@
   },
   {
     "name": "Five Moves Ahead",
-    "description": "This perk activates while you are being chased by the Killer or are inside the Killer's Terror Radius:\nAfter you drop a Pallet, you start moving 50 % earlier.\nSee the auras of the 5 closest Pallets and Windows.\nThis perk goes on a 40/35/30 seconds cool-down when you drop a Pallet while this perk is activated.\n\"Every problem has a solution. It’s only a question of complexity.\" — Kwon Tae-young",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0This perk activates while you are being chased by the Killer or are inside the Killer's Terror Radius:\nAfter you drop a Pallet, you start moving 50 % earlier.\nSee the auras of the 5 closest Pallets.\nThis perk goes on a 40/35/30 seconds cool-down when you drop a Pallet while this perk is activated.\n\"Every problem has a solution. It’s only a question of complexity.\" — Kwon Tae-young",
     "imgUrl": "/images/thumb/IconsPerks_FiveMovesAhead.png/96px-IconsPerks_FiveMovesAhead.png",
     "role": "survivor",
     "origin": "Kwon"
@@ -526,7 +526,7 @@
   },
   {
     "name": "Flow State",
-    "description": "Whenever a Generator is completed, gain a token, up to 5.\nFor each token:\nBless and cleanse Totems 8/9/10 % faster.\nHeal 8/9/10 % faster.\nUnhook Survivors 8/9/10 % faster.\n\"I’m sorry… I didn’t realize I was working so late.\" — Kwon Tae-young",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Whenever a Generator is completed, gain a token, up to 5.\nFor each token:\nBless and cleanse Totems 13/14/15 % faster.\nHeal 13/14/15 % faster.\nUnhook Survivors 13/14/15 % faster.\n\"I’m sorry… I didn’t realize I was working so late.\" — Kwon Tae-young",
     "imgUrl": "/images/thumb/IconsPerks_FlowState.png/96px-IconsPerks_FlowState.png",
     "role": "survivor",
     "origin": "Kwon"
@@ -547,7 +547,7 @@
   },
   {
     "name": "Friendly Competition",
-    "description": "\"You revel in the community spirit of a competition, and inspire others to follow suit.\"\nEach time you complete a Generator together with at least one other Survivor, Friendly Competition activates:\nIncreases the Repair speed of all participating Survivors, including yourself, by +5 % for 100/110/120 seconds.\n\"C'mon, let's do this!\" — Thalita Lyra",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You revel in the community spirit of a competition, and inspire others to follow suit.\"\nEach time you complete a Generator together with at least one other Survivor, Friendly Competition activates:\nIncreases the Repair speed of all participating Survivors, including yourself, by +10 % for 80/85/90 seconds.\n\"C'mon, let's do this!\" — Thalita Lyra",
     "imgUrl": "/images/thumb/IconPerks_friendlyCompetition.png/96px-IconPerks_friendlyCompetition.png",
     "role": "survivor",
     "origin": "Thalita"
@@ -631,7 +631,7 @@
   },
   {
     "name": "Kindred",
-    "description": "Unlocks potential in your Aura-reading ability.\nWhenever any Survivor is hooked, Kindred activates and applies the following effects:\nThe Aura of the Killer is revealed to all Survivors whenever the Killer comes within 8/12/16 metres of the Hook.\nIf you are the Hooked Survivor, the Auras of all Survivors are revealed to each other.\nIf you are not the Hooked Survivor, the Auras of all other Survivors are only revealed to you.\n\"Be kind to one another, We're all in this together\" — Sujan, The Lost Tapes",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Unlocks potential in your Aura-reading ability.\nWhenever any Survivor is hooked, Kindred activates and applies the following effects:\nThe Aura of the Killer is revealed to all Survivors whenever the Killer comes within 14/15/16 metres of the Hook.\nIf you are the Hooked Survivor, the Auras of all Survivors are revealed to each other.\nIf you are not the Hooked Survivor, the Auras of all other Survivors are only revealed to you.\n\"Be kind to one another, We're all in this together\" — Sujan, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_kindred.png/96px-IconPerks_kindred.png",
     "role": "survivor",
     "origin": "All"
@@ -743,7 +743,7 @@
   },
   {
     "name": "No One Left Behind",
-    "description": "\"It is inconceivable to leave someone behind.\"\nOnce the Exit Gates are powered, No One Left Behind activates:\nThe Auras of all other Survivors are revealed to you.\nIncreases your Action speeds for Healing and Unhooking by 50/75/100 %.\nIncreases the strength and duration of the Haste Status Effect granted to Survivors you unhook by +10 % and +5 seconds respectively:\nCauses them to benefit from a 20 % Haste Status Effect for 15 seconds.\n\"Yeah, no shit.But I believe we can outsmart and overthrow him if we work together.Don't be predictable and selfish!\" — Clyde, The Lost Tapes",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"It is inconceivable to leave someone behind.\"\nOnce the Exit Gates are powered, No One Left Behind activates:\nThe Auras of all other Survivors are revealed to you.\nIncreases your Action speeds for Healing and Unhooking by 80/90/100 %.\nIncreases the strength and duration of the Haste Status Effect granted to Survivors you unhook by +10 % and +5 seconds respectively:\nCauses them to benefit from a 20 % Haste Status Effect for 15 seconds.\n\"Yeah, no shit.But I believe we can outsmart and overthrow him if we work together.Don't be predictable and selfish!\" — Clyde, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_noOneLeftBehind.png/96px-IconPerks_noOneLeftBehind.png",
     "role": "survivor",
     "origin": "All"
@@ -799,7 +799,7 @@
   },
   {
     "name": "Pharmacy",
-    "description": "\"You have a knack for finding medicine.\"\nWhile unlocking a Chest, you benefit from the following effects:\nIncreases the Unlocking speed by 75/100/125 %.\nReduces the audible range of all noises related to the Unlocking interaction by -12 metres.\nGuarantees an Emergency Med-Kit after completing the interaction.\n\"Adrenaline, it is going to keep us awake. I stole it from one of the Nurse's carts.\" — Quentin Smith",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You have a knack for finding medicine.\"\nWhile unlocking a Chest, you benefit from the following effects:\nIncreases the Unlocking and Rummaging speeds by 75/100/125 %.\nReduces the audible range of all noises related to the Unlocking interaction by -12 metres.\nGuarantees an Emergency Med-Kit after completing the interaction.\nYou can rummage each chest 1 time.\n\"Adrenaline, it is going to keep us awake. I stole it from one of the Nurse's carts.\" — Quentin Smith",
     "imgUrl": "/images/thumb/IconPerks_pharmacy.png/96px-IconPerks_pharmacy.png",
     "role": "survivor",
     "origin": "Quentin"
@@ -813,7 +813,7 @@
   },
   {
     "name": "Plunderer's Instinct",
-    "description": "Unlocks potential in your Aura-reading ability:\nThe Auras of the following objects are revealed to you within 32/48/64 metres:\nClosed Chests located in the environment.\nItems sitting inside opened Chests.\nItems dropped in the environment.\nWhen unlocking or rummaging through Chests, you benefit from the following effect:\nIncreases the chances of finding rarer Items by +50 %.\n\"The pioneers used to loot these babies for hours.\" — Aizeyu, The Lost Tapes",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Unlocks potential in your Aura-reading ability:\nThe Auras of the following objects are revealed to you:\nClosed Chests located in the environment.\nItems sitting inside opened Chests.\nItems dropped in the environment.\nIncreases the chances of finding rarer Items inside Chests by +50 %.\nIncreases the unlocking speed of Chests by 150/175/200 %.\n\"The pioneers used to loot these babies for hours.\" — Aizeyu, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_plunderersInstinct.png/96px-IconPerks_plunderersInstinct.png",
     "role": "survivor",
     "origin": "All"
@@ -841,7 +841,7 @@
   },
   {
     "name": "Premonition",
-    "description": "\"You have the undeniable capability to sense danger.\"\nProjects an invisible cone in the direction you are looking, with a Detection angle of 45 ° and a range of 36 metres:\nTriggers an audio cue when detecting the Killer within it.\nPremonition has a cool-down of 60/45/30 seconds.\n\"I have a bad feeling about this!\"",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You have the undeniable capability to sense danger.\"\nWhile not being chased, looking in the Killer's direction within a range of 32 metres triggers Premonition:\nTriggers an audio cue\nReveals the Killer's aura for 3 seconds.\nPremonition has a cool-down of 70/65/60 seconds.\n\"I have a bad feeling about this!\"",
     "imgUrl": "/images/thumb/IconPerks_premonition.png/96px-IconPerks_premonition.png",
     "role": "survivor",
     "origin": "All"
@@ -911,7 +911,7 @@
   },
   {
     "name": "Resilience",
-    "description": "\"You are motivated in dire situations.\"\nWhenever you are in the Injured State, Resilience activates:\nIncreases the Action speeds for the following interactions by 3/6/9 %:\nBlessing or Cleansing Totems.\nHealing yourself or other Survivors.\nOpening Exit Gates.\nRepairing Generators.\nSabotaging Hooks.\nSearching Chests.\nUnhooking other Survivors.\nVaulting Windows.\n\"Focus, even in these desperate times.\"",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You are motivated in dire situations.\"\nWhenever you are in the Injured State, Resilience activates:\nIncreases the Action speeds for the following interactions by 7/8/9 %:\nBlessing or Cleansing Totems.\nHealing yourself or other Survivors.\nOpening Exit Gates.\nRepairing Generators.\nSabotaging Hooks.\nSearching Chests.\nUnhooking other Survivors.\nVaulting Windows.\n\"Focus, even in these desperate times.\"",
     "imgUrl": "/images/thumb/IconPerks_resilience.png/96px-IconPerks_resilience.png",
     "role": "survivor",
     "origin": "All"
@@ -925,7 +925,7 @@
   },
   {
     "name": "Road Life",
-    "description": "\"Faulty amps, sweaty dives, broken-down vans... nothing makes you feel more alive.\"\nWhile injured and repairing a Generator, regular Skill Checks have the following effects:\nGain +1 Token for Great Repair Skill Checks.\nGain 0 Tokens for Good Repair Skill Checks.\nLose -1 Token for Failed Repair Skill Checks.\nOnce you accumulate 6/5/4 Tokens, consume all Tokens to benefit from the following effect:\nIncreases your Healing speed by +100 % until you stop healing.\nRoad Life deactivates after use and does not activate while suffering from the Broken Status Effect.Road Life does not interact with special Skill Checks triggered by outside effects.\n\"Remind me to teach you how to patch your own pedals, Krit.\" — Vee Boonyasak",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Faulty amps, sweaty dives, broken-down vans... nothing makes you feel more alive.\"\nWhile injured and repairing a Generator, regular Skill Checks have the following effects:\nGain +1 Token for Great Repair Skill Checks.\nGain 0 Tokens for Good Repair Skill Checks.\nLose -1 Token for Failed Repair Skill Checks.\nOnce you accumulate 6/5/4 Tokens, consume all Tokens to benefit from the following effect:\nUnlocks the ability to heal yourself\nIncreases your Self-Healing speed by +100 % until you stop healing and for 4 seconds after.\n\"Remind me to teach you how to patch your own pedals, Krit.\" — Vee Boonyasak",
     "imgUrl": "/images/thumb/IconPerks_RoadLife.png/96px-IconPerks_RoadLife.png",
     "role": "survivor",
     "origin": "Vee"
@@ -981,28 +981,28 @@
   },
   {
     "name": "Self-Preservation",
-    "description": "\"Life is unforgiving.The more confirmation you get of that, the more prepared you become.\"\nWhenever another Survivor is hooked, Self-Preservation triggers its effect: \nGrants the Elusive Status Effect for 20/25/30 seconds\n\"Something I learnt in the industry: when the axe is swinging, keep your head down.\" — Yun-Jin Lee",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Life is unforgiving.The more confirmation you get of that, the more prepared you become.\"\nWhenever another Survivor is hooked, Self-Preservation triggers its effect: \nGrants the Elusive Status Effect for 13/14/15 seconds\n\"Something I learnt in the industry: when the axe is swinging, keep your head down.\" — Yun-Jin Lee",
     "imgUrl": "/images/thumb/IconPerks_self-Preservation.png/96px-IconPerks_self-Preservation.png",
     "role": "survivor",
     "origin": "Lee"
   },
   {
     "name": "Shoulder the Burden",
-    "description": "\"Born to be a disciple. Ready to submit to a greater cause. This is your calling.\"\nOnce per Trial, and while you are not on Death Hook, press the Active Ability button while standing in front of a Hooked Survivor to unhook them and trigger the following effects:\nTrade 1 Hook Stage with the other Survivor to their benefit.\nCauses you to scream and suffer from the Exposed Status Effect for 60/50/40 seconds.\n\"It's not your time yet. Now go on!\" — Taurie Cain",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Born to be a disciple. Ready to submit to a greater cause. This is your calling.\"\nOnce per Trial, and while you are not on Death Hook, press the Active Ability button while standing in front of a Hooked Survivor to unhook them and trigger the following effects:\nTrade 1 Hook Stage with the other Survivor to their benefit.\nCauses you to scream, become injured and suffer from the Broken Status Effect for 160/140/120 seconds.\nShoulder the Burden is then deactivated for all Survivors.\n\"It's not your time yet. Now go on!\" — Taurie Cain",
     "imgUrl": "/images/thumb/IconPerks_shoulderTheBurden.png/96px-IconPerks_shoulderTheBurden.png",
     "role": "survivor",
     "origin": "Taurie"
   },
   {
     "name": "Slippery Meat",
-    "description": "You have developed an efficient way to get off Hooks.\nGrants the ability to attempt +3 additional Self-Unhooks during the first Hook Stage.\nIncreases the chances to successfully perform a Self-Unhook by 2/3/4 %.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0You have developed an efficient way to get off Hooks.\nOther Survivors unhook you 90/95/100 % faster.\nIncreases the Haste granted by Unhook Protections by +5 %.",
     "imgUrl": "/images/thumb/IconPerks_slipperyMeat.png/96px-IconPerks_slipperyMeat.png",
     "role": "survivor",
     "origin": "All"
   },
   {
     "name": "Small Game",
-    "description": "\"You have the undeniable capability to sense danger.\"\nProjects an invisible cone in the direction you are looking, with a Detection angle of 45 ° and a range of 8/10/12 metres:\nTriggers an audio cue when detecting any type of Totem within it.\nThis effect has a cool-down of 14/12/10 seconds after use.\nEach time a Totem is cleansed, Small Game gains +1 Token, up to a maximum of 5 Tokens:\nReduces the Detection angle of the cone by a stack-able -5 ° per Token, up to a maximum of -25 °.\n\"Nope.\" — Andy, The Lost Tapes",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You have the undeniable capability to sense danger.\"\nSee auras of Totems within 10/11/12 metres.\n\"Nope.\" — Andy, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_smallGame.png/96px-IconPerks_smallGame.png",
     "role": "survivor",
     "origin": "All"
@@ -1023,7 +1023,7 @@
   },
   {
     "name": "Solidarity",
-    "description": "\"Sharing painful experiences has the power to heal.\"\nWhile injured, healing another Survivor without a Med-Kit causes Solidarity to apply the following effects:\nGrants the ability to passively heal yourself while healing other Survivors.\nReduces your Personal Healing speed to 50/60/70 % of your Altruistic Healing speed.\n\"Showing up when things get rough, listening to people's problems, and supporting those in need; that's how you become stronger, that's how you grow.\" — Jane Romero",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Sharing painful experiences has the power to heal.\"\nWhile injured, healing another Survivor causes Solidarity to apply the following effects:\nGrants the ability to passively heal yourself while healing other Survivors.\nReduces your Personal Healing speed to 65/70/75 % of your Altruistic Healing speed.\n\"Showing up when things get rough, listening to people's problems, and supporting those in need; that's how you become stronger, that's how you grow.\" — Jane Romero",
     "imgUrl": "/images/thumb/IconPerks_solidarity.png/96px-IconPerks_solidarity.png",
     "role": "survivor",
     "origin": "Jane"
@@ -1044,7 +1044,7 @@
   },
   {
     "name": "Spine Chill",
-    "description": "An unnatural tingle warns you of impending doom.\nWhenever the Killer is within 36 metres of your location and looking at you with a clear Line of Sight, Spine Chill activates:\nWarns of the Killer's proximity and their potential awareness of your location by lighting its icon.\nIncreases your Action speeds for Blessing, Cleansing, Gate-Opening, Healing, Repairing, Sabotaging, Unhooking, and Unlocking by 2/4/6 %.\nThis effect lingers for 0.5 seconds after the Killer loses Line of Sight or exits the Activation range.\n\"There is a voice that doesn't use words. Listen..\" — Sassy, The Lost Tapes",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0An unnatural tingle warns you of impending doom.\nWhenever the Killer is within 40 metres of your location and is looking at you, Spine Chill activates:\nYou are notified.\nYou cannot scream for 12 seconds.\nYou vault +10 % faster for 12 seconds.\nSpine Chill then goes on a 40/35/30 seconds cool-down.\n\"There is a voice that doesn't use words. Listen..\" — Sassy, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_spineChill.png/96px-IconPerks_spineChill.png",
     "role": "survivor",
     "origin": "All"
@@ -1058,7 +1058,7 @@
   },
   {
     "name": "Stake Out",
-    "description": "\"Getting close to the Killer fills you with determination.\"\nStaying in the Terror Radius without being chased grants +1 Token every 15 seconds, up to a maximum of 2/3/4 Tokens.While performing a skilful interaction that can trigger Skill Checks, you benefit from the following effects:\nConverts any Good Skill Check into a Great Skill Check.\nThis consumes -1 Token.\nIncreases the Progression bonus of those Great Skill Checks by +1 %.\nStake Out does not apply to regular Great Skill Checks nor do they consume any Tokens.\n\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" — Detective David Tapp",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Getting close to the Killer fills you with determination.\"\nStaying in the Terror Radius and within 24 metres of the Killer without being chased grants +1 Token every 15 seconds, up to a maximum of 2/3/4 Tokens.While performing a skilful interaction that can trigger Skill Checks, you benefit from the following effects:\nReplaces regular Skill Checks with special Skill Checks.\nThese Skill Checks grant +4 % more progress on success and lose -4 % more progress on miss.\nSucceeding or missing a special Skill Check consumes -1 Token.\n\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" — Detective David Tapp",
     "imgUrl": "/images/thumb/IconPerks_stakeOut.png/96px-IconPerks_stakeOut.png",
     "role": "survivor",
     "origin": "David"
@@ -1142,7 +1142,7 @@
   },
   {
     "name": "This Is Not Happening",
-    "description": "\"You perform at your best when you are under extreme stress.\"\nWhenever you are in the Injured State, This Is Not Happening activates and you benefit from the following effect:\nIncreases the Success zone for a Great Skill Check by 10/20/30 % for the following interactions:\nHealing\nRepairing",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You perform at your best when you are under extreme stress.\"\nWhile repairing or healing, This Is Not Happening activates:\nIncreases the Success zone for a Great Skill Check by +30 %.\nIncreases the Success zone for a Good Skill Check by 150/175/200 %.",
     "imgUrl": "/images/thumb/IconPerks_thisIsNotHappening.png/96px-IconPerks_thisIsNotHappening.png",
     "role": "survivor",
     "origin": "All"
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "Wake Up!",
-    "description": "Unlocks potential in your Aura-reading ability.Once all Generators are completed, Wake Up! activates:\nThe Auras of the Exit Gate Switches are revealed to you permanently while within 128 metres.\nYour Aura is revealed to all other Survivors within 128 metres while you are opening an Exit Gate.\nIncreases your Gate-Opening speed by a stack-able 8/10/12.5 % for each Survivor still alive in the Trial, including yourself, up to a maximum of 32/40/50 %.\n\"Ok, look. If we survive the next 24 hours, then I'll take you out on a real date.\" — Quentin Smith",
+    "description": "Unlocks potential in your Aura-reading ability.Once all Generators are completed, Wake Up! activates:\nThe Auras of the Exit Gate Switches are revealed to you permanently while within 128 metres.\nYour Aura is revealed to all other Survivors within 128 metres while you are opening an Exit Gate.\nIncreases your Gate-Opening speed by 8/9/10 % and by an additional #effect for each Survivor still alive in the Trial up to a maximum of 68/69/70 %.\n\"Ok, look. If we survive the next 24 hours, then I'll take you out on a real date.\" — Quentin Smith",
     "imgUrl": "/images/thumb/IconPerks_wakeUp.png/96px-IconPerks_wakeUp.png",
     "role": "survivor",
     "origin": "Quentin"
@@ -1205,7 +1205,7 @@
   },
   {
     "name": "We'll Make It",
-    "description": "\"Helping others heightens your morale.\"\nAfter unhooking another Survivor, We'll Make It activates for 30/60/90 seconds:\nIncreases your Altruistic Healing speed by +100 %.\n\"I am confident we can all escape in one piece if we help each other.\"",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Helping others heightens your morale.\"\nAfter unhooking another Survivor, We'll Make It activates for 70/80/90 seconds:\nIncreases your Altruistic Healing speed by +100 %.\n\"I am confident we can all escape in one piece if we help each other.\"",
     "imgUrl": "/images/thumb/IconPerks_wellMakeIt.png/96px-IconPerks_wellMakeIt.png",
     "role": "survivor",
     "origin": "All"
@@ -1240,7 +1240,7 @@
   },
   {
     "name": "Windows of Opportunity",
-    "description": "Unlocks potential in your Aura-reading ability.\nThe Auras of Breakable Walls, Pallets, and Windows are revealed to you within 24/28/32 metres.\n\"Rise and shine, work hard, carve out your name,Take aim, pull the trigger, hit the bulls eye for fame,Know the value of faith, an' family, and don't you complain,Open wide, your windows of opportunity\" — Kate Denson's \"Windows of Opportunity\"",
+    "description": "Unlocks potential in your Aura-reading ability.\nThe Auras of Windows are revealed to you within 40/35/30 seconds..\nYou vault Windows +10 % faster.\nWindows of Opportunity goes on a 40/35/30 seconds cool-down when you vault a Window.\n\"Rise and shine, work hard, carve out your name,Take aim, pull the trigger, hit the bulls eye for fame,Know the value of faith, an' family, and don't you complain,Open wide, your windows of opportunity\" — Kate Denson's \"Windows of Opportunity\"",
     "imgUrl": "/images/thumb/IconPerks_windowsOfOpportunity.png/96px-IconPerks_windowsOfOpportunity.png",
     "role": "survivor",
     "origin": "Kate"
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Dark Arrogance",
-    "description": "\"When everything is going right, you are an inescapable inevitability.\"\nWhenever you are vaulting a Window, you benefit from the following effect:\nIncreases the Vaulting speed by 15/20/25 %.\nWhenever you are stunned with a Pallet or blinded by any means, you suffer from the following effects:\nReduces the Recovery speed from Pallet Stuns by -15 %.\nIncreases the duration of Killer Blinds by +15 %.\n\"Run all you want. I will not be denied.\" — Vecna",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"When everything is going right, you are an inescapable inevitability.\"\nWhenever you are vaulting a Window, you benefit from the following effect:\nIncreases the Vaulting speed by 15/20/25 %.\nIncreases all basic-attack recovery speeds by 15/20/25 %.\nWhenever you are stunned with a Pallet or blinded by any means, you suffer from the following effects:\nReduces the Recovery speed from Pallet Stuns by -25 %.\nIncreases the duration of Killer Blinds by +25 %.\n\"Run all you want. I will not be denied.\" — Vecna",
     "imgUrl": "/images/thumb/IconPerks_darkArrogance.png/96px-IconPerks_darkArrogance.png",
     "role": "killer",
     "origin": "Lich"
@@ -1422,7 +1422,7 @@
   },
   {
     "name": "Dead Man's Switch",
-    "description": "After hooking a Survivor, Dead Man's Switch triggers its effect:\nBlocks the first Generator any Survivor stops repairing for 25/30/35 seconds.\nThe Blocked Generator is highlighted to you in white.\nDead Man's Switch cannot activate if its effect is still active from a previous activation.\n\"I've seen the look on a man's face when he realises he's going to die.\" — Caleb Quinn",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0After hooking a Survivor, Dead Man's Switch triggers its effect:\nThe first Generator any Survivor stops repairing for 2 seconds is blocked for 30/35/40 seconds\nThe Blocked Generator is highlighted to you in white.\nDead Man's Switch cannot activate if its effect is still active from a previous activation.\n\"I've seen the look on a man's face when he realises he's going to die.\" — Caleb Quinn",
     "imgUrl": "/images/thumb/IconPerks_deadMansSwitch.png/96px-IconPerks_deadMansSwitch.png",
     "role": "killer",
     "origin": "Deathslinger"
@@ -1457,21 +1457,21 @@
   },
   {
     "name": "Dissolution",
-    "description": "\"Everything turns to dust. It is as inescapable as the coming of the night.\"\nAfter 3 seconds of injuring a Survivor by any means, Dissolution activates for 12/16/20 seconds:\nInstantly breaks the next Pallet that Survivor performs a Fast Vault across while inside your Terror Radius.\n\"The Garden shall be a place of perfect Joy; through Joy, nothing shall stand in our way.\" — Otto Stamper",
+    "description": "\"Everything turns to dust. It is as inescapable as the coming of the night.\"\nAfter 3 seconds of injuring a Survivor using a basic-attack, Dissolution activates for 13/14/15 seconds:\nInstantly breaks the next Pallet that Survivor performs a Fast Vault across while inside your Terror Radius.\n\"The Garden shall be a place of perfect Joy; through Joy, nothing shall stand in our way.\" — Otto Stamper",
     "imgUrl": "/images/thumb/IconPerks_dissolution.png/96px-IconPerks_dissolution.png",
     "role": "killer",
     "origin": "Dredge"
   },
   {
     "name": "Distressing",
-    "description": "\"Your horrifying emanation strikes at a supernaturally long distance.\"\nYou benefit from the following permanent effect:\nIncreases your Terror Radius by 20/25/30 %.",
+    "description": "\"Your horrifying emanation strikes at a supernaturally long distance.\"\nYou benefit from the following permanent effect:\nIncreases your Terror Radius by +30 %\nAll Survivors in your Terror Radius repair Generators -6/-7/-8 % slower.",
     "imgUrl": "/images/thumb/IconPerks_distressing.png/96px-IconPerks_distressing.png",
     "role": "killer",
     "origin": "All"
   },
   {
     "name": "Dominance",
-    "description": "The power you wield over the land strikes terror in the hearts of all who cross your path.\nThe first time each Chest and each Totem are interacted with by a Survivor, Dominance triggers its effect:\nCalls upon The Entity to block it for 8/12/16 seconds.\nThe Aura of the blocked Prop is revealed to you in white.\n\"Tragic, is it not? How powerless you must feel.\" — Dracula",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0The power you wield over the land strikes terror in the hearts of all who cross your path.\nThe first time each Totem are interacted with by a Survivor, Dominance triggers its effect:\nCalls upon The Entity to block it for 25 seconds.\nThe Aura of the blocked Prop is revealed to you in white.\nThe Survivor screams.\nThe Survivor's aura is revealed to you for 3/4/5 seconds.\n\"Tragic, is it not? How powerless you must feel.\" — Dracula",
     "imgUrl": "/images/thumb/IconPerks_Dominance.png/96px-IconPerks_Dominance.png",
     "role": "killer",
     "origin": "Dark Lord"
@@ -1597,7 +1597,7 @@
   },
   {
     "name": "Hex: Blood Favour",
-    "description": "\"A Hex that gains the favour of The Entity when blood is spilt.\"\nHex: Blood Favour lights a Hex Totem at the start of the Trial, cursing Survivors with its Hex Effects.Whenever a Survivor loses a Health State by any means, Hex: Blood Favour triggers its effect for 15 seconds:\nBlocks all upright Pallets within 24/28/32 metres of that Survivor.\nBlocked Pallets cannot be dropped by any Survivor.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.\n\"It would be no leap of the imagination to suggest that the Trials are a biological response of sorts.\" — Journal of Talbot Grimes",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"A Hex that gains the favour of The Entity when blood is spilt.\"\nHex: Blood Favour lights a Hex Totem at the start of the Trial, cursing Survivors with its Hex Effects.Whenever a Survivor loses a Health State by a basic-attack, Hex: Blood Favour triggers its effect for 13/14/15 seconds:\nBlocks all upright Pallets within 32 metres of that Survivor.\nBlocked Pallets cannot be dropped by any Survivor.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.\n\"It would be no leap of the imagination to suggest that the Trials are a biological response of sorts.\" — Journal of Talbot Grimes",
     "imgUrl": "/images/thumb/IconPerks_hexBloodFavour.png/96px-IconPerks_hexBloodFavour.png",
     "role": "killer",
     "origin": "Blight"
@@ -1660,7 +1660,7 @@
   },
   {
     "name": "Hex: Nothing but Misery",
-    "description": "\"You've been driven to the absolute depths of pain, and now you're ready to inflict that pain on others.\"\nAfter damaging Survivors a total of 8 times with Basic Attacks, a random Dull Totem becomes a Hex Totem, cursing all Survivors:\nSurvivors damaged by a Basic Attack suffer from a -5 % Hindered Status Effect for 10/12.5/15 seconds.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.\n\"All of the liabilities of this world are due to the inadequacies of the person involved.\" — Ken Kaneki",
+    "description": "\"You've been driven to the absolute depths of pain, and now you're ready to inflict that pain on others.\"\nAfter damaging Survivors a total of 4 times with Basic Attacks, a random Dull Totem becomes a Hex Totem, cursing all Survivors:\nSurvivors damaged by a Basic Attack suffer from:\n-5 % Hindered Status Effect for 10/12.5/15 seconds.\n-10 % slower vaulting speed for 10/12.5/15 seconds.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.\n\"All of the liabilities of this world are due to the inadequacies of the person involved.\" — Ken Kaneki",
     "imgUrl": "/images/thumb/T_UI_iconPerks_NothingButMisery.png/96px-T_UI_iconPerks_NothingButMisery.png",
     "role": "killer",
     "origin": "Ghoul"
@@ -1716,7 +1716,7 @@
   },
   {
     "name": "Hex: Thrill of the Hunt",
-    "description": "\"A Hex rooting its power on hope.The false hope of Survivors fills you with excitement and strengthens your Totems.\"\nStart the Trial with 5 Tokens, one for each Totem located in the environment:\nReduces the Action speeds for Blessing and Cleansing by a stack-able 8/9/10 % per Token, up to a maximum of 40/45/50 %.\nHex: Thrill of the Hunt loses -1 Token whenever a Totem is cleansed.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"A Hex rooting its power on hope.The false hope of Survivors fills you with excitement and strengthens your Totems.\"\nIf there is still a Dull Totem in the environment, Hex: Thrill of the Hunt lights a Hex Totem whenever you hook a Survivor for the first time, cursing them with its Hex Effects.\nFor each lit Hex Totem located in the environment, gain a token.\nHooking a Survivor causes all Totems to be blocked by the Entity by a stack-able 6/7/8 seconds per Token, up to a maximum of 30/35/40 seconds.\nHex: Thrill of the Hunt loses -1 Token whenever a Hex Totem is cleansed.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.",
     "imgUrl": "/images/thumb/IconPerks_hexThrillOfTheHunt.png/96px-IconPerks_hexThrillOfTheHunt.png",
     "role": "killer",
     "origin": "All"
@@ -1793,7 +1793,7 @@
   },
   {
     "name": "Insidious",
-    "description": "Unlocks the stealth ability.After standing still for 3/2/1 second(s), Insidious activates for as long as you remain stationary:\nGrants the Undetectable Status Effect.\nInsidious deactivates once you start moving again.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Unlocks the stealth ability.After standing still for 2 seconds, Insidious activates for as long as you remain stationary:\nGrants the Undetectable Status Effect.\nThis persists for 6/7/8 seconds once you act .",
     "imgUrl": "/images/thumb/IconPerks_insidious.png/96px-IconPerks_insidious.png",
     "role": "killer",
     "origin": "All"
@@ -1821,7 +1821,7 @@
   },
   {
     "name": "Knock Out",
-    "description": "\"The trauma caused by your brutal attacks makes crying for help painfully difficult.\"\nWhenever a Survivor moves farther than 6 metres from a Pallet within 6 seconds of dropping it, Knock Out triggers its effect:\nCauses them to suffer from a -5 % Hindered Status Effect for 3/4/5 seconds.\n\"Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way.\" — Nubbins Sawyer",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"The trauma caused by your brutal attacks makes crying for help painfully difficult.\"\nWhenever a Survivor moves farther than 10 metres from a Pallet within 6 seconds of dropping it and without the Pallet being destroyed, Knock Out triggers its effect:\nCauses them to suffer from a -20 % Hindered Status Effect for 3/4/5 seconds.\n\"Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way.\" — Nubbins Sawyer",
     "imgUrl": "/images/thumb/IconPerks_knockOut.png/96px-IconPerks_knockOut.png",
     "role": "killer",
     "origin": "Cannibal"
@@ -2017,7 +2017,7 @@
   },
   {
     "name": "Ravenous",
-    "description": "\"The scent of blood is in the air.Time to feast.\"\nWhenever you hook a Survivor for the first time, Ravenous gains +1 Token, up to a maximum of 4 Tokens.Once you accumulate 4 Tokens, all Survivors suffer from the following effects:\nCauses them to scream.\nInflicts the Exposed Status Effect for 40/50/60 seconds.\n\"Weeping Ginevra's blood streams/The devil smells the weak.\" — Fabbro Barone's \"Ginevra\"",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"The scent of blood is in the air.Time to feast.\"\nWhenever you hook a Survivor for the first time, Ravenous gains +1 Token, up to a maximum of 4 Tokens.For each Token:\nGrants +4 % Haste Status Effect while carrying a Survivor.\nIncreases your hooking speed by +4 %.\nOnce you accumulate 4 Tokens, all Survivors suffer from the following effects:\nCauses them to scream.\nInflicts the Exposed Status Effect for 80/85/90 seconds.\n\"Weeping Ginevra's blood streams/The devil smells the weak.\" — Fabbro Barone's \"Ginevra\"",
     "imgUrl": "/images/thumb/IconPerks_Ravenous.png/96px-IconPerks_Ravenous.png",
     "role": "killer",
     "origin": "Krasue"
@@ -2066,7 +2066,7 @@
   },
   {
     "name": "Scourge Hook: Monstrous Shrine",
-    "description": "\"Your fervent care of the Hooks found in the Basement has aroused The Entity's interest.\"\nAt the start of the Trial, the 4 Hooks located inside the Basement and an additional 4 Hooks located throughout the Trial Grounds are all changed into Scourge Hooks:\nThe Auras of Scourge Hooks are highlighted to you in white.\nWhenever you are farther than 24 metres from a Survivor hooked onto a Scourge Hook, the following effect applies:\nAccelerates their Sacrifice Process by 10/15/20 %.\n\"Then you will know that there is no escape. When hanging in the depths, you face the dark one.\"",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Your fervent care of the Hooks found in the Basement has aroused The Entity's interest.\"\nAt the start of the Trial, the 4 Hooks located inside the Basement and an additional 4 Hooks located throughout the Trial Grounds are all changed into Scourge Hooks:\nThe Auras of Scourge Hooks are highlighted to you in white.\nWhenever you are farther than 24 metres from a Survivor hooked onto a Scourge Hook, the following effect applies:\nAll Generators regress at 150/175/200 % of the default Regression rate.\n\"Then you will know that there is no escape. When hanging in the depths, you face the dark one.\"",
     "imgUrl": "/images/thumb/IconPerks_scourgeHookMonstrousShrine.png/96px-IconPerks_scourgeHookMonstrousShrine.png",
     "role": "killer",
     "origin": "All"
@@ -2115,7 +2115,7 @@
   },
   {
     "name": "Shattered Hope",
-    "description": "To capture your prey, you must first extinguish their hope.\nInstead of snuffing Boon Totems you destroy them.\nDestroying a Boon Totem this way reveals the Auras of all Survivors that were within its range at that moment for 6/7/8 seconds.\n\"Nothing is permanent here. Nothing except our endless perdition.\" — Unknown, Notebook",
+    "description": "To capture your prey, you must first extinguish their hope.\nInstead of snuffing Boon Totems you destroy them.\nWhenever a Totem is blessed, cleansed or destroyed:\nAll Totems are blocked for 16/18/20 seconds.\nAll blessed Totem  auras are revealed to you for 16/18/20 seconds.\n\"Nothing is permanent here. Nothing except our endless perdition.\" — Unknown, Notebook",
     "imgUrl": "/images/thumb/IconPerks_shatteredHope.png/96px-IconPerks_shatteredHope.png",
     "role": "killer",
     "origin": "All"
@@ -2164,7 +2164,7 @@
   },
   {
     "name": "Superior Anatomy",
-    "description": "\"Decades of research have culminated in you: something faster, stronger, and more dangerous than any human.\"\nWhenever a Survivor performs a Rush Vault action within 12 metres of your location, Superior Anatomy activates:\nIncreases your Vaulting speed by 30/35/40 %.\nSuperior Anatomy deactivates after vaulting.Superior Anatomy has a cool-down of 25 seconds.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Decades of research have culminated in you: something faster, stronger, and more dangerous than any human.\"\nWhenever a Survivor performs a Rush Vault action within 12 metres of your location, Superior Anatomy activates for 10 seconds:\nIncreases your Vaulting speed by 30/35/40 %.\nSuperior Anatomy has a cool-down of 20 seconds.",
     "imgUrl": "/images/thumb/IconPerks_superiorAnatomy.png/96px-IconPerks_superiorAnatomy.png",
     "role": "killer",
     "origin": "Mastermind"
@@ -2255,7 +2255,7 @@
   },
   {
     "name": "Undone",
-    "description": "\"Hope is the delusion that keeps its victims alive.\"\nFor every Repair or Healing Skill Check failed by a Survivor, Undone gains +3 Tokens, up to a maximum of 18/24/30 Tokens.Performing the Damage Generator action on a Generator consumes all accumulated Tokens and applies the following effects:\nInstantly regresses the Damaged Generator by a stack-able -1 % of its total Progression per Token, up to a maximum of 18/24/30 %.\nBlocks the Damaged Generator for 1 second per Token, up to a maximum of 18/24/30 seconds.\nCauses the Damaged Generator to start regressing once it becomes unblocked.\nUndone has a cool-down of 60 seconds.\n\"Erratic behavior in machinery could be related to [REDACTED], further testing required.\" — OSS Report, 12/02/1943",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Hope is the delusion that keeps its victims alive.\"\nFor every time you hook a Survivor, Undone gains +1 Token, up to a maximum of 1/2/3 Token(s).Performing the Damage Generator action on a Generator consumes all accumulated Tokens and applies the following effects:\nInstantly regresses the Damaged Generator by a stack-able -10 % of its total Progression per Token, up to a maximum of 10/20/30 %.\nBlocks the Damaged Generator for 10 seconds per Token, up to a maximum of 10/20/30 seconds.\nCauses the Damaged Generator to start regressing once it becomes unblocked.\n\"Erratic behavior in machinery could be related to [REDACTED], further testing required.\" — OSS Report, 12/02/1943",
     "imgUrl": "/images/thumb/IconPerks_undone.png/96px-IconPerks_undone.png",
     "role": "killer",
     "origin": "Unknown"
@@ -2276,7 +2276,7 @@
   },
   {
     "name": "Unrelenting",
-    "description": "\"You recuperate faster from missed attacks made with your main weapon.\"\nBasic Attacks benefit from the following effect:\nReduces the Cool-down time of missed attacks by 20/25/30 %.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You recuperate faster from missed attacks made with your main weapon.\"\nBasic Attacks benefit from the following effect:\nIncreases the recovery speed of missed basic-attacks by 30/35/40 %.\nIncreases the recovery speed of successful basic-attacks by 10 %.",
     "imgUrl": "/images/thumb/IconPerks_unrelenting.png/96px-IconPerks_unrelenting.png",
     "role": "killer",
     "origin": "All"
@@ -2297,7 +2297,7 @@
   },
   {
     "name": "Whispers",
-    "description": "\"You have a rudimentary understanding of The Entity's voice.\"\nWhenever any Survivor is within 48/40/32 metres of your location, Whispers triggers its effect:\nCauses you to hear the sporadic whispers of The Entity, indicating a Survivor's presence.\n\"It is unclear as to the motivations of The Fog, but it is undeniable that it often takes the beast's side.\" — Unknown, Notebook",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You have a rudimentary understanding of The Entity's voice.\"\nWhenever any Survivor is within 28/26/24 metres of your location:\nCauses you to hear the sporadic whispers of The Entity, indicating a Survivor's presence.\nWhenever any Survivor is outside 28/26/24 metres of your location:\nGain +5 % Haste Status Effect.\n\"It is unclear as to the motivations of The Fog, but it is undeniable that it often takes the beast's side.\" — Unknown, Notebook",
     "imgUrl": "/images/thumb/IconPerks_whispers.png/96px-IconPerks_whispers.png",
     "role": "killer",
     "origin": "All"
