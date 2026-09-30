@@ -197,7 +197,7 @@
   },
   {
     "name": "Borrowed Time",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\nWhenever you gain Deep Wound while you have Endurance Status Effect, you passively mend yourself over a period of 40/35/30 seconds.\n\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Whenever you gain Deep Wound while you have Endurance Status Effect, Borrowed Time activates:\nPassively mend yourself over a period of 40/35/30 seconds.\n\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
     "imgUrl": "/images/thumb/IconPerks_borrowedTime.png/96px-IconPerks_borrowedTime.png",
     "role": "survivor",
     "origin": "Bill"
@@ -428,7 +428,7 @@
   },
   {
     "name": "Down to the Last",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted.\nWhenever you are hooked or you repair a Generator, Down to the Last gains 1 Token, up to a maximum of 6 Tokens:\nFor each Token, other Survivor open Exit Gates +10 % faster.\nWhen you are the Last Survivor Standing and have at least 3 Tokens, you benefit from the following effects:\nGain the ability to open the Hatch without the need of a Key.\nFor each Token, your aura is hidden from the Killer for 6/8/10 seconds.\nIncreases your chance of becoming the initial  Obsession by increasing the default value by +100 %.The Killer can only be obsessed with one Survivor at a time.",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted.\nWhenever you are hooked or you repair a Generator, Down to the Last gains 1 Token, up to a maximum of 6 Tokens:\nFor each Token, other Survivors open Exit Gates +10 % faster.\nWhen you are the Last Survivor Standing and have at least 3 Tokens, you benefit from the following effects:\nGain the ability to open the Hatch without the need of a Key.\nFor each Token, your aura is hidden from the Killer for 6/8/10 seconds.\nIncreases your chance of becoming the initial  Obsession by increasing the default value by +100 %.The Killer can only be obsessed with one Survivor at a time.",
     "imgUrl": "/images/thumb/IconPerks_soleSurvivor_noLicense.png/96px-IconPerks_soleSurvivor_noLicense.png",
     "role": "survivor",
     "origin": "All"
@@ -988,7 +988,7 @@
   },
   {
     "name": "Shoulder the Burden",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Born to be a disciple. Ready to submit to a greater cause. This is your calling.\"\nOnce per Trial, and while you are not on Death Hook, press the Active Ability button while standing in front of a Hooked Survivor to unhook them and trigger the following effects:\nTrade 1 Hook Stage with the other Survivor to their benefit.\nCauses you to scream, become injured and suffer from the Broken Status Effect for 160/140/120 seconds.\nShoulder the Burden is then deactivated for all Survivors.\n\"It's not your time yet. Now go on!\" — Taurie Cain",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"Born to be a disciple. Ready to submit to a greater cause. This is your calling.\"\nOnce per Trial, and while you are not on Death Hook, press the Active Ability button while standing in front of a Hooked Survivor to unhook them and trigger the following effects:\nTrade 1 Hook Stage with the other Survivor to their benefit.\nCauses you to scream, become injured if healthy and suffer from the Broken Status Effect for 160/140/120 seconds.\nShoulder the Burden is then deactivated for all Survivors.\n\"It's not your time yet. Now go on!\" — Taurie Cain",
     "imgUrl": "/images/thumb/IconPerks_shoulderTheBurden.png/96px-IconPerks_shoulderTheBurden.png",
     "role": "survivor",
     "origin": "Taurie"
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "Small Game",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You have the undeniable capability to sense danger.\"\nSee auras of Totems within 10/11/12 metres.\n\"Nope.\" — Andy, The Lost Tapes",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0\"You have the undeniable capability to sense danger.\"\nYou see auras of Totems within 10/11/12 metres.\n\"Nope.\" — Andy, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_smallGame.png/96px-IconPerks_smallGame.png",
     "role": "survivor",
     "origin": "All"
@@ -1793,7 +1793,7 @@
   },
   {
     "name": "Insidious",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Unlocks the stealth ability.After standing still for 2 seconds, Insidious activates for as long as you remain stationary:\nGrants the Undetectable Status Effect.\nThis persists for 6/7/8 seconds once you act .",
+    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.2.0Unlocks the stealth ability.After standing still for 2 seconds, Insidious activates for as long as you remain stationary:\nGrants the Undetectable Status Effect.\nThis persists for 6/7/8 seconds once start moving.",
     "imgUrl": "/images/thumb/IconPerks_insidious.png/96px-IconPerks_insidious.png",
     "role": "killer",
     "origin": "All"
