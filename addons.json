@@ -3368,6 +3368,166 @@
     "rarity": "Visceral"
   },
   {
+    "name": "Bent Wheel",
+    "description": "\"All that remained of the victim's wheelchair after the fatal blow.\"\nIncreases the Jump Scare targetting range by +4 metres.",
+    "imgUrl": "/images/T_UI_iconAddon_BentWheel.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Common"
+  },
+  {
+    "name": "Garden Claw",
+    "description": "\"Good for digging up weeds and digging into human flesh.\"\nIncreases the duration of Killer Instinct after a Jump Scare by +2 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_GardenClaw.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Common"
+  },
+  {
+    "name": "Knitting Needle",
+    "description": "\"You won't believe what—and who—this thing has been through.\"\nIncreases the time it takes for Survivors to remove an impaled Hook Spike from themselves by +20 %.",
+    "imgUrl": "/images/T_UI_iconAddon_KnittingNeedle.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Common"
+  },
+  {
+    "name": "Orderly's Shoe",
+    "description": "\"It hung from her twitching foot as the knife plunged into her belly.\"\nIncreases the duration of the Haste Status Effect after a Jump Scare by +5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_OrderlysShoe.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Common"
+  },
+  {
+    "name": "Bloody Smile",
+    "description": "\"He wasn't happy after his face was smashed into a tree.\"\nIncrease the detection ranges of Jump Scare and Omnipresent Evil by +4 metres.",
+    "imgUrl": "/images/T_UI_iconAddon_BloodySmile.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Coroner's Coffee",
+    "description": "\"A cup of coffee that went unfinished.\"\nIncreases the duration of Throwing Spike's push by +25 %.\nGain +13 % Haste Status Effect for 3 seconds after injuring a Survivor with a Throwing Spike if they do not collide with the environment during the push.",
+    "imgUrl": "/images/T_UI_iconAddon_CoronersCoffee.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Party Noisemaker",
+    "description": "\"A party instument that tore through a woman's eyeball and gouged her brain.\"\nBreaking a Pallet or a Breakable Wall with Jump Scare reveals all Survivors further than 28 metres for 6 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_PartyNoisemaker.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Sleeping Bag",
+    "description": "\"An absolutely awful place to hide from a killer.\"\nAfter grabbing a Hook Spike while in Omnipresent Evil, Survivors who are within 10 metres of any Hook have their location revealed for 5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_SleepingBag.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Toxic Waste",
+    "description": "\"No one could survive being submerged in this poison.\"\nAfter performing a Jump Scare, Survivors within  10 metres of a Hook or a Scrap Pile are inflicted with Oblivious Status Effect for 13 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_ToxicWaste.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Eye Goop",
+    "description": "\"What remains when a harpoon is shoved into one's eye.\"\nGain Undetectable Status Effect after grabbing a Hook Spike for 13 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_EyeGoop.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Imprinted Aluminum",
+    "description": "\"It's either avant-garde artwork, or the horrified imprint of a woman whose face was slammed into it.\"\nInjuring a healthy Survivor with a Throwing Spike inflicts them with Mangled and Haemorrhage Status Effects for 70 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_ImprintedAluminum.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Mirror Shards",
+    "description": "\"A weapon that dealt more than bad luck.\"\nSurvivors are inflicted with  Broken Status Effect after extracting a Hook Spike from themselves for 40 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_MirrorShards.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Sauna Rock",
+    "description": "\"Nicely weighted, could be used to crush a rib cage.\"\nAfter performing a Jump Scare, inflict all detected Survivors with Exhausted Status Effect for 3 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_SaunaRock.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Two Nails",
+    "description": "\"A reliable way to hold a corpse's wrist in place.\"\nSurvivors that come within 1 metre of a Throwing Spike have their aura revealed for 5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_TwoNails.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Bloody Magazine",
+    "description": "\"The spattering of blood told the story of a brutal massacre.\"\nWhen a  Hook Spike misses, all Survivor within 8 metres of the Hook Spike's impact zone scream and reveal their auras for 3 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_BloodyMagazine.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Burnt Fuse",
+    "description": "\"The surge of electricity was overwhelming. It left the man's flesh charred and smelling of cooked meat.\"\nWhen a Survivor is impaled by a  Hook Spike, the Exit Gates are blocked for them and any Survivor within 13 metres. This effect persists for 5 seconds after the Survivor is no longer impaled.",
+    "imgUrl": "/images/T_UI_iconAddon_BurntFuse.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Deputy's Badge",
+    "description": "\"The badge of an officer who discovered that some things aren't worth investigating.\"\nWhile in Omnipresent Evil, passing within 2 metres of a Generator causes the Generator to explode, lose -5 % progress and begin regressing.\nIf a Survivor is repairing the Generator, all Survivors repairing it will instead get a special Skill Check. If the Skill Check is failed, the Generator loses -10 % additional progress on top of the base Skill Check penalty.",
+    "imgUrl": "/images/T_UI_iconAddon_DeputysBadge.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Missing Corkscrew",
+    "description": "\"It seems to always be missing when you need it on-hand.\"\nWhen a Survivor is impaled by a  Hook Spike, they emit a  32 metres Terror Radius until the Hook Spike is removed.\nGain Undetectable Status Effect when impaling a Survivor with a Hook Spike. This effect persists for 13 seconds after the Surivvor is no longer impaled.",
+    "imgUrl": "/images/T_UI_iconAddon_MissingCorkscrew.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Dirty Money",
+    "description": "\"No amount of money can save you from him.\"\nWhen a Generator is repaired, gain 2 tokens.\nWhen you vault a Window or break a Pallet or a Breakable Wall, consume 1 token and gain a regular Spike if you don't have one already.",
+    "imgUrl": "/images/T_UI_iconAddon_DirtyMoney.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Visceral"
+  },
+  {
+    "name": "Iridescent Boat Motor",
+    "description": "\"The blades are chipped and cracked, as if having cut through something solid.\"\nPassing through Windows while in Omnipresent Evil marks them for 13 seconds. Performing a Jump Scare blocks all marked Windows for 13 seconds",
+    "imgUrl": "/images/T_UI_iconAddon_IridescentBoatMotor.png",
+    "role": "killer",
+    "itemOrPowerName": "Omnipresent Evil",
+    "rarity": "Visceral"
+  },
+  {
     "name": "Anteiku Apron",
     "description": "Standard-issue uniform at a lovely little coffee shop.\nShortens the slide after Kagune Leaps by -50 %.",
     "imgUrl": "/images/T_UI_iconAddon_AnteikuApron.png",
@@ -3852,7 +4012,7 @@
     "description": "An old ammo belt Caleb altered for his specialised weaponry.Still holds the fine red dirt of the Arizona Territory desert.\nReduces the Reload time of The Redeemer by -0.25 seconds.",
     "imgUrl": "/images/IconAddon_modifiedAmmoBelt.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Common"
   },
   {
@@ -3860,7 +4020,7 @@
     "description": "Weak steel links first used on Caleb's prototype Speargun.Despite the chain's failings, it holds sentimental value.\nGrants +50 % bonus Bloodpoints for Speared Score Events.\nIncreases the Break-Free speed of Survivors from The Redeemer by +33 %.",
     "imgUrl": "/images/IconAddon_ricketyChain.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Common"
   },
   {
@@ -3868,7 +4028,7 @@
     "description": "A tincture of oils and extracts purchased from a travelling salesman.Purported to cure all that ails you.\nIncreases the Reeling speed of The Redeemer by +2.5 %.",
     "imgUrl": "/images/IconAddon_snakeOil.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Common"
   },
   {
@@ -3876,7 +4036,7 @@
     "description": "A grimy piece of burlap.Spit and elbow grease was enough to wipe down the Speargun in the heat of a shootout.\nReduces the Cool-down time of missed shots with The Redeemer by -0.25 seconds.",
     "imgUrl": "/images/IconAddon_spitPolishRag.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Common"
   },
   {
@@ -3884,7 +4044,7 @@
     "description": "A can of clipped and sweetened tobacco leaves lifted from a gutted body in Glenvale.Stimulates the nervous system.\nReduces the Stun duration when Survivors break free from The Redeemer by -0.25 seconds.",
     "imgUrl": "/images/IconAddon_chewingTobacco.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Uncommon"
   },
   {
@@ -3892,7 +4052,7 @@
     "description": "The bullet that ripped through Caleb's jaw during a frenzy shootout.It brings back burning desire for revenge.\nIncreases your Movement speed by +1.5 % during Aim Down Sights.\n\"You called death to your door the instant you done me wrong.\" — Caleb Quinn",
     "imgUrl": "/images/IconAddon_jawSmasher.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Uncommon"
   },
   {
@@ -3900,7 +4060,7 @@
     "description": "A silver badge taken from the corpse of a lawman in Arizona Territory who interfered with the Hellshire Gang's bounties.\nReduces your Terror Radius by -4 metres during Aim Down Sights.\n\"Get your prayers in, you'll be swinging by noon.\" — Caleb Quinn",
     "imgUrl": "/images/IconAddon_marshalsBadge.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Uncommon"
   },
   {
@@ -3908,7 +4068,7 @@
     "description": "An ordinary-looking plant, Caleb found out that spears coated in its oil cause unbearable blistering around wound.\nIncreases the Mending time of Survivors by +1.5 seconds.",
     "imgUrl": "/images/IconAddon_poisonOakLeaves.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Uncommon"
   },
   {
@@ -3916,7 +4076,7 @@
     "description": "A railroad spike that Caleb fastened to the front of the Speargun during a moment of morbid curiosity.The dull tip prevents it from cleanly piercing its target.\nSpeared Survivors hit with the The Redeemer suffer from the Mangled Status Effect for 60 seconds.",
     "imgUrl": "/images/IconAddon_rustedSpike.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Uncommon"
   },
   {
@@ -3924,7 +4084,7 @@
     "description": "A golden tooth torn from Henry Bayshore as he screamed for mercy, hours before he was finished off.\nIncreases the Reeling speed of The Redeemer by +5 %.\n\"Know your place, boy. Know you damn place.\" — Henry Bayshore",
     "imgUrl": "/images/IconAddon_bayshoresGoldTooth.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Rare"
   },
   {
@@ -3932,7 +4092,7 @@
     "description": "Angered with a bounty who fled twice before, Caleb twisted thorn branches onto a spear and let it loose.\nSpeared Survivors breaking free from the The Redeemer suffer from the Mangled Status Effect for 70 seconds.",
     "imgUrl": "/images/IconAddon_honeyLocustThorn.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Rare"
   },
   {
@@ -3940,7 +4100,7 @@
     "description": "A can holding a small amount of oil to reduce friction in machinery.Early models of the Speargun were notorious for jamming, and oil had to be readily available.\nReduces the Cool-down time of missed shots with The Redeemer by -0.5 seconds.",
     "imgUrl": "/images/IconAddon_tinOilCan.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Rare"
   },
   {
@@ -3948,7 +4108,7 @@
     "description": "The bullet that ripped through Caleb's jaw during a frenzy shootout.It brings back burning desire for revenge.\nIncreases your Movement speed by +3 % during Aim Down Sights.\n\"You'll be met with a fierce reckoning, swear it on my mum's grave.\" — Caleb Quinn",
     "imgUrl": "/images/IconAddon_wantedPoster.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Rare"
   },
   {
@@ -3956,7 +4116,7 @@
     "description": "The dull jangle of the keys evokes a furious memory within Caleb.\nReduces the Reload time of The Redeemer by -0.35 seconds.",
     "imgUrl": "/images/IconAddon_wardensKeys.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Rare"
   },
   {
@@ -3964,7 +4124,7 @@
     "description": "Pliable American-made steel lined with sharp barbs.Despite its simplicity, Caleb found it could be wrapped around a spear to increase its viciousness.\nIncreases the Mending time of Survivors by +3.5 seconds.\n\"There won't be nothing to fear soon. Till then, fear me.\" — Caleb Quinn",
     "imgUrl": "/images/IconAddon_barbedWire.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Very Rare"
   },
   {
@@ -3972,7 +4132,7 @@
     "description": "A quality cigar, plucked from the jacket of Caleb's boss while he wailed over the spear lodged in his abdomen.\nReduces the Stun duration when Survivors break free from The Redeemer by -0.75 seconds.\n\"Do not point that thing at me, you slack-jawed imbecile.\" — Henry Bayshore",
     "imgUrl": "/images/IconAddon_bayshoresCigar.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Very Rare"
   },
   {
@@ -3980,7 +4140,7 @@
     "description": "Warm comfort in a bottle that quelled Caleb's anger and slowed his step.\nReduces your Terror Radius by -8 metres during Aim Down Sights.\n\"A smooth taste for the rugged frontier.\" — Gold Creek Advertisement, 1876",
     "imgUrl": "/images/IconAddon_goldCreekWhiskey.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Very Rare"
   },
   {
@@ -3988,7 +4148,7 @@
     "description": "A thick, heavy chain that once held a steel ball and latched to Caleb's ankle.It has been re-purposed to hook onto a spear.\nIncreases the Break-Free time of Survivors from The Redeemer by +10 %.\n\"Inmates working beyond the prison yard must be affixed with a steel ball of no less than 18 pounds.\" — Hellshire Penitentiary Guard Book",
     "imgUrl": "/images/IconAddon_prisonChain.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Very Rare"
   },
   {
@@ -3996,7 +4156,7 @@
     "description": "The Hellshire Gang's branding iron.Despite folklore, it never made its mark on new initiates, instead having been used to brand particularly quarrelsome bounties.\nGrants the Undetectable Status Effect while a Survivor is speared by The Redeemer.\nThis effect lingers for 10 seconds.\n\"Hellshire Gang: Justice Seekers or Outlaws?\" — Glenvale Gazette headline",
     "imgUrl": "/images/IconAddon_hellshireIron.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Visceral"
   },
   {
@@ -4004,7 +4164,7 @@
     "description": "A glass-like coin moulded from The Fog itself.A payment to the bounty hunter for the services rendered.\nSurvivors suffer from the Exposed Status Effect while speared by The Redeemer, if shot from at least 12 metres away.\n\"Deals made in desperation are paid for in madness.\"",
     "imgUrl": "/images/IconAddon_iridescentCoin.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "The Redeemer",
     "rarity": "Visceral"
   },
   {
@@ -4812,7 +4972,7 @@
     "description": "A simple nail that cut deep into Larry Cotton's hand.Though the damage was superficial, it set into motion a horrifying set of events.\nGrants +100 % bonus Bloodpoints for Chain Bound Score Events.\nReduces the number of bonus Chains spawned when Survivors are hit with a Possessed Chain Attack to +1.",
     "imgUrl": "/images/IconAddon_bentNail.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Common"
   },
   {
@@ -4820,7 +4980,7 @@
     "description": "A candle lit by Frank Cotton during a fatal summoning ceremony.\nReduces the Timer duration for starting a Chain Hunt by -3 seconds.",
     "imgUrl": "/images/IconAddon_burningCandle.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Common"
   },
   {
@@ -4828,7 +4988,7 @@
     "description": "Leather strips torn from a Cenobite's uniform, allowing for the mutilation of exposed flesh.\nReduces the Cool-down time of a Possessed Chain Attack by -0.15 seconds.",
     "imgUrl": "/images/IconAddon_leatherStrip.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Common"
   },
   {
@@ -4836,7 +4996,7 @@
     "description": "Insects which scarcely avoided being eaten by a mysterious drifter.\nIncreases the Turn rate of the Possessed Chain by +10 %.",
     "imgUrl": "/images/IconAddon_livelyCrickets.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Common"
   },
   {
@@ -4844,7 +5004,7 @@
     "description": "A television that acted strangely upon the arrival of the Cenobites.\nIncreases the maximum Casting distance of the Gateway by +4 metres.",
     "imgUrl": "/images/IconAddon_flickeringTelevision.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Uncommon"
   },
   {
@@ -4852,7 +5012,7 @@
     "description": "The result of summoning the Cenobites.There is no telling what part of the human body this belonged to.\nIncreases the Solving time of the Lament Configuration by +1 second.",
     "imgUrl": "/images/IconAddon_liquifiedGore.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Uncommon"
   },
   {
@@ -4860,7 +5020,7 @@
     "description": "A crude solution for the Cotton home's rat problem.\nReduces the Cool-down time of a Possessed Chain Attack by -0.45 seconds.",
     "imgUrl": "/images/IconAddon_skeweredRat.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Uncommon"
   },
   {
@@ -4868,7 +5028,7 @@
     "description": "A pile of mould, feasted on by a cockroach.Perhaps a sign of Frank Cotton's mysterious disappearance...\nIncreases the maximum range of the Possessed Chain by +2 metres.",
     "imgUrl": "/images/IconAddon_spoiledMeal.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Uncommon"
   },
   {
@@ -4876,7 +5036,7 @@
     "description": "Larvae that poured from the mouth of a corpse hidden in the Cotton household.\nIncreases the Turn rate of the Possessed Chain by +15 %.",
     "imgUrl": "/images/IconAddon_wrigglingMaggots.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Uncommon"
   },
   {
@@ -4884,7 +5044,7 @@
     "description": "The beating heart of Frank, given life from his brother's blood.\nIncreases the maximum Casting distance of the Gateway by +8 metres.\n\"Nobody escapes us.\" — Pinhead",
     "imgUrl": "/images/IconAddon_franksHeart.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Rare"
   },
   {
@@ -4892,7 +5052,7 @@
     "description": "The blood of Larry Cotton, which partially resurrected his brother Frank.\nIncreases the maximum range of the Possessed Chain by +4 metres.",
     "imgUrl": "/images/IconAddon_larrysBlood.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Rare"
   },
   {
@@ -4900,7 +5060,7 @@
     "description": "The skeletal remains of Larry Cotton, covered in a thick, sticky layer of blood.\nIncreases the Solving time of the Lament Configuration by +2 seconds.\n\"We want the man who did this.\" — Pinhead",
     "imgUrl": "/images/IconAddon_larrysRemains.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Rare"
   },
   {
@@ -4908,7 +5068,7 @@
     "description": "A slab of Frank's face after his torture at the hand of the Cenobites.\nSurvivors suffer from the Exhausted Status Effect while carrying the Lament Configuration.\n\"The Cenobites gave me an experience beyond limits. Pain and pleasure, indivisible.\" — Frank Cotton",
     "imgUrl": "/images/IconAddon_sliceOfFrank.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Rare"
   },
   {
@@ -4916,7 +5076,7 @@
     "description": "A dangling slab covered in the gore of past victims.\nReduces the Timer duration for starting a Chain Hunt by -6 seconds.\n\"This isn't for your eyes.\" — Pinhead",
     "imgUrl": "/images/IconAddon_torturePillar.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Rare"
   },
   {
@@ -4924,7 +5084,7 @@
     "description": "A fragment from a Cenobite whose mouth chatters endlessly.This tooth, having broken from his jaw, is finally silent.\nGrants the ability to see the Aura of the Lament Configuration.\nPicking up the Lament Configuration deactivates an on-going Chain Hunt and grants the Undetectable Status Effect for 25 seconds.",
     "imgUrl": "/images/IconAddon_chatterersTooth.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Very Rare"
   },
   {
@@ -4932,7 +5092,7 @@
     "description": "A lens from the sunglasses of an obese Cenobite whose fleshy rolls droop down his face and neck.\nThe Auras of Survivors are revealed to for 6 seconds after hitting them with a Possessed Chain Attack.",
     "imgUrl": "/images/IconAddon_greasyBlackLens.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Very Rare"
   },
   {
@@ -4940,7 +5100,7 @@
     "description": "A wire that pierces the cheeks of a Cenobite, while revealing the gaping wound on her neck.\nCauses a bonus Chain to spawn on Bound Survivors, when they use the environment to break one.",
     "imgUrl": "/images/IconAddon_impalingWire.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Very Rare"
   },
   {
@@ -4948,7 +5108,7 @@
     "description": "\"The first pin pushed into Pinhead's skull.Such pleasure and pain.\"\nSurvivors breaking free from the Possessed Chain suffer from the following effect:\nTheir Aura is revealed to you for 8 seconds.\n\"No tears, please. It's a waste of good suffering.\" — Pinhead",
     "imgUrl": "/images/IconAddon_originalPain.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Very Rare"
   },
   {
@@ -4956,7 +5116,7 @@
     "description": "A sharp tooth from the maw of a fleshy, scorpion-like creature, known to accompany Cenobites on their grim undertakings.\nCauses healthy Survivors to become injured when hit with a Possessed Chain Attack, but does not bind them with additional Chains.\nThis increases the Closing time of the Gateway by +0.25 seconds.\nReduces the number of bonus Chains spawned when injured Survivors are hit with a Possessed Chain Attack to +1.\n\"We have such sights to show you.\" — Pinhead",
     "imgUrl": "/images/IconAddon_engineersFang.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Visceral"
   },
   {
@@ -4964,7 +5124,7 @@
     "description": "A glass-like puzzle box moulded from The Fog itself.This replica differs from the original, providing altogether new powers.\nShields the Aura of the Lament Configuration from Survivors who are farther than 24 metres from it outside of a Chain Hunt.\n\"You opened it. We came.\" — Pinhead",
     "imgUrl": "/images/IconAddon_iridescentLamentConfiguration.png",
     "role": "killer",
-    "itemOrPowerName": "",
+    "itemOrPowerName": "Summons of Pain",
     "rarity": "Visceral"
   },
   {
@@ -6405,6 +6565,166 @@
     "imgUrl": "/images/IconAddon_coxcombedClapper.png",
     "role": "killer",
     "itemOrPowerName": "Wailing Bell",
+    "rarity": "Visceral"
+  },
+  {
+    "name": "Heretic's Mark",
+    "description": "\"Those who stray from the path shall never escape ostracization once they received the mark.\" — (III On Heresy, ch. 3)\nWhen a cast Divine Light passes a Survivor within 1 metre without hitting them, they are revealed by Killer Instinct for 2 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_HereticsMark.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Common"
+  },
+  {
+    "name": "Koenrad's Gauntlet",
+    "description": "\"When darkness threatened to swallow his flock, he led them towards the light.\" — (Witness to Koenrad, ch. 1)\nIncreases the maximum control duration of Divine Light by +25 %.\nDecreases the maximum speed of controlled Divine Light by -10 %",
+    "imgUrl": "/images/T_UI_iconAddon_KoenradsGauntlet.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Common"
+  },
+  {
+    "name": "Prayer Kneeler",
+    "description": "\"Suffer the pain of prayer, for the suffering of unbelievers is far worse.\" — (II On Heresy, ch. 8)\nWhile controlling an obstructed Divine Light:\nDecrease its maximum speed by -99 %.",
+    "imgUrl": "/images/T_UI_iconAddon_PrayerKneeler.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Common"
+  },
+  {
+    "name": "Searcher's Skull",
+    "description": "\"The skulls of the heretics shall be cleaned and displayed as a warning to others who might stray from the light.\" — (Witness to Koenrad, ch. 33)\nWhen a Survivor blinds you:\nThe Survivor gains Heresy.\nIf the Survivor is a Heretic, they become blinded themselves for 2.5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_SearchersSkull.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Common"
+  },
+  {
+    "name": "Aurora's Telereceptor",
+    "description": "\"None should stare into the abyss with the wretched devices made by the heretics.\" — (III On Heresy, ch. 12)\nSurvivors who gain Heresy have their aura revealed for 4 seconds. They also see your aura for 4 seconds.\nHeretics see your aura for +2 seconds longer.",
+    "imgUrl": "/images/T_UI_iconAddon_AurorasTelereceptor.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Confessor's War Horn",
+    "description": "\"The sound of the horn shall strike fear into the hearts of unbelievers and muster the will of the faithful.\" — (Witness to Koenrad, ch. 33)\nSurvivors who gain Heresy are inflicted Exhausted Status Effect for 10 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_ConfessorsWarHorn.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magnetised Manacles",
+    "description": "\"Those who do not go into hiding will be locked deep underground, far from the guiding light of the stars.\" — (Visions of Gerhardt, ch. 6)\nGain +1 Token when you send a Survivor with the lowest amount of Hook States to the Exile, up to 5 Tokens.\nFor each token, increase the duration of Zealous when activated by +10 %",
+    "imgUrl": "/images/T_UI_iconAddon_MagnetisedManacles.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Mark of the Adherent",
+    "description": "\"Wear your faith proudly and permanently. Let it be a reminder to others that It is always present.\" — (II On Heresy, ch. 1)\nWhile not Zealous, Divine Light's radius is +10 % larger.",
+    "imgUrl": "/images/T_UI_iconAddon_MarkOfTheAdherent.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Undying Flame",
+    "description": "\"The village of Dend was repentant in its last moments, but its remnants still burn to this day as a warning.\" — (II Barbarians, ch. 4)\nWhile Zealous:\nIncrease the duration of the cast Divine Light by +200 %.\nDecrease the radius of Divine Light by -20 %.\nIncrease Survivor Divine Light aura reading range by +200 %.",
+    "imgUrl": "/images/T_UI_iconAddon_UndyingFlame.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Blindfold of the Devoted",
+    "description": "\"Those who follow Gerhardt's path shall wear blindfolds, to remember the sacrifice he made for his prophecy.\" — (III On Heresy, ch. 61)\nSending a Survivor to the Exile with the lowest amount of Hook States reveals the auras of all other Survivors with the lowest amount of Hook States outside 32 metres for 5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_BlindfoldOfTheDevoted.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Electric Torch",
+    "description": "\"The faithful shall go out in great numbers at night, searching for the heretics who hide in the dark.\" — (Witness to Koenrad, ch. 40)\nIncreases the maximum speed of the controlled Divine Light by +25 %.\nIncreases movement speed while controlling Divine Light by +10 %.",
+    "imgUrl": "/images/T_UI_iconAddon_ElectricTorch.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Holy Winged Icon",
+    "description": "\"Clutch it to your chest and pray, lest your heart appear untrue to It.\" — (II On Heresy, ch. 14)\nWhile casting Divine Light, press the Secondary Power button to cast it back towards your location.\nWhen cast this way:\nMinimum delay before it deals damage and inflicts Heresy is set to 0.4 seconds.\nIncrease its maximum speed by +10 %.\nIt only damages Heretics",
+    "imgUrl": "/images/T_UI_iconAddon_HolyWingedIcon.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Order of Inquisition",
+    "description": "\"All those who believe in Its glory are deputized to search for heretics. Trust not even your own neighbor.\" — (Witness to Koenrad, ch. 16)\nWhen Divine Light is cast, its radius starts -25 % smaller, but grows +50 % larger over a period of 1 second.",
+    "imgUrl": "/images/T_UI_iconAddon_OrderOfInquisition.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Superheated Glass",
+    "description": "\"The planet of Aleide was unrepentant; after their leader was Exiled, Its Divine Light turned the surface to glass.\" — (II Barbarians, ch. 12)\nDecreases the duration of Zealous by -20 %.\nWhile Zealous, a cast Divine Light breaks all Breakable Walls and Pallets it passes through.\nBreaking an object this way causes Survivors within 12 metres to scream and gain Heresy.",
+    "imgUrl": "/images/T_UI_iconAddon_SuperheatedGlass.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Chains of the Heretic",
+    "description": "\"Examples shall be made of the loudest apostates. They shall be dragged through the streets in chains.\" — (Witness to Koenrad, ch. 41)\nWhile Zealous:\nCast Divine Light will always be directed towards you.\nMinimum delay before cast Divine Light deals damage and inflicts Heresy is set to 0.35 seconds.\nIncreases the maximum speed of controlled Divine Light by +100 %.\nIncreases the maximum speed of cast Divine Light by +50 %.",
+    "imgUrl": "/images/T_UI_iconAddon_ChainsOfTheHeretic.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Crown of the Destroyer",
+    "description": "\"The Creators saw this and bestowed upon It a crown and said, use this to bring light to the darkness.\" — (I Barbarians, ch. 6)\nWhen a Survivor is rescued from the Exile, for 20 seconds:\nYour Terror Radius is reduced by -70 %.\nYour Terror Radius is copied to all Shrines of Judgment.\nGrants the Undetectable Status Effect.",
+    "imgUrl": "/images/T_UI_iconAddon_CrownOfTheDestroyer.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Eyes of Gerhardt",
+    "description": "\"He rapturously tore the eyes from his face after seeing such brilliant visions of the future.\" — (II Barbarians, ch. 60)\nWhen a Heretic completes a Generator, opens an Exit Gate or exits a Locker, all Heretics have their aura revealed for 5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_EyesOfGerhardt.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Improvised Detonators",
+    "description": "\"Like cowards, they strike with bombs in the night, afraid to let the light of day illuminate their blackened souls.\" — (Witness to Koenrad, ch. 35)\nIf no Survivors are dead, sending a Survivor with the lowest amount of Hook States to the Exile grants +1 Token.\nReaching 4 Tokens or more causes the Generator with the highest progress to explode, lose -20 % progress and start regressing.",
+    "imgUrl": "/images/T_UI_iconAddon_ImprovisedDetonators.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Mirror of the Creators",
+    "description": "\"And They said unto It, take this mirror, and show them the error of their ways.\" — (I Barbarians, ch. 6)\nCast Divine Light reflects off the first 2 obstructions it would otherwise pass through.\nWhen reflecting, it pauses for 0.4 seconds before reflecting again.",
+    "imgUrl": "/images/T_UI_iconAddon_MirrorOfTheCreators.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
+    "rarity": "Visceral"
+  },
+  {
+    "name": "Obsidian Feather",
+    "description": "\"Some villagers will carve feathers from rocks, hoping that their faith might protect them.\" — (Visions of Gerhardt, ch. 3)\nYou can no longer cancel nor manually cast the controlled Divine Light and it is automatically cast when it would instead time out.\nIncreases movement speed while controlling Divine Light by +100 %.\nDecreases the maximum amount of time you can control Divine Light for by -25 %.\nIncreases the recovery time after casting Divine Light by +10 %.\nDecreases the movement speed while recovering after casting Divine Light by -30 %.",
+    "imgUrl": "/images/T_UI_iconAddon_ObsidianFeather.png",
+    "role": "killer",
+    "itemOrPowerName": "Will of the Gods",
     "rarity": "Visceral"
   },
   {
