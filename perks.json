@@ -197,7 +197,7 @@
   },
   {
     "name": "Borrowed Time",
-    "description": "Whenever you gain Deep Wound while you have Endurance Status Effect, Borrowed Time activates:\nPassively mend yourself over a period of 40/35/30 seconds.\n\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
+    "description": "\"You are fuelled with an unexpected energy when saving an ally from a hook.\"\nWhenever you unhook another Survivor, they benefit from the following effects:\nExtends the duration of the Endurance Status Effect by 6/8/10 seconds to 16/18/20 seconds.\nEndurance is cancelled prematurely when performing a Conspicuous Action of any kind.\nExtends the duration of the Haste Status Effect by +10 seconds to 20 seconds.\n\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
     "imgUrl": "/images/thumb/IconPerks_borrowedTime.png/96px-IconPerks_borrowedTime.png",
     "role": "survivor",
     "origin": "Bill"
@@ -344,7 +344,7 @@
   },
   {
     "name": "Dark Sense",
-    "description": "Unlocks potential in your Aura-reading ability.Whenever a Generator is completed, Dark Sense activates:\nWhen the Killer gets within 24 metres of you, Dark Sense activates for 8/9/10 seconds:\nYou see the Killer's aura.\nYou see auras of other Survivors.\nYou see the auras of Pallets and Windows within 24 metres.\nDark Sense deactivates after use.\n\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" — Murf, The Lost Tapes",
+    "description": "Unlocks potential in your Aura-reading ability.Whenever a Generator is completed, Dark Sense activates:\nWhen the Killer gets within 24 metres of you, Dark Sense activates for 13/14/15 seconds:\nYou see the Killer's aura.\nYou see auras of other Survivors.\nYou see the auras of Pallets and Windows within 32 metres.\nDark Sense deactivates after use.\n\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" — Murf, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_darkSense.png/96px-IconPerks_darkSense.png",
     "role": "survivor",
     "origin": "All"
@@ -421,7 +421,7 @@
   },
   {
     "name": "Do No Harm",
-    "description": "\"Helping those in need comes easily, no matter how dire things get.\"\nWhen healing another Survivor, depending on their accumulated Hook Stages, you benefit from the following effects:\nIncreases your Altruistic Healing speed by 30/40/50 % per Hook Stage, up to a maximum of 60/80/100 %.\nIncreases the Progression bonus of Great Healing Skill Checks by +3 % per Hook Stage, up to a maximum of +6 %.\nIncreases the odds of triggering a Skill Check by +5 % per Hook Stage, up to a maximum of +5 %Max.\n\"Look at me. My name's Orela, and I'm gonna make sure you're all right.\" — Orela Rose",
+    "description": "\"Helping those in need comes easily, no matter how dire things get.\"\nWhen healing another Survivor, depending on their accumulated Hook Stages, you benefit from the following effects:\nIncreases your Altruistic Healing speed by 30/35/40 % per Hook Stage, up to a maximum of 60/70/80 %.\nIncreases the Progression bonus of Great Healing Skill Checks by +3 % per Hook Stage, up to a maximum of +6 %.\nIncreases the odds of triggering a Skill Check by +5 % per Hook Stage, up to a maximum of +5 %Max.\n\"Look at me. My name's Orela, and I'm gonna make sure you're all right.\" — Orela Rose",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_DoNoHarm.png/96px-T_UI_iconsPerks_DoNoHarm.png",
     "role": "survivor",
     "origin": "Orela"
@@ -449,7 +449,7 @@
   },
   {
     "name": "Empathic Connection",
-    "description": "\"Your presence psychically projects itself to those in danger.\"\nYou benefit from the following permanent primary effect:\nIncreases your Altruistic Healing speed by 40/45/50 %.\nWhenever any other Survivor is injured, Empathic Connection applies its secondary effect:\nYour Aura as a potential Healer is revealed to them.",
+    "description": "\"Your presence psychically projects itself to those in danger.\"\nYou benefit from the following permanent primary effect:\nIncreases your Altruistic Healing speed by 30/35/40 %.\nWhenever any other Survivor is injured, Empathic Connection applies its secondary effect:\nYour Aura as a potential Healer is revealed to them.",
     "imgUrl": "/images/thumb/IconPerks_empathicConnection.png/96px-IconPerks_empathicConnection.png",
     "role": "survivor",
     "origin": "Yoichi"
@@ -841,7 +841,7 @@
   },
   {
     "name": "Premonition",
-    "description": "\"You have the undeniable capability to sense danger.\"\nWhile not being chased, looking in the Killer's direction within a range of 32 metres triggers Premonition:\nTriggers an audio cue\nReveals the Killer's aura for 3 seconds.\nPremonition has a cool-down of 70/65/60 seconds.\n\"I have a bad feeling about this!\"",
+    "description": "\"You have the undeniable capability to sense danger.\"\nWhile not being chased, looking in the Killer's direction within a range of 32 metres triggers Premonition:\nTriggers an audio cue\nReveals the Killer's aura for 3 seconds.\nPremonition has a cool-down of 55/50/45 seconds.\n\"I have a bad feeling about this!\"",
     "imgUrl": "/images/thumb/IconPerks_premonition.png/96px-IconPerks_premonition.png",
     "role": "survivor",
     "origin": "All"
@@ -925,7 +925,7 @@
   },
   {
     "name": "Road Life",
-    "description": "\"Faulty amps, sweaty dives, broken-down vans... nothing makes you feel more alive.\"\nWhile injured and repairing a Generator, regular Skill Checks have the following effects:\nGain +1 Token for Great Repair Skill Checks.\nGain 0 Tokens for Good Repair Skill Checks.\nLose -1 Token for Failed Repair Skill Checks.\nOnce you accumulate 6/5/4 Tokens, consume all Tokens to benefit from the following effect:\nUnlocks the ability to heal yourself\nIncreases your Self-Healing speed by +100 % until you stop healing and for 4 seconds after.\n\"Remind me to teach you how to patch your own pedals, Krit.\" — Vee Boonyasak",
+    "description": "\"Faulty amps, sweaty dives, broken-down vans... nothing makes you feel more alive.\"\nWhile injured and repairing a Generator, regular Skill Checks have the following effects:\nGain +1 Token for Great Repair Skill Checks.\nGain 0 Tokens for Good Repair Skill Checks.\nLose -1 Token for Failed Repair Skill Checks.\nOnce you accumulate 6/5/4 Tokens, consume all Tokens to benefit from the following effect:\nUnlocks the ability to heal yourself\nIncreases your Self-Healing speed by +10 % until you stop healing and for 4 seconds after.\n\"Remind me to teach you how to patch your own pedals, Krit.\" — Vee Boonyasak",
     "imgUrl": "/images/thumb/IconPerks_RoadLife.png/96px-IconPerks_RoadLife.png",
     "role": "survivor",
     "origin": "Vee"
@@ -988,7 +988,7 @@
   },
   {
     "name": "Shoulder the Burden",
-    "description": "\"Born to be a disciple. Ready to submit to a greater cause. This is your calling.\"\nOnce per Trial, and while you are not on Death Hook, press the Active Ability button while standing in front of a Hooked Survivor to unhook them and trigger the following effects:\nTrade 1 Hook Stage with the other Survivor to their benefit.\nCauses you to scream, become injured if healthy and suffer from the Broken Status Effect for 160/140/120 seconds.\nShoulder the Burden is then deactivated for all Survivors.\n\"It's not your time yet. Now go on!\" — Taurie Cain",
+    "description": "\"Born to be a disciple. Ready to submit to a greater cause. This is your calling.\"\nOnce per Trial, and while you are not on Death Hook, press the Active Ability button while standing in front of a Hooked Survivor to unhook them and trigger the following effects:\nTrade 1 Hook Stage with the other Survivor to their benefit.\nCauses you to scream, become injured if healthy and suffer from the Broken Status Effect for 160/140/120 seconds.\n\"It's not your time yet. Now go on!\" — Taurie Cain",
     "imgUrl": "/images/thumb/IconPerks_shoulderTheBurden.png/96px-IconPerks_shoulderTheBurden.png",
     "role": "survivor",
     "origin": "Taurie"
@@ -1058,7 +1058,7 @@
   },
   {
     "name": "Stake Out",
-    "description": "\"Getting close to the Killer fills you with determination.\"\nStaying in the Terror Radius and within 24 metres of the Killer without being chased grants +1 Token every 15 seconds, up to a maximum of 2/3/4 Tokens.While performing a skilful interaction that can trigger Skill Checks, you benefit from the following effects:\nReplaces regular Skill Checks with special Skill Checks.\nThese Skill Checks grant +4 % more progress on success and lose -4 % more progress on miss.\nSucceeding or missing a special Skill Check consumes -1 Token.\n\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" — Detective David Tapp",
+    "description": "\"Getting close to the Killer fills you with determination.\"\nStaying in the Terror Radius and within 24 metres of the Killer without being chased grants +1 Token every 15 seconds, up to a maximum of 2/3/4 Tokens.While performing a skilful interaction that can trigger Skill Checks, you benefit from the following effects:\nReplaces regular Skill Checks with special Skill Checks.\nThese Skill Checks grant +4 % more progress on success.\nSucceeding or missing a special Skill Check consumes -1 Token.\n\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" — Detective David Tapp",
     "imgUrl": "/images/thumb/IconPerks_stakeOut.png/96px-IconPerks_stakeOut.png",
     "role": "survivor",
     "origin": "David"
@@ -1142,7 +1142,7 @@
   },
   {
     "name": "This Is Not Happening",
-    "description": "\"You perform at your best when you are under extreme stress.\"\nWhile repairing or healing, This Is Not Happening activates:\nIncreases the Success zone for a Great Skill Check by +30 %.\nIncreases the Success zone for a Good Skill Check by 150/175/200 %.",
+    "description": "\"You perform at your best when you are under extreme stress.\"\nWhile repairing or healing, This Is Not Happening activates:\nIncreases the Success zone for a Good Skill Check by 150/175/200 %.",
     "imgUrl": "/images/thumb/IconPerks_thisIsNotHappening.png/96px-IconPerks_thisIsNotHappening.png",
     "role": "survivor",
     "origin": "All"
@@ -1240,7 +1240,7 @@
   },
   {
     "name": "Windows of Opportunity",
-    "description": "Unlocks potential in your Aura-reading ability.\nThe Auras of Windows are revealed to you within 40/35/30 seconds..\nYou vault Windows +10 % faster.\nWindows of Opportunity goes on a 40/35/30 seconds cool-down when you vault a Window.\n\"Rise and shine, work hard, carve out your name,Take aim, pull the trigger, hit the bulls eye for fame,Know the value of faith, an' family, and don't you complain,Open wide, your windows of opportunity\" — Kate Denson's \"Windows of Opportunity\"",
+    "description": "Unlocks potential in your Aura-reading ability.\nThe Auras of Windows are revealed to you within 24 metres.\nYou vault Windows +10 % faster.\nWindows of Opportunity goes on a 40/35/30 seconds cool-down when you vault a Window.\n\"Rise and shine, work hard, carve out your name,Take aim, pull the trigger, hit the bulls eye for fame,Know the value of faith, an' family, and don't you complain,Open wide, your windows of opportunity\" — Kate Denson's \"Windows of Opportunity\"",
     "imgUrl": "/images/thumb/IconPerks_windowsOfOpportunity.png/96px-IconPerks_windowsOfOpportunity.png",
     "role": "survivor",
     "origin": "Kate"
@@ -1317,7 +1317,7 @@
   },
   {
     "name": "Bitter Murmur",
-    "description": "Unlocks potential in your Aura-reading ability.Whenever a Generator is completed, Bitter Murmur triggers its primary effect:\nThe Auras of any Survivors within 20 metres of that Generator are revealed to you for 8 seconds.\nOnce the last Generator is completed, Bitter Murmur triggers its secondary effect:\nThe Auras of all Survivors are revealed to you for 10/12/14 seconds.",
+    "description": "Unlocks potential in your Aura-reading ability.Whenever a Generator is completed, Bitter Murmur triggers its primary effect:\nThe Auras of any Survivors within 20 metres of that Generator are revealed to you for 10 seconds.\nOnce the last Generator is completed, Bitter Murmur triggers its secondary effect:\nThe Auras of all Survivors are revealed to you for 16/18/20 seconds.",
     "imgUrl": "/images/thumb/IconPerks_bitterMurmur.png/96px-IconPerks_bitterMurmur.png",
     "role": "killer",
     "origin": "All"
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Dark Arrogance",
-    "description": "\"When everything is going right, you are an inescapable inevitability.\"\nWhenever you are vaulting a Window, you benefit from the following effect:\nIncreases the Vaulting speed by 15/20/25 %.\nIncreases all basic-attack recovery speeds by 15/20/25 %.\nWhenever you are stunned with a Pallet or blinded by any means, you suffer from the following effects:\nReduces the Recovery speed from Pallet Stuns by -25 %.\nIncreases the duration of Killer Blinds by +25 %.\n\"Run all you want. I will not be denied.\" — Vecna",
+    "description": "\"When everything is going right, you are an inescapable inevitability.\"\nWhenever you are vaulting a Window, you benefit from the following effect:\nIncreases the Vaulting speed by 15/20/25 %.\nIncreases all missed basic-attack recovery speeds by 15/20/25 %.\nWhenever you are stunned with a Pallet or blinded by any means, you suffer from the following effects:\nReduces the Recovery speed from Pallet Stuns by -25 %.\nIncreases the duration of Killer Blinds by +25 %.\n\"Run all you want. I will not be denied.\" — Vecna",
     "imgUrl": "/images/thumb/IconPerks_darkArrogance.png/96px-IconPerks_darkArrogance.png",
     "role": "killer",
     "origin": "Lich"
@@ -1590,7 +1590,7 @@
   },
   {
     "name": "Help Wanted",
-    "description": "\"Try as they might, you know how to stay one step ahead of your guests.\"\nAfter performing the Damage Generator action, Help Wanted activates:\nCauses that Generator to become a Compromised Generator.\nUp to 3 Generators can be Compromised at a time.\nThe Auras of all Compromised Generators are highlighted to you in yellow.\nOnce a Compromised Generator is completed, Help Wanted triggers its effects for 100/110/120 seconds:\nIncreases the Recovery speed of successful Basic Attacks by +25 %.\nAll Generators not being repaired will automatically regress at 150 % of the default Regression rate.\nAdditionally, all other Generators are no longer Compromised.\n\"You only think you are in control...\" — Springtrap",
+    "description": "\"Try as they might, you know how to stay one step ahead of your guests.\"\nAfter performing the Damage Generator action, Help Wanted activates:\nCauses that Generator to become a Compromised Generator.\nUp to 3 Generators can be Compromised at a time.\nThe Auras of all Compromised Generators are highlighted to you in yellow.\nOnce a Compromised Generator is completed, Help Wanted triggers its effects for 70/80/90 seconds:\nIncreases the Recovery speed of successful Basic Attacks by +25 %.\nAll Generators not being repaired will automatically regress at 150 % of the default Regression rate.\nAdditionally, all other Generators are no longer Compromised.\n\"You only think you are in control...\" — Springtrap",
     "imgUrl": "/images/thumb/IconPerks_HelpWanted.png/96px-IconPerks_HelpWanted.png",
     "role": "killer",
     "origin": "Animatronic"
@@ -1716,7 +1716,7 @@
   },
   {
     "name": "Hex: Thrill of the Hunt",
-    "description": "\"A Hex rooting its power on hope.The false hope of Survivors fills you with excitement and strengthens your Totems.\"\nIf there is still a Dull Totem in the environment, Hex: Thrill of the Hunt lights a Hex Totem whenever you hook a Survivor for the first time, cursing them with its Hex Effects.\nFor each lit Hex Totem located in the environment, gain a token.\nHooking a Survivor causes all Totems to be blocked by the Entity by a stack-able 6/7/8 seconds per Token, up to a maximum of 30/35/40 seconds.\nHex: Thrill of the Hunt loses -1 Token whenever a Hex Totem is cleansed.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.",
+    "description": "\"A Hex rooting its power on hope.The false hope of Survivors fills you with excitement and strengthens your Totems.\"\nIf there is still a Dull Totem in the environment, Hex: Thrill of the Hunt lights a Hex Totem whenever you hook a Survivor for the first time, cursing them with its Hex Effects.\nFor each lit Hex Totem located in the environment, gain a token.\nHooking a Survivor causes all Totems to be blocked by the Entity by a stack-able 4/5/6 seconds per Token, up to a maximum of 20/25/30 seconds.\nHex: Thrill of the Hunt loses -1 Token whenever a Hex Totem is cleansed.\nThe Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.",
     "imgUrl": "/images/thumb/IconPerks_hexThrillOfTheHunt.png/96px-IconPerks_hexThrillOfTheHunt.png",
     "role": "killer",
     "origin": "All"
@@ -1821,7 +1821,7 @@
   },
   {
     "name": "Knock Out",
-    "description": "\"The trauma caused by your brutal attacks makes crying for help painfully difficult.\"\nWhenever a Survivor moves farther than 10 metres from a Pallet within 6 seconds of dropping it and without the Pallet being destroyed, Knock Out triggers its effect:\nCauses them to suffer from a -20 % Hindered Status Effect for 3/4/5 seconds.\n\"Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way.\" — Nubbins Sawyer",
+    "description": "\"The trauma caused by your brutal attacks makes crying for help painfully difficult.\"\nWhenever a Survivor moves farther than 10 metres from a Pallet within 6 seconds of dropping it and without the Pallet being destroyed, Knock Out triggers its effect:\nCauses them to suffer from a -20 % Hindered Status Effect for 2/3/4 seconds.\n\"Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way.\" — Nubbins Sawyer",
     "imgUrl": "/images/thumb/IconPerks_knockOut.png/96px-IconPerks_knockOut.png",
     "role": "killer",
     "origin": "Cannibal"
@@ -1863,7 +1863,7 @@
   },
   {
     "name": "Machine Learning",
-    "description": "\"Free from your shackles, you are born anew and prepared to eliminate your creators.\"\nAfter performing the Damage Generator action, Machine Learning activates:\nCauses that Generator to become a Compromised Generator.\nUp to 3 Generators can be Compromised at a time.\nThe Auras of all Compromised Generators are highlighted to you in yellow.\nOnce a Compromised Generator is completed, you benefit from the following effects for 40/50/60 seconds:\nUndetectable Status Effect\n+10 % Haste Status Effect\nAdditionally, all other Generators are no longer Compromised.\n\"YOU WILL HOLD NO DOMINION OVER ME.\" — HUX-A7-13",
+    "description": "\"Free from your shackles, you are born anew and prepared to eliminate your creators.\"\nAfter performing the Damage Generator action, Machine Learning activates:\nCauses that Generator to become a Compromised Generator.\nUp to 3 Generators can be Compromised at a time.\nThe Auras of all Compromised Generators are highlighted to you in yellow.\nOnce a Compromised Generator is completed, you benefit from the following effects for 40/50/60 seconds:\nUndetectable Status Effect\n+8 % Haste Status Effect\nAdditionally, all other Generators are no longer Compromised.\n\"YOU WILL HOLD NO DOMINION OVER ME.\" — HUX-A7-13",
     "imgUrl": "/images/thumb/IconPerks_machineLearning.png/96px-IconPerks_machineLearning.png",
     "role": "killer",
     "origin": "Singularity"
