@@ -925,7 +925,7 @@
   },
   {
     "name": "Road Life",
-    "description": "\"Faulty amps, sweaty dives, broken-down vans... nothing makes you feel more alive.\"\nWhile injured and repairing a Generator, regular Skill Checks have the following effects:\nGain +1 Token for Great Repair Skill Checks.\nGain 0 Tokens for Good Repair Skill Checks.\nLose -1 Token for Failed Repair Skill Checks.\nOnce you accumulate 6/5/4 Tokens, consume all Tokens to benefit from the following effect:\nUnlocks the ability to heal yourself\nIncreases your Self-Healing speed by +10 % until you stop healing and for 4 seconds after.\n\"Remind me to teach you how to patch your own pedals, Krit.\" — Vee Boonyasak",
+    "description": "\"Faulty amps, sweaty dives, broken-down vans... nothing makes you feel more alive.\"\nWhile injured and repairing a Generator, regular Skill Checks have the following effects:\nGain +1 Token for Great Repair Skill Checks.\nGain 0 Tokens for Good Repair Skill Checks.\nLose -1 Token for Failed Repair Skill Checks.\nOnce you accumulate 6/5/4 Tokens, consume all Tokens to benefit from the following effect:\nUnlocks the ability to self-heal. This self-heal interaction is +10 % faster.\nRoad Life deactivates 4 seconds after you stop the self-healing interaction.\n\"Remind me to teach you how to patch your own pedals, Krit.\" — Vee Boonyasak",
     "imgUrl": "/images/thumb/IconPerks_RoadLife.png/96px-IconPerks_RoadLife.png",
     "role": "survivor",
     "origin": "Vee"
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Dark Arrogance",
-    "description": "\"When everything is going right, you are an inescapable inevitability.\"\nWhenever you are vaulting a Window, you benefit from the following effect:\nIncreases the Vaulting speed by 15/20/25 %.\nIncreases all missed basic-attack recovery speeds by 15/20/25 %.\nWhenever you are stunned with a Pallet or blinded by any means, you suffer from the following effects:\nReduces the Recovery speed from Pallet Stuns by -25 %.\nIncreases the duration of Killer Blinds by +25 %.\n\"Run all you want. I will not be denied.\" — Vecna",
+    "description": "\"When everything is going right, you are an inescapable inevitability.\"\nWhenever you are vaulting a Window, you benefit from the following effect:\nIncreases the Vaulting speed by 15/20/25 %.\nIncreases all basic-attack recovery speeds by +10 %.\nWhenever you are stunned with a Pallet or blinded by any means, you suffer from the following effects:\nReduces the Recovery speed from Pallet Stuns by -25 %.\nIncreases the duration of Killer Blinds by +25 %.\n\"Run all you want. I will not be denied.\" — Vecna",
     "imgUrl": "/images/thumb/IconPerks_darkArrogance.png/96px-IconPerks_darkArrogance.png",
     "role": "killer",
     "origin": "Lich"

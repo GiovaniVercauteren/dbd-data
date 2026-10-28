@@ -7345,7 +7345,7 @@
   },
   {
     "name": "Refined Serum",
-    "description": "THIS ADD-ON IS NO LONGER AVAILABLE (This Unlockable can no longer be obtained and stockpiles can no longer be used.If it is an Event Unlockable, it may return with its associated Event.) \nSTOCKPILES MAY STILL BE USED IN TRIALS\n\"A refined version of the Putrid Serum that is mostly safe for human consumption.Mostly.\"\nWhile healing yourself or another Survivor with the Med-Kit, press the Secondary Action button to trigger the following effect for 16 seconds:\nIncreases all Movement speeds by +5 %.\nCreates a Blight trail behind the affected Survivor.\nRefined Serum consumes the Med-Kit after trigger its effect.\nThe Refined Serum is only available during Halloween Events.",
+    "description": "THIS ADD-ON IS NO LONGER AVAILABLE (This Unlockable can no longer be obtained and stockpiles can no longer be used.If it is an Event Unlockable, it may return with its associated Event.) \nSTOCKPILES MAY STILL BE USED IN TRIALS\n\"A refined version of the Putrid Serum that is mostly safe for human consumption. Mostly.\"\nWhile healing yourself or another Survivor with the Med-Kit, press the Secondary Action button to trigger the following effect for 20 seconds:\nGrants a +5 % Haste Status Effect.\nIncreases the affected Survivor's Field of View by 10 °.\nCreates a Blight trail behind the affected Survivor.\nRefined Serum consumes the Med-Kit after triggering its effect.\nThe Refined Serum is only available during Halloween Events.",
     "imgUrl": "/images/IconAddon_refinedSerum.png",
     "role": "survivor",
     "itemOrPowerName": "Med-Kits",
