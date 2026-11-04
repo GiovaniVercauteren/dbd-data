@@ -168,6 +168,166 @@
     "rarity": "Visceral"
   },
   {
+    "name": "Allie's Scalp",
+    "description": "\"The most horrifying moments start with a simple cut.\"\nOnce per Trial, downing a Tortured Survivor with a basic-attack applies Terrified.",
+    "imgUrl": "/images/T_UI_iconAddon_AlliesScalp.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Common"
+  },
+  {
+    "name": "Blackened Heart",
+    "description": "\"A still-beating heart, dark and crawling with worms.\"\nAfter Taunting a Survivor, downing a Survivor with a Toy grants that Toy +1 extra Deadliness point.",
+    "imgUrl": "/images/T_UI_iconAddon_BlackenedHeart.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Common"
+  },
+  {
+    "name": "Bottle of Bleach",
+    "description": "\"Causes agonizing pain when applied to wounds. And kills 99.9% of household bacteria!\"\nDecreases Torture decay rate by -15 %.",
+    "imgUrl": "/images/T_UI_iconAddon_BottleOfBleach.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Common"
+  },
+  {
+    "name": "Mike's Phone",
+    "description": "\"It's busted, just like Mike's head.\"\nHitting a non-regressing Generator with a Toy causes it to lose -5 % progress and start regressing.",
+    "imgUrl": "/images/T_UI_iconAddon_MikesPhone.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Common"
+  },
+  {
+    "name": "Bloodstained Bullet",
+    "description": "\"A bloody bullet that was lodged in Tara's corpse.\"\nShooting a Survivor further than 16 metres away grants +10 % Haste Status Effect for 10 seconds.\nWhen you apply Torture, the next Bag of Toys search is guaranteed to contain the Handgun.",
+    "imgUrl": "/images/T_UI_iconAddon_BloodstainedBullet.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Brooke's Pustule",
+    "description": "\"A weeping blister that bubbled as acid ate through Brooke's face.\"\nWhile standing in the Acid Puddle and for 5 seconds after, increase basic-breaking speed of Pallets and Breakable Walls by +25 %.\nWhen you apply Torture, the next Bag of Toys search is guaranteed to contain the Acid Bottle.",
+    "imgUrl": "/images/T_UI_iconAddon_BrooksPustule.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Burnt Wings",
+    "description": "\"Everything Sienna held dear went up in flames.\"\nIncreases the duration of Flames by +5 seconds.\nWhen you apply Torture, the next Bag of Toys search is guaranteed to contain the Flamethrower.",
+    "imgUrl": "/images/T_UI_iconAddon_BurntWings.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Shiny Tricycle",
+    "description": "\"Three wheels means you'll maintain your balance on the bloodiest of floors.\"\nWhen the Bike Horn detects more than 1 Survivor, reveal other Survivors who were not detected for 8 seconds.\nWhen you apply Torture, the next Bag of Toys search is guaranteed to contain the Bike Horn.",
+    "imgUrl": "/images/T_UI_iconAddon_ShinyTricycle.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Sienna's Flesh",
+    "description": "\"A strip of skin torn from Sienna during a brutal beating.\"\nIncreases the range of the Flail by +20 %.\nWhen you apply Torture, the next Bag of Toys search is guaranteed to contain the Flail.",
+    "imgUrl": "/images/T_UI_iconAddon_SiennasFlesh.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Candy Head Bowl",
+    "description": "\"Dig deep into Mom's skull and grab a treat.\"\nDetecting a Survivor with the Bike Horn resets Bag of Toys cool-down.",
+    "imgUrl": "/images/T_UI_iconAddon_CandyHeadBowl.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Dead Opossum",
+    "description": "\"A lifeless carcass that still holds plenty of entertainment value.\"\nHitting a Survivor with the Handgun or the Flail reveals all other Survivor locations within 24 metres for 3 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_DeadOpossum.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Emily",
+    "description": "\"A small porcelain doll that must be wondering where Mommy went.\"\nToys available in the Bag of Toys appear in a set order:\nBike Horn.\nHandgun.\nFlamethrower.\nFlail.\nAcid Bottle.",
+    "imgUrl": "/images/T_UI_iconAddon_Emily.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Thornton Salt",
+    "description": "\"It's a bit digested but otherwise still good.\"\nTortured Survivors suffer from Mangled and Haemorrhage Status Effects.\nThese effects linger for 40 seconds after Torture is removed.",
+    "imgUrl": "/images/T_UI_iconAddon_ThorntonSalt.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Victoria's Eye",
+    "description": "\"It's a bit digested but otherwise still good.\"\nHitting a Survivor with the Acid Bottle or the Flamethrower reveals their aura for 5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_VictoriasEye.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Art Crispies",
+    "description": "\"A surprise in every box!\"\nWhen you Torture a Survivor, you both gain between +5 % and +15 % Haste Status Effect for 5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_ArtCrispies.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Explosive Gift",
+    "description": "\"A disarmingly joyful gift that's sure to be a blast.\"\nFor each Toy with maximum Deadliness, reduce your Terror Radius size by -20 %.",
+    "imgUrl": "/images/T_UI_iconAddon_ExplosiveGift.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Jonathan's Skull",
+    "description": "\"The bespectacled skull of Sienna's brother. Hilarious!\"\nDamaging or Torturing a Survivor with a Toy grants 1 Token, up to 10 Tokens.\nManually Taunting consumes all Tokens then, if at least 1 Token was consumed, reveal all Survivor auras within 8 metres plus +2 metres per Token for 6 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_JonathansSkull.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Wacky Jacks",
+    "description": "\"110% of your recommended daily intake of sugar.\"\nReduces maximum possible Deadliness points by -1 point to 5 points.",
+    "imgUrl": "/images/T_UI_iconAddon_WackyJacks.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Duct Tape",
+    "description": "\"Made for restraining victims but could probably be used to keep things in place.\"\nEquipping a Toy within 0.5 seconds of opening the Bag of Toys reduces its cool-down by -5 seconds.",
+    "imgUrl": "/images/T_UI_iconAddon_DuctTape.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Visceral"
+  },
+  {
+    "name": "The Ninth Circle",
+    "description": "\"Sadistic, creepy, and shockingly gory. What kind of person would be interested in this?\"\nTaunting a Survivor for the first time grants 1 Token.\nWhen the Exit Gates are powered and The Ninth Circle has 4 Tokens, reduce the cool-down of Bag of Toys to 1 second.",
+    "imgUrl": "/images/T_UI_iconAddon_TheNinthCircle.png",
+    "role": "killer",
+    "itemOrPowerName": "Bag of Toys",
+    "rarity": "Visceral"
+  },
+  {
     "name": "Bear Oil",
     "description": "Melted animal fat that can lubricate the Bear Traps squeaky joints.\nSetting a Bear Trap is silent.",
     "imgUrl": "/images/IconAddon_bearOil.png",
@@ -3361,7 +3521,7 @@
   },
   {
     "name": "Red Moss",
-    "description": "A psychedelic moss that grows on tree barks in the Upside Down.\nAfter traversing the Upside Down, the following effects apply:\nExtends the Undetectable Status Effect gained after emerging from a Portal by +8 seconds to 13 seconds.\nSuppresses all noises related to emerging from a Portal.\nIncreases the time required to emerge from a Portal by +15 %.\n\"Consuming its leaf enhances athletic performance and causes euphoria.\" — Hawkins National Laboratory",
+    "description": "A psychedelic moss that grows on tree barks in the Upside Down.\nAfter traversing the Upside Down, the following effects apply:\nExtends the Undetectable Status Effect gained after emerging from a Portal by +8 seconds.\nSuppresses all noises related to emerging from a Portal.\nIncreases the time required to emerge from a Portal by +15 %.\n\"Consuming its leaf enhances athletic performance and causes euphoria.\" — Hawkins National Laboratory",
     "imgUrl": "/images/IconAddon_redMoss.png",
     "role": "killer",
     "itemOrPowerName": "Of the Abyss",

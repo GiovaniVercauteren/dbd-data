@@ -98,6 +98,13 @@
     "origin": "Aestri"
   },
   {
+    "name": "Best Gift Ever",
+    "description": "Best Gift Ever starts the Trial with 4/5/6 Tokens:The first time you drop an Item of each type, spend 1 Token to cause the dropped to be consumed by The Entity and benefit from an effect based on the Item:\nFlashlights: stunning the Killer causes them to be blinded for 2 seconds.\nFog Vials: fast-vaulting causes your Scratch Marks to disappear +50 % faster for 5 seconds.\nKeys: you can rummage each Chest once.\nMaps: you see auras that last for a duration for +1 second longer.\nMed-Kits: healing a Survivor causes you to gain healing progress at 25 % speed.\nToolboxes: you see auras of the 3 closest Generators.\n\"If a demon enters this world in the flesh, a counterpoint must be appointed to stop it from becoming too powerful.\" — Jonathan Shaw",
+    "imgUrl": "/images/thumb/T_UI_iconsPerks_BestGiftEver.png/96px-T_UI_iconsPerks_BestGiftEver.png",
+    "role": "survivor",
+    "origin": "Sienna"
+  },
+  {
     "name": "Better Together",
     "description": "\"You seek justice and uncover the truth no matter what obstacle stands in your way.\"\nWhile repairing any Generator, you and the other Survivors benefit from the following primary effect:\nThe Aura of that Generator is revealed to all Survivors and highlighted in yellow.\nWhenever the Killer downs another Survivor while you are repairing, you benefit from the following secondary effect:\nThe Auras of all Survivors are revealed to you for 20/25/30 seconds.\n\"Let's burn that lab to the ground.\" — Nancy Wheeler",
     "imgUrl": "/images/thumb/IconPerks_betterTogether.png/96px-IconPerks_betterTogether.png",
@@ -987,6 +994,13 @@
     "origin": "Lee"
   },
   {
+    "name": "Shared Trauma",
+    "description": "Taking a protection hit causes you and all Survivors within 12 metres to recover from Exhausted while running for 30/35/40 seconds.You also see auras of Survivors suffering from Exhausted within 32 metres.\"What? I like her scars. I think they're cool.\" — Gabbie Shaw",
+    "imgUrl": "/images/thumb/T_UI_iconsPerks_SharedTrauma.png/96px-T_UI_iconsPerks_SharedTrauma.png",
+    "role": "survivor",
+    "origin": "Sienna"
+  },
+  {
     "name": "Shoulder the Burden",
     "description": "\"Born to be a disciple. Ready to submit to a greater cause. This is your calling.\"\nOnce per Trial, and while you are not on Death Hook, press the Active Ability button while standing in front of a Hooked Survivor to unhook them and trigger the following effects:\nTrade 1 Hook Stage with the other Survivor to their benefit.\nCauses you to scream, become injured if healthy and suffer from the Broken Status Effect for 160/140/120 seconds.\n\"It's not your time yet. Now go on!\" — Taurie Cain",
     "imgUrl": "/images/thumb/IconPerks_shoulderTheBurden.png/96px-IconPerks_shoulderTheBurden.png",
@@ -1174,6 +1188,13 @@
     "imgUrl": "/images/thumb/IconPerks_urbanEvasion.png/96px-IconPerks_urbanEvasion.png",
     "role": "survivor",
     "origin": "Nea"
+  },
+  {
+    "name": "Valkyrie's Rage",
+    "description": "Valkyrie's Rage activates after being chased for 40/35/30 seconds:\nThe next time you Pallet-stun the Killer, they are stunned for +75 % longer.\nValkyrie's Rage then deactivates.\n\"I hope that hurt, fucker!\" — Sienna Shaw",
+    "imgUrl": "/images/thumb/T_UI_iconsPerks_ValkyriesRage.png/96px-T_UI_iconsPerks_ValkyriesRage.png",
+    "role": "survivor",
+    "origin": "Sienna"
   },
   {
     "name": "Vigil",
@@ -1547,6 +1568,13 @@
     "origin": "Good Guy"
   },
   {
+    "name": "Funny Business",
+    "description": "Damaging a Generator grants +10 % Haste Status Effect for 10 seconds and triggers one random effect:\nRetain the Haste effect for 5 seconds longer.\nGet stunned for 2 seconds.\nBlock the Generator for 30 seconds.\nThe Generator spews out confetti! But nothing actually happens.\nThe same effect cannot happen twice in a rowThis perk then goes on a 60/50/40 seconds cool-down.\"Glass, insects, and razor blades—there's no telling what you might find.\" — Clown Cafe Announcer",
+    "imgUrl": "/images/thumb/T_UI_iconsPerks_FunnyBusiness.png/96px-T_UI_iconsPerks_FunnyBusiness.png",
+    "role": "killer",
+    "origin": "Terrifier"
+  },
+  {
     "name": "Furtive Chase",
     "description": "\"You lurk in the shadows, eliminating your victims one by one.\"\nAfter hooking the Obsession, you benefit from the following effects for 14/16/18 seconds:\nGrants the Undetectable Status Effect.\nGrants a +10 % Haste Status Effect.\nWhenever the Obsession is unhooked by another Survivor, the Obsession Status transfers to their Rescuer.You can only be obsessed with one Survivor at a time.\n\"You have no idea what I have planned for you. It'll be in the news for weeks. I'll make sure of that.\" — The Ghost Face",
     "imgUrl": "/images/thumb/IconPerks_furtiveChase.png/96px-IconPerks_furtiveChase.png",
@@ -1820,6 +1848,13 @@
     "origin": "All"
   },
   {
+    "name": "Kill Spree",
+    "description": "When all Survivors have reached the second Hook Stage and all Generators have been completed, you can kill Survivors.While Killing a Survivor, Exit Gate Switches are blocked by The Entity and for 6/8/10 seconds after.\"He’s killing them, one by one by one like cows.\" — Cat Lady",
+    "imgUrl": "/images/thumb/T_UI_iconsPerks_KillSpree.png/96px-T_UI_iconsPerks_KillSpree.png",
+    "role": "killer",
+    "origin": "Terrifier"
+  },
+  {
     "name": "Knock Out",
     "description": "\"The trauma caused by your brutal attacks makes crying for help painfully difficult.\"\nWhenever a Survivor moves farther than 10 metres from a Pallet within 6 seconds of dropping it and without the Pallet being destroyed, Knock Out triggers its effect:\nCauses them to suffer from a -20 % Hindered Status Effect for 2/3/4 seconds.\n\"Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way.\" — Nubbins Sawyer",
     "imgUrl": "/images/thumb/IconPerks_knockOut.png/96px-IconPerks_knockOut.png",
@@ -1832,6 +1867,13 @@
     "imgUrl": "/images/thumb/IconPerks_languidTouch.png/96px-IconPerks_languidTouch.png",
     "role": "killer",
     "origin": "Lich"
+  },
+  {
+    "name": "Laughingstock",
+    "description": "Survivors within 12 metres of a completed Generator suffer from:\nExhausted and Oblivious Status Effects\nThese effects linger for 3/4/5 seconds after leaving the range.You also see auras of completed Generators.\"Are you fucking kidding me? No, you’re not fine, you are so completely far from fine right now.\" — Brooke",
+    "imgUrl": "/images/thumb/T_UI_iconsPerks_Laughingstock.png/96px-T_UI_iconsPerks_Laughingstock.png",
+    "role": "killer",
+    "origin": "Terrifier"
   },
   {
     "name": "Lay Waste",

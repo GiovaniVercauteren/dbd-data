@@ -262,5 +262,11 @@
     "realName": "Judgment",
     "imgUrl": "/images/K44_TheJudgment_Portrait.png",
     "power": "Will of the Gods"
+  },
+  {
+    "name": "The Terrifier",
+    "realName": "Art The Clown",
+    "imgUrl": "/images/K45_TheTerrifier_Portrait.png",
+    "power": ""
   }
 ]
