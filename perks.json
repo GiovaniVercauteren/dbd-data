@@ -932,7 +932,7 @@
   },
   {
     "name": "Road Life",
-    "description": "\"Faulty amps, sweaty dives, broken-down vans... nothing makes you feel more alive.\"\nWhile injured and repairing a Generator, regular Skill Checks have the following effects:\nGain +1 Token for Great Repair Skill Checks.\nGain 0 Tokens for Good Repair Skill Checks.\nLose -1 Token for Failed Repair Skill Checks.\nOnce you accumulate 6/5/4 Tokens, consume all Tokens to benefit from the following effect:\nUnlocks the ability to self-heal. This self-heal interaction is +10 % faster.\nRoad Life deactivates 4 seconds after you stop the self-healing interaction.\n\"Remind me to teach you how to patch your own pedals, Krit.\" — Vee Boonyasak",
+    "description": "\"Faulty amps, sweaty dives, broken-down vans... nothing makes you feel more alive.\"\nWhile injured and repairing a Generator, regular Skill Checks have the following effects:\nGain +1 Token for Great Repair Skill Checks.\nGain 0 Tokens for Good Repair Skill Checks.\nLose -1 Token for Failed Repair Skill Checks.\nOnce you accumulate 6/5/4 Tokens, consume all Tokens to benefit from the following effect:\nUnlocks the ability to self-heal. You also self-heal +10 % faster.\nRoad Life deactivates 4 seconds after you stop self-healing.\n\"Remind me to teach you how to patch your own pedals, Krit.\" — Vee Boonyasak",
     "imgUrl": "/images/thumb/IconPerks_RoadLife.png/96px-IconPerks_RoadLife.png",
     "role": "survivor",
     "origin": "Vee"
@@ -1849,7 +1849,7 @@
   },
   {
     "name": "Kill Spree",
-    "description": "When all Survivors have reached the second Hook Stage and all Generators have been completed, you can kill Survivors.While Killing a Survivor, Exit Gate Switches are blocked by The Entity and for 6/8/10 seconds after.\"He’s killing them, one by one by one like cows.\" — Cat Lady",
+    "description": "When all Survivors have reached the second Hook Stage and all Generators have been completed, you can kill Survivors.While killing a Survivor, Exit Gate Switches are blocked by The Entity and for 6/8/10 seconds after.\"He’s killing them, one by one by one like cows.\" — Cat Lady",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_KillSpree.png/96px-T_UI_iconsPerks_KillSpree.png",
     "role": "killer",
     "origin": "Terrifier"
