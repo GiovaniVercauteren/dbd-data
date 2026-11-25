@@ -9,7 +9,7 @@
   },
   {
     "name": "Fingerless Parade Gloves",
-    "description": "\"Part of the standard Clown apparel, the cut fingers allow for dexterous manipulations.\"\nModifies the Bottles with the following effects:\nIncreases their Throw speed by #effect(1).\nReduces their Throw angle by #effect(2).",
+    "description": "\"Part of the standard Clown apparel, the cut fingers allow for dexterous manipulations.\"\nModifies the Bottles with the following effects:\nIncreases their Throw speed by +25 %.\nReduces their Throw angle by -15 °.",
     "imgUrl": "/images/IconAddon_fingerlessParadeGloves.png",
     "role": "killer",
     "itemOrPowerName": "The Afterpiece Tonic",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Brooke's Pustule",
-    "description": "\"A weeping blister that bubbled as acid ate through Brooke's face.\"\nWhile standing in the Acid Puddle and for 5 seconds after, increase basic-breaking speed of Pallets and Breakable Walls by +25 %.\nWhen you apply Torture, the next Bag of Toys search is guaranteed to contain the Acid Bottle.",
+    "description": "\"A weeping blister that bubbled as acid ate through Brooke's face.\"\nIncreases the size of the Acid Puddle up to +100 % based on the distance the Acid Bottle traveled, reaching the maximum at 6 metres.\nWhen you apply Torture, the next Bag of Toys search is guaranteed to contain the Acid Bottle.",
     "imgUrl": "/images/T_UI_iconAddon_BrooksPustule.png",
     "role": "killer",
     "itemOrPowerName": "Bag of Toys",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Explosive Gift",
-    "description": "\"A disarmingly joyful gift that's sure to be a blast.\"\nFor each Toy with maximum Deadliness, reduce your Terror Radius size by -20 %.",
+    "description": "\"A disarmingly joyful gift that's sure to be a blast.\"\nFor each Toy with maximum Deadliness, reduce your Terror Radius size by -12 %.",
     "imgUrl": "/images/T_UI_iconAddon_ExplosiveGift.png",
     "role": "killer",
     "itemOrPowerName": "Bag of Toys",
@@ -297,7 +297,7 @@
   },
   {
     "name": "Jonathan's Skull",
-    "description": "\"The bespectacled skull of Sienna's brother. Hilarious!\"\nDamaging or Torturing a Survivor with a Toy grants 1 Token, up to 10 Tokens.\nManually Taunting consumes all Tokens then, if at least 1 Token was consumed, reveal all Survivor auras within 8 metres plus +2 metres per Token for 6 seconds.",
+    "description": "\"The bespectacled skull of Sienna's brother. Hilarious!\"\nDamaging or Torturing a Survivor with a Toy grants 1 Token, up to 5 Tokens.\nManually Taunting consumes all Tokens then, if at least 1 Token was consumed, reveal all Survivor auras within 10 metres plus +5 metres per Token for 6 seconds.",
     "imgUrl": "/images/T_UI_iconAddon_JonathansSkull.png",
     "role": "killer",
     "itemOrPowerName": "Bag of Toys",
@@ -313,7 +313,7 @@
   },
   {
     "name": "Duct Tape",
-    "description": "\"Made for restraining victims but could probably be used to keep things in place.\"\nEquipping a Toy within 0.5 seconds of opening the Bag of Toys reduces its cool-down by -5 seconds.",
+    "description": "\"Made for restraining victims but could probably be used to keep things in place.\"\nEquipping a Toy within 0.5 seconds of opening the Bag of Toys reduces its cool-down by -4 seconds.",
     "imgUrl": "/images/T_UI_iconAddon_DuctTape.png",
     "role": "killer",
     "itemOrPowerName": "Bag of Toys",
@@ -4809,7 +4809,7 @@
   },
   {
     "name": "Inferno Wires",
-    "description": "Burnt wires form the studio fire that killed four of the five NO SPIN members.Their deaths gave rise to The Trickster.\nIncreases the decay time of S-Rank by 20 %.",
+    "description": "Burnt wires form the studio fire that killed four of the five NO SPIN members.Their deaths gave rise to The Trickster.\nIncreases the decay time of S-Rank by +20 %.",
     "imgUrl": "/images/IconAddon_infernoWires.png",
     "role": "killer",
     "itemOrPowerName": "Showstopper",
@@ -4849,7 +4849,7 @@
   },
   {
     "name": "Caged Heart Shoes",
-    "description": "Shoes that Ji-Woon wore during the music video for One Caged Heart.Allows for smooth, graceful movements of the point dance.\nWhen you basic-break Pallets and Breakable Walls or damage Generators, the next time you enter Throw State, increase movement speed while in the Throw State by 5% for 10 seconds.",
+    "description": "Shoes that Ji-Woon wore during the music video for One Caged Heart.Allows for smooth, graceful movements of the point dance.\nWhen you basic-break Pallets and Breakable Walls or damage Generators, the next time you enter Throw State, increase movement speed while in the Throw State by +5 % for 10 seconds.",
     "imgUrl": "/images/IconAddon_cagedHeartShoes.png",
     "role": "killer",
     "itemOrPowerName": "Showstopper",

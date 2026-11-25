@@ -253,7 +253,7 @@
   },
   {
     "name": "Calm Spirit",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.3.0\"Animals seem to trust you as they often stay calm in your presence.\"\nYou experience the following effects during a Trial:\nNearby Crows no longer fly off and alert others to your presence, unless you come within touching distance.\nSuppresses the urge to scream from any cause at all times.\nSuppresses all noises related to interacting with the following Props:\nChests\nTotems\nIncreases the Action speeds for Blessing, Cleansing, and Unlocking by 23/24/25 %.",
+    "description": "\"Animals seem to trust you as they often stay calm in your presence.\"\nYou experience the following effects during a Trial:\nNearby Crows no longer fly off and alert others to your presence, unless you come within touching distance.\nSuppresses the urge to scream from any cause at all times.\nSuppresses all noises related to interacting with the following Props:\nChests\nTotems\nIncreases the Action speeds for Blessing, Cleansing, and Unlocking by 23/24/25 %.",
     "imgUrl": "/images/thumb/IconPerks_calmSpirit.png/96px-IconPerks_calmSpirit.png",
     "role": "survivor",
     "origin": "Jake"
@@ -351,7 +351,7 @@
   },
   {
     "name": "Dark Sense",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.3.0Unlocks potential in your Aura-reading ability.Dark Sense starts with and gains 1 Token whenever a Generator is completed. Dark Sense can hold up to 5 Tokens at once.\nWhen the Killer gets within 24 metres of you, Dark Sense consumes 1 Token and activates for 13/14/15 seconds:\nYou see the Killer's aura.\nYou see auras of other Survivors.\nYou see the auras of Pallets and Windows within 32 metres.\nDark Sense deactivates after use.\n\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" — Murf, The Lost Tapes",
+    "description": "Unlocks potential in your Aura-reading ability.Dark Sense starts with and gains 1 Token whenever a Generator is completed. Dark Sense can hold up to 5 Tokens at once.\nWhen the Killer gets within 24 metres of you, Dark Sense consumes 1 Token and activates for 13/14/15 seconds:\nYou see the Killer's aura.\nYou see auras of other Survivors.\nYou see the auras of Pallets and Windows within 32 metres.\nDark Sense deactivates after use.\n\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" — Murf, The Lost Tapes",
     "imgUrl": "/images/thumb/IconPerks_darkSense.png/96px-IconPerks_darkSense.png",
     "role": "survivor",
     "origin": "All"
@@ -505,7 +505,7 @@
   },
   {
     "name": "Five Moves Ahead",
-    "description": "This perk activates while you are being chased by the Killer or are inside the Killer's Terror Radius:\nAfter you drop a Pallet, you start moving 50 % earlier.\nSee the auras of the 5 closest Pallets.\nThis perk goes on a 40/35/30 seconds cool-down when you drop a Pallet while this perk is activated.\n\"Every problem has a solution. It’s only a question of complexity.\" — Kwon Tae-young",
+    "description": "Five Moves Ahead activates while you are being chased by the Killer or are inside the Killer's Terror Radius:\nAfter you drop a Pallet, you start moving 50 % earlier.\nSee the auras of the 5 closest Pallets.\nFive Moves Ahead goes on a 40/35/30 seconds cool-down when you drop a Pallet.\n\"Every problem has a solution. It’s only a question of complexity.\" — Kwon Tae-young",
     "imgUrl": "/images/thumb/IconsPerks_FiveMovesAhead.png/96px-IconsPerks_FiveMovesAhead.png",
     "role": "survivor",
     "origin": "Kwon"
@@ -666,7 +666,7 @@
   },
   {
     "name": "Lend a Hand",
-    "description": "Cleansing or Blessing a Totem activates this perk:\nOnce per Survivor, while healing a Survivor, press Activate Ability 2 to give the healed Survivor 2/3/4  permanent healing charges.\n\"Walk it off, will you? We still have work to do.\" — Shane Wiigwaas",
+    "description": "Cleansing or Blessing a Totem activates Lend a Hand:\nOnce per Survivor, while healing a Survivor, press Activate Ability 2 to give the healed Survivor 2/3/4  permanent healing charges.\n\"Walk it off, will you? We still have work to do.\" — Shane Wiigwaas",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_LendaHand.png/96px-T_UI_iconsPerks_LendaHand.png",
     "role": "survivor",
     "origin": "Shane"
@@ -764,7 +764,7 @@
   },
   {
     "name": "Off the Record",
-    "description": "\"You have learnt that a quiet approach is sometimes best.\"\nAfter being unhooked or unhooking yourself, Off the Record activates for 30/35/40 seconds:\nBlocks your Aura from being revealed.\nSuppresses your Grunts of Pain while in the Injured State.\nSuppresses the creation of your Scratch Marks.\nGrants the Endurance Status Effect.\nEndurance is cancelled prematurely when performing a Conspicuous Action of any kind.\nOff the Record deactivates prematurely and is disabled for the remainder of the Trial upon powering the Exit Gates.\n\"Trust me, I investigate thoroughly and discreetly.\" — Zarina Kassir",
+    "description": "\"You have learnt that a quiet approach is sometimes best.\"\nAfter being unhooked or unhooking yourself, Off the Record activates for 30/35/40 seconds:\nBlocks your Aura from being revealed.\nSuppresses your Grunts of Pain while in the Injured State.\nGrants the Endurance Status Effect.\nEndurance is cancelled prematurely when performing a Conspicuous Action of any kind.\nOff the Record deactivates prematurely and is disabled for the remainder of the Trial upon powering the Exit Gates.\n\"Trust me, I investigate thoroughly and discreetly.\" — Zarina Kassir",
     "imgUrl": "/images/thumb/IconPerks_offTheRecord.png/96px-IconPerks_offTheRecord.png",
     "role": "survivor",
     "origin": "Zarina"
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "Slippery Meat",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.3.0You have developed an efficient way to get off Hooks.\nOther Survivors unhook you 65/70/75 % faster.\nIncreases the Haste granted by Unhook Protections by +7 %.",
+    "description": "You have developed an efficient way to get off Hooks.\nOther Survivors unhook you 65/70/75 % faster.\nIncreases the Haste granted by Unhook Protections by +7 %.",
     "imgUrl": "/images/thumb/IconPerks_slipperyMeat.png/96px-IconPerks_slipperyMeat.png",
     "role": "survivor",
     "origin": "All"
@@ -1380,7 +1380,7 @@
   },
   {
     "name": "Celestial Witness",
-    "description": "Every 30 seconds, if the Obsession is 40 metres away from you, you see their aura for 2/2.5/3 seconds. Otherwise, the farthest Survivor becomes the Obsession.\n\"And so the heretics huddled, cowardly, in the night; but upon Judgment’s arrival, It saw them all, and punished them.\" — (Witness to Koenrad, ch. 32)",
+    "description": "Every 30 seconds, if the Obsession is 40 metres away from you, you see their aura for 2/2.5/3 seconds.Otherwise, the farthest Survivor becomes the Obsession.\n\"And so the heretics huddled, cowardly, in the night; but upon Judgment’s arrival, It saw them all, and punished them.\" — (Witness to Koenrad, ch. 32)",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_CelestialWitness.png/96px-T_UI_iconsPerks_CelestialWitness.png",
     "role": "killer",
     "origin": "Judgment"
@@ -1422,7 +1422,7 @@
   },
   {
     "name": "Dark Arrogance",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.3.0\"When everything is going right, you are an inescapable inevitability.\"\nPermanently benefit from the following effects: \nIncreases the Vaulting speed by +15 %.\nIncreases successful basic-attack recovery speed by 13/14/15 %.\nPermanently suffer from the following effects:\nReduces the Recovery speed of missed basic-attacks by -15 %.\nReduces the Recovery speed from Pallet Stuns by -15 %.\nIncreases the duration of Killer Blinds by +15 %.\n\"Run all you want. I will not be denied.\" — Vecna",
+    "description": "\"When everything is going right, you are an inescapable inevitability.\"\nPermanently benefit from the following effects: \nIncreases the Vaulting speed by +15 %.\nIncreases successful basic-attack recovery speed by 13/14/15 %.\nPermanently suffer from the following effects:\nReduces the Recovery speed from Pallet Stuns by -15 %.\nIncreases the duration of Killer Blinds by +15 %.\n\"Run all you want. I will not be denied.\" — Vecna",
     "imgUrl": "/images/thumb/IconPerks_darkArrogance.png/96px-IconPerks_darkArrogance.png",
     "role": "killer",
     "origin": "Lich"
@@ -1849,7 +1849,7 @@
   },
   {
     "name": "Kill Spree",
-    "description": "When all Survivors have reached the second Hook Stage and all Generators have been completed, you can kill Survivors.While killing a Survivor, Exit Gate Switches are blocked by The Entity and for 6/8/10 seconds after.\"He’s killing them, one by one by one like cows.\" — Cat Lady",
+    "description": "When all Survivors have reached the second Hook Stage and all Generators have been completed, you can kill Survivors.While killing a Survivor, Exit Gate Switches are blocked by The Entity and for 12/18/20 seconds after.\"He’s killing them, one by one by one like cows.\" — Cat Lady",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_KillSpree.png/96px-T_UI_iconsPerks_KillSpree.png",
     "role": "killer",
     "origin": "Terrifier"
@@ -1870,7 +1870,7 @@
   },
   {
     "name": "Laughingstock",
-    "description": "Survivors within 12 metres of a completed Generator suffer from:\nExhausted and Oblivious Status Effects\nThese effects linger for 3/4/5 seconds after leaving the range.You also see auras of completed Generators.\"Are you fucking kidding me? No, you’re not fine, you are so completely far from fine right now.\" — Brooke",
+    "description": "Survivors within 12 metres of a completed Generator suffer from:\nExhausted and Oblivious Status Effects\nThese effects linger for 3/4/5 seconds.You also see auras of completed Generators.\"Are you fucking kidding me? No, you’re not fine, you are so completely far from fine right now.\" — Brooke",
     "imgUrl": "/images/thumb/T_UI_iconsPerks_Laughingstock.png/96px-T_UI_iconsPerks_Laughingstock.png",
     "role": "killer",
     "origin": "Terrifier"
@@ -2059,7 +2059,7 @@
   },
   {
     "name": "Ravenous",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.3.0\"The scent of blood is in the air.Time to feast.\"\nWhenever you hook a Survivor for the first time, Ravenous gains +1 Token, up to a maximum of 4 Tokens.For each Token:\nGrants +4 % Haste Status Effect while carrying a Survivor.\nIncreases your hooking speed by +4 %.\nOnce you accumulate 4 Tokens, all Survivors suffer from the following effects:\nCauses them to scream.\nInflicts the Exposed Status Effect for 60/65/70 seconds.\n\"Weeping Ginevra's blood streams/The devil smells the weak.\" — Fabbro Barone's \"Ginevra\"",
+    "description": "\"The scent of blood is in the air.Time to feast.\"\nWhenever you hook a Survivor for the first time, Ravenous gains +1 Token, up to a maximum of 4 Tokens.For each Token:\nGrants +4 % Haste Status Effect while carrying a Survivor.\nIncreases your hooking speed by +4 %.\nOnce you accumulate 4 Tokens, all Survivors suffer from the following effects:\nCauses them to scream.\nInflicts the Exposed Status Effect for 60/65/70 seconds.\n\"Weeping Ginevra's blood streams/The devil smells the weak.\" — Fabbro Barone's \"Ginevra\"",
     "imgUrl": "/images/thumb/IconPerks_Ravenous.png/96px-IconPerks_Ravenous.png",
     "role": "killer",
     "origin": "Krasue"
@@ -2108,7 +2108,7 @@
   },
   {
     "name": "Scourge Hook: Monstrous Shrine",
-    "description": "\"Your fervent care of the Hooks found in the Basement has aroused The Entity's interest.\"\nAt the start of the Trial, the 4 Hooks located inside the Basement and an additional 4 Hooks located throughout the Trial Grounds are all changed into Scourge Hooks:\nThe Auras of Scourge Hooks are highlighted to you in white.\nWhenever you are farther than 24 metres from a Survivor hooked onto a Scourge Hook, the following effect applies:\nAll Generators regress at 150/175/200 % of the default Regression rate.\n\"Then you will know that there is no escape. When hanging in the depths, you face the dark one.\"",
+    "description": "\"Your fervent care of the Hooks found in the Basement has aroused The Entity's interest.\"\nAt the start of the Trial, the 4 Hooks located inside the Basement and an additional 4 Hooks located throughout the Trial Grounds are all changed into Scourge Hooks:\nThe Auras of Scourge Hooks are highlighted to you in white.\nWhenever you are farther than 24 metres from a Survivor hooked onto a Scourge Hook, the following effect applies:\nAll Generators regress at +200 % of the default Regression rate.\nThis persists for 20/25/30 seconds after the Survivor is unhooked.\n\"Then you will know that there is no escape. When hanging in the depths, you face the dark one.\"",
     "imgUrl": "/images/thumb/IconPerks_scourgeHookMonstrousShrine.png/96px-IconPerks_scourgeHookMonstrousShrine.png",
     "role": "killer",
     "origin": "All"
@@ -2339,7 +2339,7 @@
   },
   {
     "name": "Whispers",
-    "description": "This description is based on the changes announced for or featured in the upcoming Patch 10.3.0\"You have a rudimentary understanding of The Entity's voice.\"\nWhenever any Survivor is within 28/26/24 metres of your location:\nCauses you to hear the sporadic whispers of The Entity, indicating a Survivor's presence.\nWhenever any Survivor is outside 28/26/24 metres of your location:\nGain +7 % Haste Status Effect.\n\"It is unclear as to the motivations of The Fog, but it is undeniable that it often takes the beast's side.\" — Unknown, Notebook",
+    "description": "\"You have a rudimentary understanding of The Entity's voice.\"\nWhenever any Survivor is within 28/26/24 metres of your location:\nCauses you to hear the sporadic whispers of The Entity, indicating a Survivor's presence.\nWhenever any Survivor is outside 28/26/24 metres of your location:\nGain +7 % Haste Status Effect.\n\"It is unclear as to the motivations of The Fog, but it is undeniable that it often takes the beast's side.\" — Unknown, Notebook",
     "imgUrl": "/images/thumb/IconPerks_whispers.png/96px-IconPerks_whispers.png",
     "role": "killer",
     "origin": "All"
